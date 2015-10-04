@@ -1,7 +1,3 @@
-/**
- *
- * Created by malai on 8/31/2015.
- */
 var Hapi = require("hapi");
 
 var server = new Hapi.Server();
