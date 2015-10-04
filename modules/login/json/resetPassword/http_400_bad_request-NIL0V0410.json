@@ -1,0 +1,9 @@
+{
+  "faultMessage": {
+    "code": "NIL0V0410",
+    "text": "Invalid mTAN",
+    "detailedText": null,
+    "severity": "E",
+    "type": "ValidationError"
+  }
+}

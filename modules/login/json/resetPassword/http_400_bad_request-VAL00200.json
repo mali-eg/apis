@@ -1,0 +1,9 @@
+{
+  "faultMessage": {
+    "code": "VAL00200",
+    "text": "credentialVBO complex element should be provided",
+    "detailedText": null,
+    "severity": "E",
+    "type": "ValidationError"
+  }
+}

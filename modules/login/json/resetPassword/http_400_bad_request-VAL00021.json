@@ -1,0 +1,9 @@
+{
+  "faultMessage": {
+    "code": "VAL00021",
+    "text": "contentType should be provided",
+    "detailedText": null,
+    "severity": "E",
+    "type": "ValidationError"
+  }
+}

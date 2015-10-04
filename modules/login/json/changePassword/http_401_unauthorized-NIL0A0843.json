@@ -1,0 +1,9 @@
+{
+  "faultMessage": {
+    "code": "NIL0A0843",
+    "text": "Max mTAN entry attempts has been reached",
+    "detailedText": null,
+    "severity": "E",
+    "type": "AuthenticationError"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "faultMessage": {
+    "code": "VAL00113",
+    "text": "username should be provided",
+    "detailedText": null,
+    "severity": "E",
+    "type": "ValidationError"
+  }
+}

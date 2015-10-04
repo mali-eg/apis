@@ -1,0 +1,9 @@
+{
+  "faultMessage": {
+    "code": "NIL0A0834",
+    "text": "User session has expired",
+    "detailedText": null,
+    "severity": "E",
+    "type": "AuthenticationError"
+  }
+}

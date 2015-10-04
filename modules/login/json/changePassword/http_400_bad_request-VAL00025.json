@@ -1,0 +1,9 @@
+{
+  "faultMessage": {
+    "code": "VAL00025",
+    "text": "Invalid callingApplication, does not match valid pattern",
+    "detailedText": null,
+    "severity": "E",
+    "type": "ValidationError"
+  }
+}

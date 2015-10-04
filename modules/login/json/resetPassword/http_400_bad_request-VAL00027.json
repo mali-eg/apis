@@ -1,0 +1,9 @@
+{
+  "faultMessage": {
+    "code": "VAL00027",
+    "text": "callingApplication should be provided",
+    "detailedText": null,
+    "severity": "E",
+    "type": "ValidationError"
+  }
+}

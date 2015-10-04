@@ -1,0 +1,9 @@
+{
+  "faultMessage": {
+    "code": "VAL02002",
+    "text": "new password must be provided",
+    "detailedText": null,
+    "severity": "E",
+    "type": "ValidationError"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "faultMessage": {
+    "code": "VAL02001",
+    "text": "old password must be provided",
+    "detailedText": null,
+    "severity": "E",
+    "type": "ValidationError"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "faultMessage": {
+    "code": "VAL00023",
+    "text": "Invalid transactionName, does not match valid pattern",
+    "detailedText": null,
+    "severity": "E",
+    "type": "ValidationError"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "faultMessage": {
+    "code": "NIL0T0500",
+    "text": "An error has occurred, service is unavailable. check log for more information",
+    "detailedText": null,
+    "severity": "E",
+    "type": "TechnicalError"
+  }
+}

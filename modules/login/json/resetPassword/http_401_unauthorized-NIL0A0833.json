@@ -1,0 +1,9 @@
+{
+  "faultMessage": {
+    "code": "NIL0A0833",
+    "text": "User does not exist or not active",
+    "detailedText": null,
+    "severity": "E",
+    "type": "AuthenticationError"
+  }
+}

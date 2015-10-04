@@ -1,0 +1,9 @@
+{
+  "faultMessage": {
+    "code": "VAL02020",
+    "text": "username should be provided",
+    "detailedText": null,
+    "severity": "E",
+    "type": "ValidationError"
+  }
+}
