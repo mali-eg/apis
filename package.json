@@ -11,5 +11,8 @@
   "dependencies": {
     "hapi": "^9.0.3",
     "inert": "^3.0.1"
+  },
+  "devDependencies": {
+    "boom": "^2.9.0"
   }
 }

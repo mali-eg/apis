@@ -2,26 +2,37 @@
  * Created by USER on 8/31/2015.
  */
 var Boom = require("Boom");
+var fs = require('fs');
 var Handlers = {};
 
 Handlers.sendTANHandler = function(request, reply){
 
     console.log("in sendTANHandler");
-    var file = 'modules/login/json/resetPassword/'+ request.query.username + '.json';
-    var respData = file.toJSON();
-    if(respData.statusCode !== 200){
-        var error = Boom.badRequest('Unsupported parameter')
+    var filePath = "modules/login/json/resetPassword/"+ request.query.username + ".json";
+
+    reply(respHandler(filePath));
+};
+
+function respHandler(path){
+    console.log('filePath:' + path);
+    var file = fs.readFileSync(path);
+    var respData = JSON.parse(file);
+    var statusCode = respData.statusCode;
+    delete respData.statusCode;
+    if(statusCode !== 200) {
+        console.log("error type detected, returning fault message");
+        var error = Boom.badRequest('Unsupported parameter');
         error.reformat();
-        error.output.statusCode = respData.statusCode;
-        delete respData.statusCode;
+        error.output.statusCode = statusCode;
+
         error.output.payload = respData;
-        return reply(error);
+        return error;
+    }else{
+        console.log("statusCode 200 detected, returning VBO");
+        return respData;
     }
 
-
-    console.log('retrieving file: ' + file);
-    reply.file(file);
-};
+}
 
 
 module.exports = Handlers;
