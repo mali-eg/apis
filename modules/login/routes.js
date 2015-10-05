@@ -3,6 +3,16 @@
  */
 var Handlers = require('./handlers');
 
+var responseModel = {
+    "successMessage": {
+        "code": null,
+        "text": "The password has been changed",
+        "detailedText": null,
+        "severity": null,
+        "type": "Success"
+    }
+};
+
 var LoginRoutes = [
     {
         method: 'GET',
@@ -14,9 +24,15 @@ var LoginRoutes = [
         }
     },
     {
-        path: '/resetPassword',
         method: 'GET',
-        handler:Handlers.sendTANHandler
+        path: '/resetPassword',
+        config: {
+            handler: Handlers.sendTANHandler,
+            description: 'resetPassword API',
+            notes: 'used for first TAN step',
+            tags: ['api', 'login'],
+            response: {schema: responseModel}
+        }
     }
 ];
 

@@ -1,10 +1,25 @@
 var Hapi = require("hapi");
+Inert           = require('inert'),
+Vision          = require('vision'),
+HapiSwagger     = require('hapi-swagger'),
+Pack            = require('./package');
 
 var server = new Hapi.Server();
 
 server.connection({port:8080});
 
-server.register(require('inert'), function (err) {
+var swaggerOptions = {
+    apiVersion: Pack.version
+};
+
+server.register([
+    Inert,
+    Vision,
+    {
+        register: HapiSwagger,
+        options: swaggerOptions
+    }
+], function (err) {
 
     var routes = require('./modules/routes-index');
 

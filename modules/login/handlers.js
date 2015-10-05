@@ -1,7 +1,3 @@
-/**
- * Created by USER on 8/31/2015.
- */
-
 var Util = require('../../Util');
 var Handlers = {};
 

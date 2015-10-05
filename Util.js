@@ -7,7 +7,13 @@ Util.getData = function(path){
     var file = fs.readFileSync(path);
     var respData = JSON.parse(file);
     var statusCode = respData.statusCode;
-    delete respData.statusCode;
+    if(statusCode){
+        delete respData.statusCode;
+    }else{
+        console.warn('No status code, defaults to 200');
+        statusCode = 200;
+    }
+
     if(statusCode !== 200) {
         console.log("error type detected, returning fault message");
         var error = Boom.badRequest('Unsupported parameter');

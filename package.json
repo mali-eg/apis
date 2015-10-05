@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "hapi": "^9.0.3",
-    "inert": "^3.0.1"
+    "hapi-swagger": "^2.0.0",
+    "inert": "^3.0.1",
+    "vision": "^3.0.0"
   },
   "devDependencies": {
     "boom": "^2.9.0"
