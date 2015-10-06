@@ -1,9 +1,0 @@
-{
-  "faultMessage": {
-    "code": "NIL0V0413",
-    "text": "New password does not meet criteria",
-    "detailedText": null,
-    "severity": "E",
-    "type": "ValidationError"
-  }
-}

@@ -21,7 +21,7 @@ server.register([
     }
 ], function (err) {
 
-    var routes = require('./modules/routes-index');
+    var routes = require('./data/routes-index');
 
     //var routes = [routes];
     if (err) {

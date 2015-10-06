@@ -1,9 +1,0 @@
-{
-  "faultMessage": {
-    "code": "NIL0V0422",
-    "text": "Invalid old password",
-    "detailedText": null,
-    "severity": "E",
-    "type": "ValidationError"
-  }
-}

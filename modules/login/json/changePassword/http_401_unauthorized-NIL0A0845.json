@@ -1,9 +1,0 @@
-{
-  "faultMessage": {
-    "code": "NIL0A0845",
-    "text": "User is currently not eligible for password change",
-    "detailedText": null,
-    "severity": "E",
-    "type": "AuthenticationError"
-  }
-}

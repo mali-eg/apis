@@ -1,9 +1,0 @@
-{
-  "faultMessage": {
-    "code": "NIL0A0842",
-    "text": "mTAN has expired ",
-    "detailedText": null,
-    "severity": "E",
-    "type": "AuthenticationError"
-  }
-}

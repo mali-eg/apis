@@ -1,9 +1,0 @@
-{
-  "faultMessage": {
-    "code": "VAL00014",
-    "text": "accept-charset should be UTF-8",
-    "detailedText": null,
-    "severity": "E",
-    "type": "ValidationError"
-  }
-}

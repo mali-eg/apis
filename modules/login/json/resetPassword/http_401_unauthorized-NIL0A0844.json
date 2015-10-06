@@ -1,9 +1,0 @@
-{
-  "faultMessage": {
-    "code": "NIL0A0844",
-    "text": "Invalid security token status",
-    "detailedText": null,
-    "severity": "E",
-    "type": "AuthenticationError"
-  }
-}

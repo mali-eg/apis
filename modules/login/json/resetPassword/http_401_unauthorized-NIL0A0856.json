@@ -1,9 +1,0 @@
-{
-  "faultMessage": {
-    "code": "NIL0A0856",
-    "text": "Expired mTAN. User has been dispatched max number of eligible mTANs. User account has been locked",
-    "detailedText": null,
-    "severity": "E",
-    "type": "AuthenticationError"
-  }
-}

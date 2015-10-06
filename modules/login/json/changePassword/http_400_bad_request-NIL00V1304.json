@@ -1,9 +1,0 @@
-{
-"faultMessage": {
-"code": "NIL00V1304",
-"text": "A Validation error occurred in UserAccountTask - PasswordChange Service",
-"detailedText": null,
-"severity": "E",
-"type": "ValidationError"
-}
-}
