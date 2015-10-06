@@ -1,0 +1,11 @@
+{
+  "statusCode":401,
+  "faultMessage": {
+    "code": "NIL00A001",
+    "text": "Invalid User, User is not authenticated",
+    "detailedText": null,
+    "severity": "E",
+    "type": "AuthenticationError"
+  }
+}
+
