@@ -2,8 +2,8 @@ var Handlers = require('./handlers');
 
 var routes = [
     {
-        method: 'GET',
-        path: '/captcha',
+        method: 'POST',
+        path: '/captchaGeneration',
         config: {
             handler: Handlers.captchaGenerationHandler,
             description: 'captchaGeneration API',

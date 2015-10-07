@@ -3,7 +3,7 @@ var Handlers = {};
 
 Handlers.captchaGenerationHandler = function(request, reply){
 
-    var filePath = __dirname+"/1.json";
+    var filePath = __dirname+"/8.json";
 
     reply(Util.getData(filePath));
 };
