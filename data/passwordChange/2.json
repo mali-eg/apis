@@ -1,5 +1,5 @@
 {
-  "statusCode":401,
+  "statusCode":200,
   "faultMessage": {
     "code": "NIL00A001",
     "text": "Invalid User, User is not authenticated",

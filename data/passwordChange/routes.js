@@ -2,7 +2,7 @@ var Handlers = require('./handlers');
 
 var routes = [
     {
-        method: 'GET',
+        method: 'POST',
         path: '/passwordChange',
         config: {
             handler: Handlers.passwordChangeHandler,

@@ -3,7 +3,7 @@ var Handlers = {};
 
 Handlers.passwordChangeHandler = function(request, reply){
 
-    var filePath = __dirname+"/"+request.query.username+".json";
+    var filePath = __dirname+"/2.json";
 
     reply(Util.getData(filePath));
 };

@@ -1,5 +1,5 @@
 {
-  "statusCode": 401,
+  "statusCode": 200,
   "faultMessage": {
     "code": "NIL00V1303",
     "text": "A Validation error occurred in UserAccountTask - PasswordReset Service",

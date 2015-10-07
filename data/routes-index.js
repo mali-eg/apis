@@ -24,6 +24,7 @@ var routes = [].concat(
     require('./mTANGeneration/routes'),
     require('./securityToken_Authentication/routes'),
     require('./passwordReset/routes'),
+    require('./passwordChange/routes'),
     require('./securityToken_mTANAuthentication/routes'),
     require('./userPermissionsAndProfile/routes')
 

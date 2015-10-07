@@ -5,7 +5,7 @@ Handlers.passwordResetHandler = function(request, reply){
 
     var payload = request.payload;
 
-    var filePath = __dirname+"/"+payload.credentialVBO.username+".json";
+    var filePath = __dirname+"/1.json";
 
     reply(Util.getData(filePath));
 };

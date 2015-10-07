@@ -2,7 +2,7 @@ var Handlers = require('./handlers');
 
 var routes = [
     {
-        method: 'GET',
+        method: 'POST',
         path: '/authenticate',
         config: {
             handler: Handlers.authenticateHandler,

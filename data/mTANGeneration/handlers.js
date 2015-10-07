@@ -3,8 +3,8 @@ var Handlers = {};
 
 Handlers.mTANGenerationHandler = function(request, reply){
 
-    var filePath = __dirname+"/"+request.query.username+".json";
-
+    //var filePath = __dirname+"/"+request.query.username+".json";
+    var filePath = __dirname+"/1.json";
     reply(Util.getData(filePath));
 };
 
