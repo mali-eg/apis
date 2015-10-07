@@ -1,9 +1,0 @@
-{
-  "successMessage": {
-    "code": null,
-    "text": "The password has been changed",
-    "detailedText": null,
-    "severity": null,
-    "type": "Success"
-  }
-}

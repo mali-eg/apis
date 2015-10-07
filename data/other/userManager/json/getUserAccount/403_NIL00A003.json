@@ -1,9 +1,0 @@
-{
-  "faultMessage": {
-    "code": "NIL00A003",
-    "text": "User is not authorized to perform this activity",
-    "detailedText": null,
-    "severity": "E",
-    "type": "AuthenticationError"
-  }
-}

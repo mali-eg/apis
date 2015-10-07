@@ -1,9 +1,0 @@
-{
-  "faultMessage": {
-    "code": "VAL00024",
-    "text": "Invalid transactionId, does not match valid pattern",
-    "detailedText": null,
-    "severity": "E",
-    "type": "ValidationError"
-  }
-}

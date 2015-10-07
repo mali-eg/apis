@@ -1,9 +1,0 @@
-{
-  "faultMessage": {
-    "code": "NIL00T1203",
-    "text": "A Technical error occurred in UserAccount - UserPermissionsAndProfile Service",
-    "detailedText": null,
-    "severity": "E",
-    "type": "TechnicalError"
-  }
-}

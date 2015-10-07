@@ -1,9 +1,0 @@
-{
-  "faultMessage": {
-    "code": "NIL0V0414",
-    "text": "Provided VOID is not valid for this user",
-    "detailedText": null,
-    "severity": "E",
-    "type": "ValidationError"
-  }
-}
