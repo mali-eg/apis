@@ -1,7 +1,7 @@
 var Util = require('../../Util');
 var Handlers = {};
 
-Handlers.captchaVerificationHandler = function(request, reply){
+Handlers.defaultHandler = function(request, reply){
 
     var filePath = __dirname+"/"+request.query.username+".json";
 

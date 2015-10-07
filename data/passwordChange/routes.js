@@ -5,7 +5,7 @@ var routes = [
         method: 'GET',
         path: '/passwordChange',
         config: {
-            handler: Handlers.passwordChangeHandler,
+            handler: Handlers.defaultHandler,
             description: 'mTANGeneration API',
             notes: 'used verify captcha',
             tags: ['api', 'mTANGeneration', 'login']
