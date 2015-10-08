@@ -1,0 +1,14 @@
+<div ng-switch on="status">
+    <div ng-switch-when="500" class="alert alert-error">
+        {{status}}
+        {{data}}
+    </div>
+    <div ng-switch-default>
+        <img ng-src="{{imageBase64}}"/>
+        <form ng-submit="submit()" ng-app="onepos" ng-controller="captchaController">
+		<input type="text" ng-model="text" id="captchaText"/>
+		<input type="submit"/>
+		<span>{{message}}</span>
+		</form>
+    </div>
+</div>
