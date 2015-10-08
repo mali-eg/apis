@@ -6,24 +6,18 @@
         "username": "max.mustermann@vodafone.com"
       },
       "roles": {
-        "voIDSequence": [
-          "12345678",
-          "87654321"
-        ],
         "accountHolder": {
           "active": true,
           "creationDate": "2015-06-13 12:35:45",
           "updateDate": "2015-04-22 02:30:40",
           "twoFactorFlag": true,
           "passwordExpiryDate": "2015-12-31 12:00:00",
-
-
-        "firstName": "Max",
-        "lastName": "Mustermann",
-        "emailAddress": "max.mustermann@vodafone.com",
-        "mtanPhoneNumber": "491725678976",
-        "defaultVoID": "12345678",
-        "lastLoginDate": "2015-04-22 02:30:40"
+          "firstName": "Max",
+          "lastName": "Mustermann",
+          "emailAddress": "max.mustermann@vodafone.com",
+          "mtanPhoneNumber": "491725678976",
+          "defaultVoID": "12345678",
+          "lastLoginDate": "2015-04-22 02:30:40"
       },
       "shopUser": {
         "shopName": "Vodafone Retail Shop",
