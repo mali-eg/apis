@@ -3,9 +3,9 @@ var Handlers = {};
 
 Handlers.defaultHandler = function(request, reply){
 
-    var payload = request.payload;
+    var username = request.payload.credentialVBO.username;
 
-    var filePath = __dirname+"/1.json";
+    var filePath = __dirname+"/"+username+".json";
 
     reply(Util.getData(filePath));
 };

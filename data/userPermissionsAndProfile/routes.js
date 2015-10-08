@@ -8,7 +8,7 @@ var routes = [
             handler: Handlers.defaultHandler,
             description: 'users API',
             notes: 'get user',
-            tags: ['api', 'login']
+            tags: ['api', 'login', 'dashboard']
             //response: {schema: responseModel}
         }
     }

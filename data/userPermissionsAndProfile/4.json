@@ -3,13 +3,9 @@
   "userAccountVBO": [
     {
       "credential": {
-        "username": "2"
+        "username": "4"
       },
       "roles": {
-        "voIDSequence": [
-          "12345678",
-          "87654321"
-        ],
         "accountHolder": {
           "active": true,
           "creationDate": "2015-06-13 12:35:45",

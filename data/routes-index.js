@@ -29,5 +29,5 @@ var routes = [].concat(
     require('./userPermissionsAndProfile/routes')
 
 );
-console.log("routes:"+routes);
+//console.log("routes:"+routes);
 module.exports = routes;

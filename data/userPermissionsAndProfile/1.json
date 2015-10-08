@@ -3,7 +3,7 @@
   "userAccountVBO": [
     {
       "credential": {
-        "username": "max.mustermann@vodafone.com"
+        "username": "1"
       },
       "roles": {
         "businessRole": "agent",
@@ -14,8 +14,6 @@
         "voIDSequence": [
           "12345678",
           "87654321"
-
-          }
         ],
         "accountHolder": {
           "active": true,
