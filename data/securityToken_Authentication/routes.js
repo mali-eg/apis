@@ -5,10 +5,10 @@ var routes = [
         method: 'POST',
         path: '/authenticate',
         config: {
-            handler: Handlers.authenticateHandler,
+            handler: Handlers.defaultHandler,
             description: 'authenticate API',
             notes: 'authenticate notes',
-            tags: ['api', 'authenticate', 'login']
+            tags: ['api', 'login']
             //response: {schema: responseModel}
         }
     }

@@ -5,7 +5,7 @@ var routes = [
         method: 'POST',
         path: '/mtan',
         config: {
-            handler: Handlers.mTANGenerationHandler,
+            handler: Handlers.defaultHandler,
             description: 'mTANGeneration API',
             notes: 'used verify captcha',
             tags: ['api', 'mTANGeneration', 'login']

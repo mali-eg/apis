@@ -5,7 +5,7 @@ var routes = [
         method: 'GET',
         path: '/user-accounts/captcha',
         config: {
-            handler: Handlers.captchaVerificationHandler,
+            handler: Handlers.defaultHandler,
             description: 'captchaVerification API',
             notes: 'used verify captcha',
             tags: ['api', 'captchaVerification', 'login']

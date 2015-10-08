@@ -1,7 +1,7 @@
 var Util = require('../../Util');
 var Handlers = {};
 
-Handlers.passwordResetHandler = function(request, reply){
+Handlers.defaultHandler = function(request, reply){
 
     var payload = request.payload;
 

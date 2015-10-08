@@ -5,7 +5,7 @@ var routes = [
         method: 'POST',
         path: '/passwordReset',
         config: {
-            handler: Handlers.passwordResetHandler,
+            handler: Handlers.defaultHandler,
             description: 'passwordReset API',
             notes: 'used to passwordReset',
             tags: ['api', 'passwordReset', 'login']

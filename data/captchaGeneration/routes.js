@@ -5,7 +5,7 @@ var routes = [
         method: 'POST',
         path: '/captchaGeneration',
         config: {
-            handler: Handlers.captchaGenerationHandler,
+            handler: Handlers.defaultHandler,
             description: 'captchaGeneration API',
             notes: 'used for generate captcha',
             tags: ['api', 'captchaGeneration', 'login']
