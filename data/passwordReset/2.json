@@ -1,16 +1,16 @@
 {
-  "statusCode": 200,
+  "statusCode": 401,
   "faultMessage": {
-    "code": "NIL0V0410",
-    "text": "Invalid mTAN",
+    "code": "NIL00V1303",
+    "text": "A Validation error occurred in UserAccountTask - PasswordReset Service",
+    "detailedText": null,
     "severity": "E",
     "type": "ValidationError",
     "original": {
-      "NIL0V0410": {
-        "max_mtan_attempts": 8,
-        "current_mtan_attempts": 3
+      "VAL02016": {
+        "text": "username should be provided",
+        "key": "username"
       }
     }
   }
 }
-
