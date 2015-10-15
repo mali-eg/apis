@@ -1,0 +1,9 @@
+{
+"statusCode":200,
+  "faultMessage": {
+    "code": "NIL0A0856",
+    "text": "Blocked user",
+    "severity": "E",
+    "type": "AuthenticationError"
+  }
+}
