@@ -2,7 +2,7 @@
   "statusCode":200,
   "securityTokenVBO": {
     "credentials": {
-      "username": "andré.wiegand",
+      "username": "wiegand",
       "passwordExpired": true,
       "passwordExpiryDate": "2015-10-01T00:00:00",
       "authenticationStatus": "firstFactorAuthenticated"
