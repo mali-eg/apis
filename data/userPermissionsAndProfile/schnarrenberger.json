@@ -3,7 +3,7 @@
   "userAccountVBO": [
     {
       "credential": {
-        "username": "jeanette"
+        "username": "schnarrenberger"
       },
       "roles": {
         "businessRole": "agent",
@@ -26,8 +26,8 @@
           "updateDate": "2015-04-22 02:30:40",
           "twoFactorFlag": true,
           "passwordExpiryDate": "2015-12-31 12:00:00",
-          "firstName": "Max",
-          "lastName": "Mustermann",
+          "firstName": "Schnarrenberger",
+          "lastName": "",
           "emailAddress": "max.mustermann@vodafone.com",
           "mtanPhoneNumber": "491725678976",
           "defaultVoID": "12345678",

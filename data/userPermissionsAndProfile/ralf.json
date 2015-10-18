@@ -13,7 +13,12 @@
         ],
         "voIDSequence": [
           "12345678",
-          "87654321"
+          "87654321",
+          "87654329",
+          "87654327",
+          "87654325"
+
+
         ],
         "accountHolder": {
           "active": true,
@@ -21,8 +26,8 @@
           "updateDate": "2015-04-22 02:30:40",
           "twoFactorFlag": true,
           "passwordExpiryDate": "2015-12-31 12:00:00",
-          "firstName": "Max",
-          "lastName": "Mustermann",
+          "firstName": "Ralf",
+          "lastName": "Schmidt",
           "emailAddress": "max.mustermann@vodafone.com",
           "mtanPhoneNumber": "491725678976",
           "defaultVoID": "12345678",

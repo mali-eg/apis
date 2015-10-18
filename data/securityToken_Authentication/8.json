@@ -2,13 +2,13 @@
   "statusCode":401,
   "faultMessage": {
     "code": " NIL0A0838",
-    "text": "The combination of user name and password was incorrect. After 5 unsuccessful attempts, your account will be banned.",
+    "text": "Die Kombination aus Benutzername und Passwort war nicht korrekt. Nach _remaining_login_attempts_ erfolglosen Versuchen wird ihr Konto gesperrt werden.",
     "severity": "E",
     "type": "AuthenticationError",
     "original": {
       "NIL0A0835": {
         "max_login_attempts": 8,
-        "current_login_attempts": 8
+        "current_login_attempts": 4
       }
     }
   }

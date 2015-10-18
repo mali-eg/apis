@@ -2,7 +2,7 @@
   "statusCode":401,
   "faultMessage": {
     "code": " NIL0A0838",
-    "text": "Die Kombination aus Benutzername und Passwort war nicht korrekt. Nach 5 erfolglosen Versuchen wird ihr Konto gesperrt werden.",
+    "text": "Wrong credentials",
     "severity": "E",
     "type": "AuthenticationError",
     "original": {
