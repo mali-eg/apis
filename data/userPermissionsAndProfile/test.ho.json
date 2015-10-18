@@ -3,7 +3,7 @@
   "userAccountVBO": [
     {
       "credential": {
-        "username": "wiegand"
+        "username": "test.ho"
       },
       "roles": {
         "accountHolder": {
@@ -12,9 +12,9 @@
           "updateDate": "2015-04-22 02:30:40",
           "twoFactorFlag": true,
           "passwordExpiryDate": "2015-12-31 12:00:00",
-          "firstName": "André",
-          "lastName": "Wiegand",
-          "emailAddress": "andré.wiegand@vodafone.com",
+          "firstName": "Test",
+          "lastName": "Ho",
+          "emailAddress": "max.mustermann@vodafone.com",
           "mtanPhoneNumber": "491725678976",
           "defaultVoID": "12345678",
           "lastLoginDate": "2015-04-22 02:30:40"
@@ -47,8 +47,8 @@
           "updateDate": "2015-04-21 02:30:40",
           "twoFactorFlag": true,
           "passwordExpiryDate": "2015-12-31 12:00:00",
-          "firstName": "John",
-          "lastName": "Connor",
+          "firstName": "Test",
+          "lastName": "Ho",
           "emailAddress": "john.connor@vodafone.com",
           "mtanPhoneNumber": "491725678336",
           "defaultVoID": "12345671",
