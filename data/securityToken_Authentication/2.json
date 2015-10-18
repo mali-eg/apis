@@ -2,7 +2,7 @@
   "statusCode":401,
   "faultMessage": {
     "code": "NIL0A0857",
-    "text": "Suspended User",
+    "text": "Zu viele erfolglose Login-Versuche. Ihr Konto wurde gesperrt. Bitte kontaktieren Sie Ihren Administrator.",
     "severity": "E",
     "type": "AuthenticationError"
   }
