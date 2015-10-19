@@ -3,7 +3,7 @@
   "userAccountVBO": [
     {
       "credential": {
-        "username": "schmidt"
+        "username": "jeanette"
       },
       "roles": {
         "businessRole": "agent",
@@ -12,12 +12,8 @@
           "test2"
         ],
         "voIDSequence": [
-          "87654321",
           "12345678",
-          "87654321",
-          "87654329",
-          "87654327",
-          "87654325"
+          "87654321"
         ],
         "accountHolder": {
           "active": true,
@@ -25,7 +21,7 @@
           "updateDate": "2015-04-22 02:30:40",
           "twoFactorFlag": true,
           "passwordExpiryDate": "2015-12-31 12:00:00",
-          "firstName": "schmidt",
+          "firstName": "jeanette",
           "lastName": "Mustermann",
           "emailAddress": "max.mustermann@vodafone.com",
           "mtanPhoneNumber": "491725678976",
