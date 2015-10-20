@@ -1,0 +1,11 @@
+{
+  "statusCode":200,
+  "securityTokenVBO": {
+    "credentials": {
+      "username": "andre.elevier",
+      "passwordExpired": true,
+      "passwordExpiryDate": "2015-10-01T00:00:00",
+      "authenticationStatus": "firstFactorAuthenticated"
+    }
+  }
+}

@@ -1,9 +1,15 @@
 {
   "statusCode":401,
   "faultMessage": {
-    "code": "NIL0A0857",
-    "text": "Zu viele erfolglose Login-Versuche. Ihr Konto wurde gesperrt. Bitte kontaktieren Sie Ihren Administrator.",
+    "code": " NIL0A0838",
+    "text": "Die Kombination aus Benutzername und Passwort war nicht korrekt. Nach _remaining_login_attempts_ erfolglosen Versuchen wird ihr Konto gesperrt werden.",
     "severity": "E",
-    "type": "AuthenticationError"
+    "type": "AuthenticationError",
+    "original": {
+      "NIL0A0835": {
+        "max_login_attempts": 8,
+        "current_login_attempts": 4
+      }
+    }
   }
 }
