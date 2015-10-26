@@ -26,7 +26,11 @@ var routes = [].concat(
     require('./passwordReset/routes'),
     require('./passwordChange/routes'),
     require('./securityToken_mTANAuthentication/routes'),
-    require('./userPermissionsAndProfile/routes')
+    require('./userPermissionsAndProfile/routes'),
+    require('./itemTask_entityList-get/routes'),
+    require('./itemTask_ruleset/routes'),
+    require('./salesOrder_product-get/routes'),
+    require('./salesOrder_product-post/routes')
 
 );
 //console.log("routes:"+routes);
