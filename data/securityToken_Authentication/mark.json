@@ -2,7 +2,7 @@
   "statusCode":401,
   "faultMessage": {
     "code": "NIL0A0857",
-    "text": "Zu viele erfolglose Login-Versuche. Ihr Konto wurde gesperrt. Bitte kontaktieren Sie Ihren Administrator.",
+    "text": "Entschuldigung. Die Message ist noch nicht fertig. Vielleicht erzahlt Bernd einen Ostfriesenwitz.",
     "severity": "E",
     "type": "AuthenticationError"
   }

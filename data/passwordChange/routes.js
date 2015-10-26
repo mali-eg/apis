@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/passwordChange',
+        path: '/apis/passwordChange',
         config: {
             handler: Handlers.defaultHandler,
             description: 'mTANGeneration API',

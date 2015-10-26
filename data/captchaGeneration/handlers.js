@@ -3,7 +3,12 @@ var Handlers = {};
 
 Handlers.defaultHandler = function(request, reply){
 
-    var filePath = __dirname+"/8.json";
+	function randomIntFromInterval(min,max)
+	{
+	    return Math.floor(Math.random()*(max-min+1)+min);
+	}
+
+    var filePath = __dirname+"/"+ randomIntFromInterval(1, 4) +".json";
 
     reply(Util.getData(filePath));
 };
