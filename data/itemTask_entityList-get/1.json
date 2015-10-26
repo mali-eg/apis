@@ -1,0 +1,40 @@
+{
+  "entities": [
+    {
+      "name": "NewCustomerCategory",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].category"
+    },
+    {
+      "name": "NewCustomerOrderType",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].type"
+    },
+    {
+      "name": "NewCustomerPUName",
+      "path": "$.salesOrderVBO[*].roles.agent.name"
+    },
+    {
+      "name": "NewCustomerVoID",
+      "path": "$.salesOrderVBO[*].roles.agent.voID"
+    },
+    {
+      "name": "Tariff",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*][@.specification=~/tariff-plan/)].category"
+    },
+    {
+      "name": "Promotion",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].product[?(@.specification=~/promotion/)].code"
+    },
+    {
+      "name": "Discount",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].product[?(@.specification=~/discount/)].code"
+    },
+    {
+      "name": "IMEI",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification=~/hardware/)].characteristicValue.[?(@.name=~/IMEI/)].value"
+    },
+    {
+      "name": "SimSerialNumber",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification=~/sim-card/)].characteristicValue.[?(@.name=~/simSerialNumber/)].value"
+    }
+  ]
+}
