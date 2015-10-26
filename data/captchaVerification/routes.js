@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'GET',
-        path: '/captchaVerification',
+        path: '/apis/captchaVerification',
         config: {
             handler: Handlers.defaultHandler,
             description: 'captchaVerification API',

@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/authenticate',
+        path: '/apis/authenticate',
         config: {
             handler: Handlers.defaultHandler,
             description: 'authenticate API',
