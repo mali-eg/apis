@@ -1,0 +1,33 @@
+//Inbound payload
+{
+  "subscriptions": {
+    "details": {
+      "reservedPhoneNumber": "4917246578976"
+    },
+    "contractDetails": {
+      "startDate": "2015-01-01"
+    },
+    "security": {
+      "password": "Test123456"
+    },
+    "preferences": {
+      "copyLegalToSubscrAddress": true,
+      "copyBillingToSubscrAddress": false,
+      "desiredOverview": "Mini",
+      "desiredNumber": "Complete",
+      "displayedNumber": "EnableCaseToCase",
+      "setSharingGroupOwner": true
+    },
+    "address": {
+      "type": "SUBSCRIBER",
+      "street": "Roadstraﬂe",
+      "streetNumber": "23",
+      "streetNumberSuffix": "a",
+      "postCode": "12345",
+      "city": "Citystadt",
+      "country": "Deutschland",
+      "countryCode": "D"
+    }
+  }
+}
+

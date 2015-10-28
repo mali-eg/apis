@@ -1,0 +1,12 @@
+{
+  "salesOrderVBO": [
+    {
+      "actionCode": "PRINT",
+      "roles": {
+        "customer": {
+          "type": "private"
+        }
+      }
+    }
+  ]
+}

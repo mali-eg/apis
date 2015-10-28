@@ -1,0 +1,133 @@
+//It's Inbound payload
+{
+  "customerAccountVBO": [
+    {
+      "category": "private",
+      "skeletonContractNumber": 12345678,
+      "details": {
+        "password": "Kennwortxy"
+      },
+      "parts": {
+        "individual": {
+          "salutation": "Herr",
+          "title": "Dr",
+          "firstName": "Peter",
+          "familyName": "Müller",
+          "prefix": "Van de",
+          "aristocraticTitle": "Graf von",
+          "birthDate": "1980-01-01"
+        },
+        "artifacts": {
+          "documentNumber": "1234567890",
+          "isDifferentID": true,
+          "cardNumber": "1234567890",
+          "validToDate": "2018-01-01",
+          "bankName": "Sparkasse Düsseldorf"
+        },
+        "contactPoints": [
+          {
+            "contactPerson": "Peter Müller",
+            "postal": {
+              "type": "CustomerAddress",
+              "street": "Am Seestern",
+              "streetNumber": "1",
+              "postCode": "40547",
+              "city": "Düsseldorf",
+              "country": "Deutschland"
+            },
+            "email": {
+              "fullAddress": "peter.mueller@arcor.de",
+              "hasEmailAccount": true
+            },
+            "telephone": {
+              "subscriberNumber": "123456",
+              "localAreaCode": "211",
+              "fullNumber": "0211123456"
+            }
+          }
+        ],
+        "preferences": {
+          "advertisingIndicator": true,
+          "personalDataEvalIndicator": false,
+          "hasMessageForBackOffice": false,
+          "manualCheck": false,
+          "messageToBackOffice": "Please contact…"
+        },
+        "billingAccount": {
+          "invoiceDeliveryType": "EMAIL",
+          "sameAsCustAddress": true,
+          "hasSMSNotification": true,
+          "contactPerson": "Peter Müller",
+          "paymentMethod": {
+            "bankPayment": {
+              "accountNumber": "1234567890",
+              "accountOwnerName": "Peter Müller",
+              "bankCode": "30050110",
+              "bankName": "Sparkasse Düsseldorf",
+              "iban": "DE11222233334444555566",
+              "bic": "DUSSDEDDXXX",
+              "reasonForPayment": "Direct Debit Feature"
+            },
+            "bankAddress": {
+              "street": "Am Seestern",
+              "streetNumber": "2",
+              "postCode": "40567",
+              "city": "Düsseldorf",
+              "country": "Deutschland"
+            }
+          },
+          "individual": {
+            "title": "Dr.",
+            "salutation": "Herr",
+            "firstName": "Peter",
+            "familyName": "Müller"
+          },
+          "billingAddress": {
+            "street": "Am Seestern",
+            "streetNumber": "1",
+            "postBox": 4567,
+            "postCode": "40547",
+            "city": "Düsseldorf",
+            "country": "Deutschland"
+          },
+          "telephone": {
+            "subscriberNumber": "123456",
+            "localAreaCode": "211",
+            "fullNumber": "0211123456"
+          },
+          "sms": {
+            "subscriberNumber": "123456",
+            "localAreaCode": "211",
+            "fullNumber": "0211123456"
+          }
+        },
+        "phoneBook": {
+          "individual": {
+            "title": "Dr",
+            "salutation": "Herr",
+            "firstname": "Stephanie",
+            "familyName": "Müller",
+            "prefix": "Van de",
+            "aristocraticTitle": "Graf von"
+          },
+          "address": {
+            "street": "Musterstraße",
+            "streetNumber": "23",
+            "streetNumberSuffix": "a",
+            "postCode": "12345",
+            "city": "CityStadt",
+            "subLocality": "Kreis Stadthausen",
+            "country": "Deutschland"
+          },
+          "searchTerm": "Feuerwehr ",
+          "searchDirectory": "PrivateDatabase",
+          "entryType": "Printed",
+          "publicationType": "CityAndStreet",
+          "informationExchange": "Complete",
+          "inverseSearch": true,
+          "advertisementIndicator": false
+        }
+      }
+    }
+  ]
+}

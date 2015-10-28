@@ -1,0 +1,12 @@
+{
+  "salesOrderVBO": [
+    {
+      "actionCode": "UPDATE",
+      "roles": {
+        "customer": {
+          "type": "business"
+        }
+      }
+    }
+  ]
+}

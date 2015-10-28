@@ -1,0 +1,15 @@
+{
+  "statusCode":401,
+  "faultMessage": {
+    "code": "NIL00V409",
+    "text": "A Validation error occurred in SalesOrder - OrderSummary Service",
+    "severity": "E",
+    "type": "ValidationError",
+    "original": {
+      "VAL03001": {
+        "text": "username should be provided",
+        "key": "username"
+      }
+    }
+  }
+}

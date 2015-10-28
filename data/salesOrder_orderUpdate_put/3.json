@@ -1,0 +1,12 @@
+{
+  "salesOrderVBO": [
+    {
+      "actionCode": "PROVISION",
+      "roles": {
+        "customer": {
+          "type": "private"
+        }
+      }
+    }
+  ]
+}
