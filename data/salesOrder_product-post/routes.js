@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/salesOrder_productPost',
+        path: '/apis/salesOrder_productPost',
         config: {
             handler: Handlers.defaultHandler,
             description: 'Save the selected product offering in the current shopping cart',
