@@ -29,12 +29,12 @@ var routes = [].concat(
     require('./userPermissionsAndProfile/routes'),
     require('./itemTask_entityList-get/routes'),
     require('./itemTask_ruleset/routes'),
-    require('./salesOrder_product-get/routes')
-    //require('./summaryData/routes')
-    //require('./checkOut/routes')
-    //require('./shoppingCart/routes'),
-    //require('./submitSummaryData/routes'),
-    //require('./subscriberDataCapture/routes')
+    require('./salesOrder_product-get/routes'),
+    require('./salesOrder_orderLineItemSummary_get/routes'),
+    require('./customerAccount_customerDataForOrder_put/routes'),
+    require('./salesOrder_orderSummary_get/routes'),
+    require('./salesOrder_orderUpdate_put/routes'),
+    require('./subscription_subscriberDataForOrder_put/routes')
 
 );
 //console.log("routes:"+routes);
