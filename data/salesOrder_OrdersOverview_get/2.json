@@ -1,0 +1,15 @@
+{
+  "statusCode": 400,
+  "faultMessage": {
+    "code": "NIL00V410",
+    "text": "A Validation error occurred in SalesOrder - OrdersOverview Service",
+    "severity": "E",
+    "type": "ValidationError",
+    "original": {
+      "VAL00013": {
+        "text": "accept header should be provided",
+        "key": "accept"
+      }
+    }
+  }
+}
