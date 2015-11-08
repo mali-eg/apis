@@ -3,10 +3,10 @@ var Handlers = {};
 
 Handlers.defaultHandler = function(request, reply){
 
-    var orderId = request.query.orderId;
-    var orderLineItemId = request.query.orderLineItemId;
+    //var orderId = request.query.orderId;
+    //var orderLineItemId = request.query.orderLineItemId;
 
-    var filePath = __dirname+"/"+orderId+".json";
+    var filePath = __dirname+"/"+3+".json";
 
     reply(Util.getData(filePath));
 };

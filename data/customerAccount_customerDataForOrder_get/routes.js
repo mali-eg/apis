@@ -2,13 +2,13 @@ var Handlers = require('./handlers');
 
 var routes = [
     {
-        method: 'PUT',
-        path: '/apis/subscription',
+        method: 'GET',
+        path: '/apis/summary',
         config: {
             handler: Handlers.defaultHandler,
             description: 'checkOut API',
-            notes: 'Agent completed customer data capture',
-            tags: ['api', 'newCustomer', 'subscriberData']
+            notes: 'It is the sub-journey of an agents capturing customer data',
+            tags: ['api', 'newCustomer', 'summaryData']
             //response: {schema: responseModel}
         }
     }

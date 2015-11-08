@@ -2,8 +2,8 @@ var Handlers = require('./handlers');
 
 var routes = [
     {
-        method: 'PUT',
-        path: '/apis/subscription',
+        method: 'GET',
+        path: '/apis/getSubscription',
         config: {
             handler: Handlers.defaultHandler,
             description: 'checkOut API',
