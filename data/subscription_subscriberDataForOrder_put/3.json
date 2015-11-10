@@ -1,15 +1,3 @@
 {
-  "statusCode":401,
-  "faultMessage": {
-    "code": "NIL00V122",
-    "text": "A Validation error occurred in Subscription – SubscriberDataForOrder_PUT Service",
-    "severity": "E",
-    "type": "ValidationError",
-      "original": {
-        "VAL03001": {
-        "text": " subscriptionvbo should be provided",
-        "key": "subscriptionvbo"
-        }
-      }
-  }
+
 }

@@ -1,0 +1,30 @@
+{
+  "statusCode":200,
+  "subscriptions": [
+    {
+      "details": {
+        "msisdn": "4917246578974",
+        "reservedPhoneNumber": "4917246578976"
+      },
+      "contractDetails": {
+        "startDate": "2015-01-01"
+      },
+      "preferences": {
+        "desiredOverview": "Mini",
+        "desiredNumber": "Complete",
+        "displayedNumber": "EnableCaseToCase",
+        "setSharingGroupOwner": true
+      },
+      "address": {
+        "type": "SUBSCRIBER",
+        "street": "Roadstraﬂe",
+        "streetNumber": "23",
+        "streetNumberSuffix": "a",
+        "postCode": "12345",
+        "city": "Citystadt",
+        "country": "Deutschland",
+        "countryCode": "D"
+      }
+    }
+  ]
+}

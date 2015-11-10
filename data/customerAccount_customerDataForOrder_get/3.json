@@ -1,8 +1,8 @@
 {
   "statusCode":401,
   "faultMessage": {
-    "code": "NIL00V1302",
-    "text": "A Validation error occurred in CustomerAccount–CustomerDataForOrder_PUT Service",
+    "code": "NIL00V1401",
+    "text": "A Validation error occurred in CustomerAccount–CustomerDataForOrder_GET Service ",
     "detailedText": null,
     "severity": "E",
     "type": "ValidationError",
