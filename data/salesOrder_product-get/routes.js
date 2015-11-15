@@ -2,7 +2,7 @@ var Handlers = require('./handlers');
 
 var routes = [
     {
-        method: 'POST',
+        method: 'GET',
         path: '/apis/salesOrder_product',
         config: {
             handler: Handlers.defaultHandler,
