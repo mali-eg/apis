@@ -96,11 +96,11 @@
             }
           },
           {
-            "orderLineItemID": "1",
+            "orderLineItemID": "2",
             "status": "",
             "lastModified": "",
             "productOffering": {
-              "groupItemID": "1",
+              "groupItemID": "2",
               "product": [
                 {
                   "specification": "hardware",
@@ -192,7 +192,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "discount - 2",
+                      "code": "discount - 3",
                       "name": "4GB Discount Option B",
                       "specification": "discount",
                       "validity": "2 months",
@@ -204,6 +204,229 @@
                       "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "orderLineItemID": "3",
+            "status": "",
+            "lastModified": "",
+            "productOffering": {
+              "groupItemID": "3",
+              "product": [
+                {
+                  "specification": "hardware",
+                  "characteristicValue": [
+                    {
+                      "name": "IMEI",
+                      "value": "6543987654675431"
+                    },
+                    {
+                      "name": "DeliveryMode",
+                      "value": "DirectDelivery"
+                    }
+                  ]
+                },
+                {
+                  "specification": "sim-card",
+                  "characteristicValue": [
+                    {
+                      "name": "simSerialNumber",
+                      "value": "10120410200031"
+                    }
+                  ]
+                },
+                {
+                  "code": "VFREDL8GB",
+                  "name": "RED 16GB",
+                  "specification": "tariff-plan",
+                  "category": "Smart",
+                  "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
+                  "characteristicValue": [
+                    {
+                      "name": "SubsidyLevel",
+                      "value": "Subsidy 1"
+                    }
+                  ],
+                  "product": [
+                    {
+                      "code": "promotion - 12",
+                      "name": "16GB Promotion Option A",
+                      "specification": "promotion",
+                      "validity": "12 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
+                    },
+                    {
+                      "code": "discount - 12",
+                      "name": "16GB Discount Option A",
+                      "specification": "discount",
+                      "validity": "24 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
+                    },
+                    {
+                      "code": "addonGerenal - 12",
+                      "name": "16GB Vodafone-Data",
+                      "specification": "tariff-addon",
+                      "category": "general",
+                      "validity": "free",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "addonMailbox - 22",
+                      "name": "16GB Vodafone-MobileMail - 2",
+                      "specification": "tariff-addon",
+                      "category": "mailbox",
+                      "validity": "free",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "addonMailbox - 32",
+                      "name": "16GB Vodafone-MobileMail",
+                      "specification": "tariff-addon",
+                      "category": "general",
+                      "validity": "free",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "addonMailbox - 42",
+                      "name": "16GB Vodafone-MobileMail",
+                      "specification": "tariff-addon",
+                      "category": "new category",
+                      "validity": "free",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "addonMailbox - 52",
+                      "name": "16GB Vodafone-MobileMail",
+                      "specification": "tariff-addon",
+                      "category": "Category",
+                      "validity": "free",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "discount - 32",
+                      "name": "16GB Discount Option B",
+                      "specification": "discount",
+                      "validity": "2 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "orderLineItemID": "4",
+            "status": "",
+            "lastModified": "",
+            "productOffering": {
+              "groupItemID": "4",
+              "product": [
+                {
+                  "specification": "hardware",
+                  "characteristicValue": [
+                    {
+                      "name": "IMEI",
+                      "value": "6543987654675431"
+                    },
+                    {
+                      "name": "DeliveryMode",
+                      "value": "DirectDelivery"
+                    }
+                  ]
+                },
+                {
+                  "specification": "sim-card",
+                  "characteristicValue": [
+                    {
+                      "name": "simSerialNumber",
+                      "value": "10120410200031"
+                    }
+                  ]
+                },
+                {
+                  "code": "VFREDL8GB",
+                  "name": "RED 32GB",
+                  "specification": "tariff-plan",
+                  "category": "Category",
+                  "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
+                  "characteristicValue": [
+                    {
+                      "name": "SubsidyLevel",
+                      "value": "Subsidy 1"
+                    }
+                  ],
+                  "product": [
+                    {
+                      "code": "promotion - 123",
+                      "name": "32GB Promotion Option A",
+                      "specification": "promotion",
+                      "validity": "12 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
+                    },
+                    {
+                      "code": "promotion - 223",
+                      "name": "32GB Promotion Option B",
+                      "specification": "promotion",
+                      "validity": "12 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
+                    },
+                    {
+                      "code": "discount - 123",
+                      "name": "32GB Discount Option A",
+                      "specification": "discount",
+                      "validity": "24 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
+                    },
+                    {
+                      "code": "addonGerenal - 123",
+                      "name": "32GB Vodafone-Data",
+                      "specification": "tariff-addon",
+                      "category": "mailbox",
+                      "validity": "free",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "addonMailbox - 223",
+                      "name": "32GB Vodafone-MobileMail - 2",
+                      "specification": "tariff-addon",
+                      "category": "mailbox",
+                      "validity": "free",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "addonMailbox - 323",
+                      "name": "32GB Vodafone-MobileMail",
+                      "specification": "tariff-addon",
+                      "category": "mailbox",
+                      "validity": "free",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "addonMailbox - 423",
+                      "name": "32GB Vodafone-MobileMail",
+                      "specification": "tariff-addon",
+                      "category": "mailbox",
+                      "validity": "free",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "addonMailbox - 523",
+                      "name": "32GB Vodafone-MobileMail",
+                      "specification": "tariff-addon",
+                      "category": "mailbox",
+                      "validity": "free",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "discount - 323",
+                      "name": "32GB Discount Option B",
+                      "specification": "discount",
+                      "validity": "2 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
                   ]
                 }
