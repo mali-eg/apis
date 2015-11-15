@@ -3,12 +3,12 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'GET',
-        path: '/apis/order/sales-orders/contracts',
+        path: '/apis/orders',
         config: {
             handler: Handlers.defaultHandler,
-            description: 'shoppingCart API',
-            notes: 'get new customer cart items',
-            tags: ['api', 'newCustomer', 'shoppingCart']
+            description: 'orders API',
+            notes: 'orders API',
+            tags: ['api', 'orders']
             //response: {schema: responseModel}
         }
     }

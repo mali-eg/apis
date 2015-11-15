@@ -1,0 +1,15 @@
+{
+  "statusCode":401,
+  "faultMessage": {
+    "code": "NIL00V121",
+    "text": "A Validation error occurred in Subscription - SubscriberDataForOrder Service",
+    "severity": "E",
+    "type": "ValidationError",
+    "original": {
+      "VAL00027": {
+        "text": "callingApplication should be provided ",
+        "key": "callingApplication "
+      }
+    }
+  }
+}

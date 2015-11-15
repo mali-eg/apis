@@ -1,11 +1,15 @@
 {
   "statusCode":401,
   "faultMessage": {
-    "code": "NIL00A001",
-    "text": "Invalid User, User is not authenticated",
+    "code": "NIL00V122",
+    "text": "A Validation error occurred in Subscription – SubscriberDataForOrder_PUT Service",
     "severity": "E",
-    "type": "AuthenticationError"
+    "type": "ValidationError",
+      "original": {
+        "VAL03001": {
+        "text": " subscriptionvbo should be provided",
+        "key": "subscriptionvbo"
+        }
+      }
   }
 }
-
-

@@ -1,0 +1,15 @@
+{
+  "statusCode":401,
+  "faultMessage": {
+    "code": "NIL00V408",
+    "text": "A Validation error occurred in SalesOrder - OrderUpdate Service",
+    "severity": "E",
+    "type": "ValidationError",
+    "original": {
+      "VAL00013": {
+        "text": "accept header should be provided",
+        "key": "accept"
+      }
+    }
+  }
+}
