@@ -1,0 +1,15 @@
+{
+  "statusCode":200,
+  "salesOrderVBO": {
+    "parts": {
+      "lineItems": [
+        {
+          "type": "activation",
+          "category": "NPCM",
+          "status": "updated",
+          "lastModified": "2015-08-13T15:17:44",
+        }
+      ]
+    }
+  }
+}
