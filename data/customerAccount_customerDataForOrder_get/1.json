@@ -10,7 +10,7 @@
           "salutation": "Herr",
           "title": "Dr",
           "firstName": "Peter",
-          "familyName": "Müller",
+          "familyName": "MÃ¼ller",
           "prefix": "Van de",
           "aristocraticTitle": "Graf von",
           "birthDate": "1980-01-01"
@@ -20,17 +20,17 @@
           "isDifferentID": true,
           "cardNumber": "1234567890",
           "validToDate": "2018-01-01",
-          "bankName": "Sparkasse Düsseldorf"
+          "bankName": "Sparkasse DÃ¼sseldorf"
         },
         "contactPoints": [
           {
-            "contactPerson": "Peter Müller",
+            "contactPerson": "Peter MÃ¼ller",
             "postal": {
               "type": "CustomerAddress",
               "street": "Am Seestern",
               "streetNumber": "1",
               "postCode": "40547",
-              "city": "Düsseldorf",
+              "city": "DÃ¼sseldorf",
               "country": "Deutschland"
             },
             "email": {
@@ -49,19 +49,19 @@
           "personalDataEvalIndicator": false,
           "hasMessageForBackOffice": false,
           "manualCheck": false,
-          "messageToBackOffice": "Please contact…"
+          "messageToBackOffice": "Please contact?"
         },
         "billingAccount": {
           "invoiceDeliveryType": "EMAIL",
           "sameAsCustAddress": true,
           "hasSMSNotification": true,
-          "contactPerson": "Peter Müller",
+          "contactPerson": "Peter MÃ¼ller",
           "paymentMethod": {
             "bankPayment": {
               "accountNumber": "1234567890",
-              "accountOwnerName": "Peter Müller",
+              "accountOwnerName": "Peter MÃ¼ller",
               "bankCode": "30050110",
-              "bankName": "Sparkasse Düsseldorf",
+              "bankName": "Sparkasse DÃ¼sseldorf",
               "iban": "DE11222233334444555566",
               "bic": "DUSSDEDDXXX",
               "reasonForPayment": "Direct Debit Feature"
@@ -70,7 +70,7 @@
               "street": "Am Seestern",
               "streetNumber": "2",
               "postCode": "40567",
-              "city": "Düsseldorf",
+              "city": "DÃ¼sseldorf",
               "country": "Deutschland"
             }
           },
@@ -78,14 +78,14 @@
             "title": "Dr.",
             "salutation": "Herr",
             "firstName": "Peter",
-            "familyName": "Müller"
+            "familyName": "MÃ¼ller"
           },
           "billingAddress": {
             "street": "Am Seestern",
             "streetNumber": "1",
             "postBox": 4567,
             "postCode": "40547",
-            "city": "Düsseldorf",
+            "city": "DÃ¼sseldorf",
             "country": "Deutschland"
           },
           "telephone": {
@@ -104,12 +104,12 @@
             "title": "Dr",
             "salutation": "Herr",
             "firstname": "Stephanie",
-            "familyName": "Müller",
+            "familyName": "MÃ¼ller",
             "prefix": "Van de",
             "aristocraticTitle": "Graf von"
           },
           "address": {
-            "street": "Musterstraße",
+            "street": "MusterstraÃŸe",
             "streetNumber": "23",
             "streetNumberSuffix": "a",
             "postCode": "12345",
