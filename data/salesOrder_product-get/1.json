@@ -33,7 +33,7 @@
                   ]
                 },
                 {
-                  "code": "VFREDL8GB",
+                  "code": "VFREDL4GB",
                   "name": "RED 4GB",
                   "specification": "tariff-plan",
                   "category": "RED",
@@ -240,7 +240,7 @@
                   ]
                 },
                 {
-                  "code": "VFREDL8GB",
+                  "code": "VFREDL16GB",
                   "name": "RED 16GB",
                   "specification": "tariff-plan",
                   "category": "Smart",
@@ -348,7 +348,7 @@
                   ]
                 },
                 {
-                  "code": "VFREDL8GB",
+                  "code": "VFREDL32GB",
                   "name": "RED 32GB",
                   "specification": "tariff-plan",
                   "category": "Category",
