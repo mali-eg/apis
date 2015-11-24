@@ -60,81 +60,8 @@
                 }
               ]
             }
-          },
-          {
-            "orderLineItemID": "674380545-2",
-            "type": "comfortPorting",
-            "category": "NPCM",
-            "status": "draft",
-            "lastModified": "2015-09-25T22:34:39",
-            "orderDateTime": "2015-09-25T22:34:39",
-            "productOffering": {
-              "product": [
-                {
-                  "code": "VFREDL6GB",
-                  "name": "Vodafone RED 6GB Premium Smartphone",
-                  "specification": "tariff-plan",
-                  "characteristicValue": [
-                    {
-                      "name": "SubsidyLevel",
-                      "value": "Subsidy 2"
-                    }
-                  ],
-                  "product": [
-                    {
-                      "specification": "discount",
-                      "count": 2
-                    },
-                    {
-                      "specification": "promotion",
-                      "count": 1
-                    },
-                    {
-                      "specification": "tariff-addon",
-                      "count": 0
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          {
-            "orderLineItemID": "674380545-3",
-            "type": "normalPorting",
-            "category": "NBCM",
-            "status": "draft",
-            "lastModified": "2015-09-25T22:34:39",
-            "orderDateTime": "2015-09-24T22:34:39",
-            "productOffering": {
-              "product": [
-                {
-                  "code": "VFREDL5GB",
-                  "name": "Vodafone RED 5GB",
-                  "specification": "tariff-plan",
-                  "characteristicValue": [
-                    {
-                      "name": "SubsidyLevel",
-                      "value": "Subsidy 3"
-                    }
-                  ],
-                  "product": [
-                    {
-                      "specification": "discount",
-                      "count": 3
-                    },
-                    {
-                      "specification": "promotion",
-                      "count": 2
-                    },
-                    {
-                      "specification": "tariff-addon",
-                      "count": 5
-                    }
-                  ]
-                }
-              ]
-            }
           }
+
         ]
       }
     }

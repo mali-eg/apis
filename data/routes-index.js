@@ -34,13 +34,12 @@ var routes = [].concat(
     require('./salesOrder_orderLineItemSummary_get/routes'),
     require('./customerAccount_customerDataForOrder_put/routes'),
     require('./salesOrder_orderSummary_get/routes'),
+    require('./salesOrder_orderLineItemUpdate_put/routes'),
     require('./salesOrder_orderUpdate_put/routes'),
     require('./subscription_subscriberDataForOrder_put/routes'),
-
     require('./salesOrder_order_delete/routes'),
     require('./customerAccount_customerDataForOrder_get/routes'),
     require('./subscription_subscriberDataForOrder_get/routes'),
-
     require('./salesOrder_OrdersOverview_get/routes')
 
 

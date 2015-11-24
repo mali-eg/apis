@@ -163,6 +163,110 @@
           }
         ]
       }
+    },
+    {
+      "orderID": "674380548",
+      "status": "activated",
+      "created": "2015-09-24T20:46:12",
+      "lastModified": "2015-09-24T20:46:12",
+      "count": 2,
+      "callBackDate": "2015-09-24T20:55:09",
+      "roles": {
+        "agent": {
+          "voID": "12345678",
+          "name": "Max Mustermann"
+        }
+      },
+      "parts": {
+        "lineItems": [
+          {
+            "orderLineItemID": "674380547-1",
+            "type": "Activation",
+            "category": "NPBM",
+            "status": "activated",
+            "lastModified": "2015-09-24T20:46:12",
+            "orderDateTime": "2015-09-24T20:46:12",
+            "subscription": {
+              "subscriptionID": "4917232323656"
+            },
+            "billToParty": {
+              "individual": {
+                "firstName": "Frank",
+                "familyName": "Muller"
+              }
+            }
+          },
+          {
+            "orderLineItemID": "674380547-2",
+            "type": "CreditPorting",
+            "category": "NPBM",
+            "status": "activated",
+            "lastModified": "2015-09-24T20:46:12",
+            "orderDateTime": "2015-09-24T20:46:12",
+            "subscription": {
+              "subscriptionID": "4917232323657"
+            },
+            "billToParty": {
+              "individual": {
+                "firstName": "Frank",
+                "familyName": "Muller"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "orderID": "674380549",
+      "status": "activated",
+      "created": "2015-09-24T20:46:12",
+      "lastModified": "2015-09-24T20:46:12",
+      "count": 2,
+      "callBackDate": "2015-09-24T20:55:09",
+      "roles": {
+        "agent": {
+          "voID": "12345678",
+          "name": "Max Mustermann"
+        }
+      },
+      "parts": {
+        "lineItems": [
+          {
+            "orderLineItemID": "674380547-1",
+            "type": "Activation",
+            "category": "NPBM",
+            "status": "activated",
+            "lastModified": "2015-09-24T20:46:12",
+            "orderDateTime": "2015-09-24T20:46:12",
+            "subscription": {
+              "subscriptionID": "4917232323656"
+            },
+            "billToParty": {
+              "individual": {
+                "firstName": "Frank",
+                "familyName": "Muller"
+              }
+            }
+          },
+          {
+            "orderLineItemID": "674380547-2",
+            "type": "CreditPorting",
+            "category": "NPBM",
+            "status": "activated",
+            "lastModified": "2015-09-24T20:46:12",
+            "orderDateTime": "2015-09-24T20:46:12",
+            "subscription": {
+              "subscriptionID": "4917232323657"
+            },
+            "billToParty": {
+              "individual": {
+                "firstName": "Frank",
+                "familyName": "Muller"
+              }
+            }
+          }
+        ]
+      }
     }
   ]
 }
