@@ -1,5 +1,5 @@
 {
-  "statusCode":401,
+  "statusCode": 401,
   "faultMessage": {
     "code": "NIL00V409",
     "text": "A Validation error occurred in SalesOrder - OrderSummary Service",
