@@ -1,7 +1,7 @@
 {
   "statusCode":401,
   "faultMessage": {
-    "code": " NIL0A0838",
+    "code": "NIL0A0838",
     "text": "Wrong credentials",
     "severity": "E",
     "type": "AuthenticationError",
