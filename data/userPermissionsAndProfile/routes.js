@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'GET',
-        path: '/apis/users',
+        path: '/api/pos-user-accounts/users',
         config: {
             handler: Handlers.defaultHandler,
             description: 'users API',

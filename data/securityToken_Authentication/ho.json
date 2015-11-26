@@ -1,7 +1,7 @@
 {
   "statusCode":401,
   "faultMessage": {
-    "code": " NIL0A0838",
+    "code": "NIL0A0838",
     "text": "The combination of user name and password was incorrect. After 5 unsuccessful attempts, your account will be banned.",
     "severity": "E",
     "type": "AuthenticationError",

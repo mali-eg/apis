@@ -3,11 +3,11 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/api/pos-user-accounts/mtan',
+        path: '/api/pos-security-tokens/authentication-mtan',
         config: {
             handler: Handlers.defaultHandler,
             description: 'mTANGeneration API',
-            notes: 'used generate mtan',
+            notes: 'used verify captcha',
             tags: ['api', 'mTANGeneration', 'login']
             //response: {schema: responseModel}
         }

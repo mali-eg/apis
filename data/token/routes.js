@@ -3,12 +3,12 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/api/pos-user-accounts/mtan',
+        path: '/api/oauth2/token',
         config: {
             handler: Handlers.defaultHandler,
-            description: 'mTANGeneration API',
-            notes: 'used generate mtan',
-            tags: ['api', 'mTANGeneration', 'login']
+            description: 'oauth token API',
+            notes: 'used for generate oauthtoken',
+            tags: ['api', 'oauth', 'login']
             //response: {schema: responseModel}
         }
     }

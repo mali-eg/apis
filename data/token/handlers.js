@@ -3,7 +3,7 @@ var Handlers = {};
 
 Handlers.defaultHandler = function(request, reply){
 
-    var filePath = __dirname+"/mtan.json";
+    var filePath = __dirname+"/token.json";
 
     reply(Util.getData(filePath));
 };
