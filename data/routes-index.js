@@ -42,7 +42,9 @@ var routes = [].concat(
     require('./customerAccount_customerDataForOrder_get/routes'),
     require('./subscription_subscriberDataForOrder_get/routes'),
     require('./salesOrder_OrdersOverview_get/routes'),
+    require('./salesOrder_orderLineItem_delete/routes'),
     require('./token/routes')
+
 
 
 );
