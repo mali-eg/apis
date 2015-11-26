@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/apis/captchaGeneration',
+        path: '/api/pos-user-accounts/captcha',
         config: {
             handler: Handlers.defaultHandler,
             description: 'captchaGeneration API',

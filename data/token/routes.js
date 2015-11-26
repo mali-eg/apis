@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/apis/oauth2/token',
+        path: '/api/oauth2/token',
         config: {
             handler: Handlers.defaultHandler,
             description: 'oauth token API',

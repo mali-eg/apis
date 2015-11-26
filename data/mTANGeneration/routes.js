@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/apis/mtanGeneration',
+        path: '/api/pos-user-accounts/mtan',
         config: {
             handler: Handlers.defaultHandler,
             description: 'mTANGeneration API',

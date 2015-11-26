@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/apis/passwordReset',
+        path: '/api/pos-user-accounts/password',
         config: {
             handler: Handlers.defaultHandler,
             description: 'passwordReset API',
