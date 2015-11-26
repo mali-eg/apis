@@ -1,7 +1,7 @@
 {
   "statusCode":401,
   "faultMessage": {
-    "code": "NIL00A001",
+    "code": "NIL0V0410",
     "text": "Die TAN, die Sie eingegeben haben, war nicht korrekt. Bitte geben Sie die TAN ein, die an Ihr Mobiltelefon gesendet wurde.",
     "detailedText": null,
     "severity": "E",
