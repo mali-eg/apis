@@ -1,15 +1,11 @@
 {
-  "statusCode":401,
-  "faultMessage": {
-    "code": "NIL0A0838",
-    "text": "Die von Ihnen eingegebene PUID ist nicht korrekt. Bitte korrigieren Sie die PUID und lösen Sie das neue Captcha um fortzufahren.",
-    "severity": "E",
-    "type": "AuthenticationError",
-    "original": {
-      "NIL0A0835": {
-        "max_login_attempts": 8,
-        "current_login_attempts": 8
-      }
+  "statusCode":200,
+  "securityTokenVBO": {
+    "credentials": {
+      "username": "ralf",
+      "passwordExpired": false,
+      "passwordExpiryDate": "2015-10-01T00:00:00",
+      "authenticationStatus": "firstFactorAuthenticated"
     }
   }
 }
