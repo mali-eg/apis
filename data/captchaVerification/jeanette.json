@@ -1,10 +1,3 @@
 {
-  "statusCode":401,
-  "faultMessage": {
-    "code": "NIL0A0833",
-    "text": "Die von Ihnen eingegebene PUID ist nicht korrekt. Bitte korrigieren Sie die PUID und lösen Sie das neue Captcha um fortzufahren.",
-    "detailedText": null,
-    "severity": "E",
-    "type": "AuthenticationError"
-  }
+	
 }
