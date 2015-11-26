@@ -22,6 +22,7 @@ var routes = [].concat(
     require('./captchaGeneration/routes'),
     require('./captchaVerification/routes'),
     require('./mTANGeneration/routes'),
+    require('./mTANVerification/routes'),
     require('./securityToken_Authentication/routes'),
     require('./passwordReset/routes'),
     require('./passwordChange/routes'),
