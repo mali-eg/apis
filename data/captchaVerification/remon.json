@@ -1,8 +1,8 @@
 {
   "statusCode":401,
   "faultMessage": {
-    "code": "NIL0A0833",
-    "text": "Die von Ihnen eingegebene PUID ist nicht korrekt. Bitte korrigieren Sie die PUID und lösen Sie das neue Captcha um fortzufahren.",
+    "code": "NIL00A001",
+    "text": "Der Benutzername, den Sie eingegeben haben, ist falsch. Geben Sie bitte den richtigen Benutzernamen ein und lösen Sie das neue Captcha.",
     "detailedText": null,
     "severity": "E",
     "type": "AuthenticationError"
