@@ -1,17 +1,17 @@
 {
-"statusCode": 401,
-"faultMessage": {
-"code": "NIL00V1303",
-"text": "A Validation error occurred in UserAccountTask - PasswordReset Service",
-"detailedText": null,
-"severity": "E",
-"type": "ValidationError",
-"original": {
-"VAL02016": {
-"text": "username should be provided",
-"key": "username"
-}
-}
-}
+  "statusCode": 401,
+  "faultMessage": {
+    "code": "NIL00V1303",
+    "text": "A Validation error occurred in UserAccountTask - PasswordReset Service",
+    "detailedText": null,
+    "severity": "E",
+    "type": "ValidationError",
+    "original": {
+      "VAL02016": {
+        "text": "username should be provided",
+        "key": "username"
+      }
+    }
+  }
 }
 
