@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/apis/itemTask_entityList',
+        path: '/api/itemTask_entityList',
         config: {
             handler: Handlers.defaultHandler,
             description: 'Retrieve the validation rules for each entity element for the frontend',

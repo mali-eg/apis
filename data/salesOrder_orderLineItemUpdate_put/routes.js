@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'PUT',
-        path: '/apis/order/sales-orders-put',
+        path: '/api/order/sales-orders-put',
         config: {
             handler: Handlers.defaultHandler,
             description: 'shoppingCart API',

@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'PUT',
-        path: '/apis/contracts',
+        path: '/api/contracts',
         config: {
             handler: Handlers.defaultHandler,
             description: 'summaryData API',

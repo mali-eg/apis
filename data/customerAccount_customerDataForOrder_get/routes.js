@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'GET',
-        path: '/apis/summary',
+        path: '/api/summary',
         config: {
             handler: Handlers.defaultHandler,
             description: 'checkOut API',
