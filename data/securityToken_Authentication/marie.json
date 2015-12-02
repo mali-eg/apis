@@ -6,7 +6,7 @@
     "severity": "E",
     "type": "AuthenticationError",
     "original": {
-      "NIL0A0835": {
+      "NIL0A0838": {
         "max_login_attempts": 8,
         "current_login_attempts": 7
       }
