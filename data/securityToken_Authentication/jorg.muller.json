@@ -3,7 +3,7 @@
   "securityTokenVBO": {
     "credentials": {
       "username": "jorg.muller",
-      "passwordExpired": true,
+      "passwordexpired": "true",
       "passwordExpiryDate": "2015-10-01T00:00:00",
       "authenticationStatus": "firstFactorAuthenticated"
     }
