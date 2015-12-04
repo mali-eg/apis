@@ -1,0 +1,9 @@
+{
+  "faultMessage":{
+    "code":"NIL0A0840",
+    "text":"User is locked",
+    "detailedText":"User is locked.",
+    "severity":"E",
+    "type":"AuthenticationError"
+  }
+}
