@@ -5,7 +5,7 @@
       "username": "1",
       "passwordexpired": "false",
       "passwordExpiryDate": "2015-10-01T00:00:00",
-      "authenticationStatus": "firstFactorAuthenticated"
+      "authenticationStatus": "fullyAuthenticated"
     }
   }
 }
