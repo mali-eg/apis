@@ -43,7 +43,11 @@ var routes = [].concat(
     require('./subscription_subscriberDataForOrder_get/routes'),
     require('./salesOrder_OrdersOverview_get/routes'),
     require('./salesOrder_orderLineItem_delete/routes'),
-    require('./token/routes')
+    require('./token/routes'),
+
+    //PDF Download APIs
+    require('./CustomerAgreementForOrder_GET/routes'),
+    require('./Agreement_CustomerDocument_GET/routes')
 
 
 

@@ -1,0 +1,9 @@
+{
+  "statusCode": 500,
+  "faultMessage": {
+    "code": "NIL00A001",
+    "text": "Invalid User, User is not authenticated",
+    "severity": "E",
+    "type": "AuthenticationError"
+  }
+}
