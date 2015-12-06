@@ -27,14 +27,14 @@
             "contactPerson": "Peter Müller",
             "postal": {
               "type": "CustomerAddress",
-              "street": "Am Seestern",
+              "street": "Ferdinand-Braun-Platz",
               "streetNumber": "1",
               "postCode": "40547",
               "city": "Düsseldorf",
               "country": "Deutschland"
             },
             "email": {
-              "fullAddress": "peter.mueller@arcor.de",
+              "fullAddress": "petermueller@vodafone.com",
               "hasEmailAccount": true
             },
             "telephone": {
@@ -62,7 +62,7 @@
               "accountOwnerName": "Peter Müller",
               "bankCode": "30050110",
               "bankName": "Sparkasse Düsseldorf",
-              "iban": "DE11222233334444555566",
+              "iban": "DE34371600870583581006",
               "bic": "DUSSDEDDXXX",
               "reasonForPayment": "Direct Debit Feature"
             },
