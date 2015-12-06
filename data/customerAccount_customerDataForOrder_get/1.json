@@ -38,7 +38,7 @@
               "hasEmailAccount": true
             },
             "telephone": {
-              "subscriberNumber": "12345",
+              "subscriberNumber": "5331212",
               "localAreaCode": "211",
               "fullNumber": "021112345"
             }
@@ -59,7 +59,7 @@
           "paymentMethod": {
             "bankPayment": {
               "accountNumber": "1234567890",
-              "accountOwnerName": "Peter Müller",
+              "accountOwnerName": "Peter Müllher",
               "bankCode": "30050110",
               "bankName": "Sparkasse Düsseldorf",
               "iban": "DE34371600870583581006",
@@ -89,7 +89,7 @@
             "country": "Deutschland"
           },
           "telephone": {
-            "subscriberNumber": "123456",
+            "subscriberNumber": "5331212",
             "localAreaCode": "211",
             "fullNumber": "0211123456"
           },
@@ -110,10 +110,10 @@
           },
           "address": {
             "street": "Musterstraße",
-            "streetNumber": "23",
+            "streetNumber": "1",
             "streetNumberSuffix": "a",
-            "postCode": "12345",
-            "city": "CityStadt",
+            "postCode": "40549",
+            "city": "Düsseldorf",
             "subLocality": "Kreis Stadthausen",
             "country": "Deutschland"
           },
