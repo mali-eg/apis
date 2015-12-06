@@ -34,9 +34,9 @@
                 },
                 {
                   "code": "VFREDL4GB",
-                  "name": "RED 4GB",
+                  "name": "Red 4GB",
                   "specification": "tariff-plan",
-                  "category": "RED",
+                  "category": "Red",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -126,7 +126,7 @@
                 },
                 {
                   "code": "VFREDL8GB",
-                  "name": "RED 8GB",
+                  "name": "Red 8GB",
                   "specification": "tariff-plan",
                   "category": "Smart",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
@@ -241,7 +241,7 @@
                 },
                 {
                   "code": "VFREDL16GB",
-                  "name": "RED 16GB",
+                  "name": "Red 16GB",
                   "specification": "tariff-plan",
                   "category": "Smart",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
@@ -349,7 +349,7 @@
                 },
                 {
                   "code": "VFREDL32GB",
-                  "name": "RED 32GB",
+                  "name": "Red 32GB",
                   "specification": "tariff-plan",
                   "category": "Category",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
