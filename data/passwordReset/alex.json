@@ -2,7 +2,7 @@
   "statusCode": 401,
   "faultMessage": {
     "code": "NIL0V0410",
-    "text": "Die TAN, die Sie eingegeben haben, ist falsch. Geben Sie bitte die richtige TAN ein. Sie haben noch 2 Versuche.",
+    "text": "Die TAN, die Sie eingegeben haben, war falsch. Bitte geben Sie die korrekte TAN ein. Sie haben noch 2 Versuche.",
     "severity": "E",
     "type": "ValidationError",
     "original": {

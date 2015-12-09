@@ -27,18 +27,18 @@
             "contactPerson": "Peter Müller",
             "postal": {
               "type": "CustomerAddress",
-              "street": "Am Seestern",
+              "street": "Ferdinand-Braun-Platz",
               "streetNumber": "1",
               "postCode": "40547",
               "city": "Düsseldorf",
               "country": "Deutschland"
             },
             "email": {
-              "fullAddress": "peter.mueller@arcor.de",
+              "fullAddress": "petermueller@vodafone.com",
               "hasEmailAccount": true
             },
             "telephone": {
-              "subscriberNumber": "12345",
+              "subscriberNumber": "5331212",
               "localAreaCode": "211",
               "fullNumber": "021112345"
             }
@@ -59,10 +59,10 @@
           "paymentMethod": {
             "bankPayment": {
               "accountNumber": "1234567890",
-              "accountOwnerName": "Peter Müller",
+              "accountOwnerName": "Peter Müllher",
               "bankCode": "30050110",
               "bankName": "Sparkasse Düsseldorf",
-              "iban": "DE11222233334444555566",
+              "iban": "DE34371600870583581006",
               "bic": "DUSSDEDDXXX",
               "reasonForPayment": "Direct Debit Feature"
             },
@@ -89,7 +89,7 @@
             "country": "Deutschland"
           },
           "telephone": {
-            "subscriberNumber": "123456",
+            "subscriberNumber": "5331212",
             "localAreaCode": "211",
             "fullNumber": "0211123456"
           },
@@ -110,10 +110,10 @@
           },
           "address": {
             "street": "Musterstraße",
-            "streetNumber": "23",
+            "streetNumber": "1",
             "streetNumberSuffix": "a",
-            "postCode": "12345",
-            "city": "CityStadt",
+            "postCode": "40549",
+            "city": "Düsseldorf",
             "subLocality": "Kreis Stadthausen",
             "country": "Deutschland"
           },
