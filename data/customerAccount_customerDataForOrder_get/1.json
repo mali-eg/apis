@@ -16,7 +16,7 @@
           "birthDate": "1980-01-01"
         },
         "artifacts": {
-          "documentNumber": "1234567890",
+          "documentNumber": "8510035220",
           "isDifferentID": true,
           "cardNumber": "1234567890",
           "validToDate": "2018-01-01",
@@ -67,9 +67,9 @@
               "reasonForPayment": "Direct Debit Feature"
             },
             "bankAddress": {
-              "street": "Am Seestern",
-              "streetNumber": "2",
-              "postCode": "40567",
+              "street": "Ferdinand-Braun-Platz",
+              "streetNumber": "1",
+              "postCode": "40549",
               "city": "Düsseldorf",
               "country": "Deutschland"
             }
