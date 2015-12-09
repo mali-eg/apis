@@ -118,72 +118,72 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Aktionen - 1",
+                      "code": "promotion - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 2",
+                      "code": "promotion - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 3",
+                      "code": "promotion - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 4",
+                      "code": "promotion - 4",
                       "name": "Immediately Connected",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Vergünstigungen - 1",
+                      "code": "discount - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 2",
+                      "code": "discount - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 3",
+                      "code": "discount - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 4",
+                      "code": "discount - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 5",
+                      "code": "discount - 5",
                       "name": "VF All-in-One",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 6",
+                      "code": "discount - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -259,72 +259,72 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Aktionen - 1",
+                      "code": "promotion - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 2",
+                      "code": "promotion - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 3",
+                      "code": "promotion - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 4",
+                      "code": "promotion - 4",
                       "name": "Immediately Connected",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Vergünstigungen - 1",
+                      "code": "discount - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 2",
+                      "code": "discount - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 3",
+                      "code": "discount - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 4",
+                      "code": "discount - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 5",
+                      "code": "discount - 5",
                       "name": "VF All-in-One",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 6",
+                      "code": "discount - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -400,72 +400,72 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Aktionen - 1",
+                      "code": "promotion - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 2",
+                      "code": "promotion - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 3",
+                      "code": "promotion - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 4",
+                      "code": "promotion - 4",
                       "name": "Immediately Connected",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Vergünstigungen - 1",
+                      "code": "discount - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 2",
+                      "code": "discount - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 3",
+                      "code": "discount - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 4",
+                      "code": "discount - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 5",
+                      "code": "discount - 5",
                       "name": "VF All-in-One",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 6",
+                      "code": "discount - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -541,72 +541,72 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Aktionen - 1",
+                      "code": "promotion - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 2",
+                      "code": "promotion - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 3",
+                      "code": "promotion - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 4",
+                      "code": "promotion - 4",
                       "name": "Immediately Connected",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Vergünstigungen - 1",
+                      "code": "discount - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 2",
+                      "code": "discount - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 3",
+                      "code": "discount - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 4",
+                      "code": "discount - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 5",
+                      "code": "discount - 5",
                       "name": "VF All-in-One",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 6",
+                      "code": "discount - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -682,72 +682,72 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Aktionen - 1",
+                      "code": "promotion - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 2",
+                      "code": "promotion - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 3",
+                      "code": "promotion - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 4",
+                      "code": "promotion - 4",
                       "name": "Immediately Connected",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Vergünstigungen - 1",
+                      "code": "discount - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 2",
+                      "code": "discount - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 3",
+                      "code": "discount - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 4",
+                      "code": "discount - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 5",
+                      "code": "discount - 5",
                       "name": "VF All-in-One",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 6",
+                      "code": "discount - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -823,72 +823,72 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Aktionen - 1",
+                      "code": "promotion - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 2",
+                      "code": "promotion - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 3",
+                      "code": "promotion - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 4",
+                      "code": "promotion - 4",
                       "name": "Immediately Connected",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Vergünstigungen - 1",
+                      "code": "discount - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 2",
+                      "code": "discount - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 3",
+                      "code": "discount - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 4",
+                      "code": "discount - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 5",
+                      "code": "discount - 5",
                       "name": "VF All-in-One",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 6",
+                      "code": "discount - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -964,72 +964,72 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Aktionen - 1",
+                      "code": "promotion - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 2",
+                      "code": "promotion - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 3",
+                      "code": "promotion - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 4",
+                      "code": "promotion - 4",
                       "name": "Immediately Connected",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Vergünstigungen - 1",
+                      "code": "discount - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 2",
+                      "code": "discount - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 3",
+                      "code": "discount - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 4",
+                      "code": "discount - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 5",
+                      "code": "discount - 5",
                       "name": "VF All-in-One",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 6",
+                      "code": "discount - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -1105,72 +1105,72 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Aktionen - 1",
+                      "code": "promotion - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 2",
+                      "code": "promotion - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 3",
+                      "code": "promotion - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 4",
+                      "code": "promotion - 4",
                       "name": "Immediately Connected",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Vergünstigungen - 1",
+                      "code": "discount - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 2",
+                      "code": "discount - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 3",
+                      "code": "discount - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 4",
+                      "code": "discount - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 5",
+                      "code": "discount - 5",
                       "name": "VF All-in-One",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 6",
+                      "code": "discount - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -1246,72 +1246,72 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Aktionen - 1",
+                      "code": "promotion - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 2",
+                      "code": "promotion - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 3",
+                      "code": "promotion - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 4",
+                      "code": "promotion - 4",
                       "name": "Immediately Connected",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Vergünstigungen - 1",
+                      "code": "discount - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 2",
+                      "code": "discount - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 3",
+                      "code": "discount - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 4",
+                      "code": "discount - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 5",
+                      "code": "discount - 5",
                       "name": "VF All-in-One",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 6",
+                      "code": "discount - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -1387,72 +1387,72 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Aktionen - 1",
+                      "code": "promotion - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 2",
+                      "code": "promotion - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 3",
+                      "code": "promotion - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 4",
+                      "code": "promotion - 4",
                       "name": "Immediately Connected",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Vergünstigungen - 1",
+                      "code": "discount - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 2",
+                      "code": "discount - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 3",
+                      "code": "discount - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 4",
+                      "code": "discount - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 5",
+                      "code": "discount - 5",
                       "name": "VF All-in-One",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 6",
+                      "code": "discount - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -1528,72 +1528,72 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Aktionen - 1",
+                      "code": "promotion - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 2",
+                      "code": "promotion - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 3",
+                      "code": "promotion - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Aktionen - 4",
+                      "code": "promotion - 4",
                       "name": "Immediately Connected",
-                      "specification": "Aktionen",
+                      "specification": "promotion",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "Vergünstigungen - 1",
+                      "code": "discount - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 2",
+                      "code": "discount - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "Vergünstigungen - 3",
+                      "code": "discount - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 4",
+                      "code": "discount - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 5",
+                      "code": "discount - 5",
                       "name": "VF All-in-One",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "Vergünstigungen - 6",
+                      "code": "discount - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "Vergünstigungen",
+                      "specification": "discount",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
