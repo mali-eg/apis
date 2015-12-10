@@ -50,7 +50,7 @@
                       "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
-                      "validity": "free",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
@@ -58,7 +58,7 @@
                       "name": "Mobile TV",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
-                      "validity": "free",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
@@ -66,7 +66,7 @@
                       "name": "VF Happy International",
                       "specification": "tariff-addon",
                       "category": "Roaming",
-                      "validity": "free",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
@@ -74,7 +74,7 @@
                       "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
                       "category": "Roaming",
-                      "validity": "free",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
@@ -82,7 +82,7 @@
                       "name": "VF ReiseVersprechen Asien",
                       "specification": "tariff-addon",
                       "category": "Roaming",
-                      "validity": "free",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
@@ -90,7 +90,7 @@
                       "name": "EasyTravel Flat Tag",
                       "specification": "tariff-addon",
                       "category": "Roaming",
-                      "validity": "free",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
@@ -98,7 +98,7 @@
                       "name": "Zuhause Option",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
-                      "validity": "free",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
@@ -106,7 +106,7 @@
                       "name": "VF Handy-Tablet-Versicherung",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
-                      "validity": "free",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
@@ -114,76 +114,76 @@
                       "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
-                      "validity": "free",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "promotion - 1",
+                      "code": "Aktionen - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 2",
+                      "code": "Aktionen - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 3",
+                      "code": "Aktionen - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 4",
+                      "code": "Aktionen - 4",
                       "name": "Immediately Connected",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "discount - 1",
+                      "code": "Vergünstigungen - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 2",
+                      "code": "Vergünstigungen - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 3",
+                      "code": "Vergünstigungen - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 4",
+                      "code": "Vergünstigungen - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 5",
+                      "code": "Vergünstigungen - 5",
                       "name": "VF All-in-One",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 6",
+                      "code": "Vergünstigungen - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -235,96 +235,128 @@
                   ],
                   "product": [
                     {
-                      "code": "addonMailbox - 1",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Deezer Musik-Flat - 1",
+                      "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 2",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Mobile TV - 2",
+                      "name": "Mobile TV",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 3",
-                      "name": "Vodafone-MobileMail",
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
                       "specification": "tariff-addon",
-                      "category": "general",
-                      "validity": "free",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "promotion - 1",
+                      "code": "VF ReisePaket Data - 3",
+                      "name": "VF ReisePaket Data",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF ReiseVersprechen Asien - 3",
+                      "name": "VF ReiseVersprechen Asien",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "EasyTravel Flat Tag - 3",
+                      "name": "EasyTravel Flat Tag",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Aktionen - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 2",
+                      "code": "Aktionen - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 3",
+                      "code": "Aktionen - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 4",
+                      "code": "Aktionen - 4",
                       "name": "Immediately Connected",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "discount - 1",
+                      "code": "Vergünstigungen - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 2",
+                      "code": "Vergünstigungen - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 3",
+                      "code": "Vergünstigungen - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 4",
+                      "code": "Vergünstigungen - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 5",
+                      "code": "Vergünstigungen - 5",
                       "name": "VF All-in-One",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 6",
+                      "code": "Vergünstigungen - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -376,96 +408,128 @@
                   ],
                   "product": [
                     {
-                      "code": "addonMailbox - 1",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Deezer Musik-Flat - 1",
+                      "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 2",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Mobile TV - 2",
+                      "name": "Mobile TV",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 3",
-                      "name": "Vodafone-MobileMail",
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
                       "specification": "tariff-addon",
-                      "category": "general",
-                      "validity": "free",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "promotion - 1",
+                      "code": "VF ReisePaket Data - 3",
+                      "name": "VF ReisePaket Data",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF ReiseVersprechen Asien - 3",
+                      "name": "VF ReiseVersprechen Asien",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "EasyTravel Flat Tag - 3",
+                      "name": "EasyTravel Flat Tag",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Zuhause Option - 3",
+                      "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Aktionen - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 2",
+                      "code": "Aktionen - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 3",
+                      "code": "Aktionen - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 4",
+                      "code": "Aktionen - 4",
                       "name": "Immediately Connected",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "discount - 1",
+                      "code": "Vergünstigungen - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 2",
+                      "code": "Vergünstigungen - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 3",
+                      "code": "Vergünstigungen - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 4",
+                      "code": "Vergünstigungen - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 5",
+                      "code": "Vergünstigungen - 5",
                       "name": "VF All-in-One",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 6",
+                      "code": "Vergünstigungen - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -517,96 +581,120 @@
                   ],
                   "product": [
                     {
-                      "code": "addonMailbox - 1",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Deezer Musik-Flat - 1",
+                      "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 2",
-                      "name": "Vodafone-MobileMail",
+                      "code": "VF ReisePaket Data - 3",
+                      "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 3",
-                      "name": "Vodafone-MobileMail",
+                      "code": "VF ReiseVersprechen Asien - 3",
+                      "name": "VF ReiseVersprechen Asien",
                       "specification": "tariff-addon",
-                      "category": "general",
-                      "validity": "free",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "promotion - 1",
+                      "code": "EasyTravel Flat Tag - 3",
+                      "name": "EasyTravel Flat Tag",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Zuhause Option - 3",
+                      "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Aktionen - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 2",
+                      "code": "Aktionen - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 3",
+                      "code": "Aktionen - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 4",
+                      "code": "Aktionen - 4",
                       "name": "Immediately Connected",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "discount - 1",
+                      "code": "Vergünstigungen - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 2",
+                      "code": "Vergünstigungen - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 3",
+                      "code": "Vergünstigungen - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 4",
+                      "code": "Vergünstigungen - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 5",
+                      "code": "Vergünstigungen - 5",
                       "name": "VF All-in-One",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 6",
+                      "code": "Vergünstigungen - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -658,96 +746,128 @@
                   ],
                   "product": [
                     {
-                      "code": "addonMailbox - 1",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Mobile TV - 2",
+                      "name": "Mobile TV",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 2",
-                      "name": "Vodafone-MobileMail",
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 3",
-                      "name": "Vodafone-MobileMail",
+                      "code": "VF ReisePaket Data - 3",
+                      "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
-                      "category": "general",
-                      "validity": "free",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "promotion - 1",
+                      "code": "VF ReiseVersprechen Asien - 3",
+                      "name": "VF ReiseVersprechen Asien",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "EasyTravel Flat Tag - 3",
+                      "name": "EasyTravel Flat Tag",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Zuhause Option - 3",
+                      "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Aktionen - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 2",
+                      "code": "Aktionen - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 3",
+                      "code": "Aktionen - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 4",
+                      "code": "Aktionen - 4",
                       "name": "Immediately Connected",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "discount - 1",
+                      "code": "Vergünstigungen - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 2",
+                      "code": "Vergünstigungen - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 3",
+                      "code": "Vergünstigungen - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 4",
+                      "code": "Vergünstigungen - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 5",
+                      "code": "Vergünstigungen - 5",
                       "name": "VF All-in-One",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 6",
+                      "code": "Vergünstigungen - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -799,96 +919,120 @@
                   ],
                   "product": [
                     {
-                      "code": "addonMailbox - 1",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Deezer Musik-Flat - 1",
+                      "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 2",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Mobile TV - 2",
+                      "name": "Mobile TV",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 3",
-                      "name": "Vodafone-MobileMail",
+                      "code": "VF ReisePaket Data - 3",
+                      "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
-                      "category": "general",
-                      "validity": "free",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "promotion - 1",
+                      "code": "VF ReiseVersprechen Asien - 3",
+                      "name": "VF ReiseVersprechen Asien",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "EasyTravel Flat Tag - 3",
+                      "name": "EasyTravel Flat Tag",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Zuhause Option - 3",
+                      "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Aktionen - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 2",
+                      "code": "Aktionen - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 3",
+                      "code": "Aktionen - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 4",
+                      "code": "Aktionen - 4",
                       "name": "Immediately Connected",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "discount - 1",
+                      "code": "Vergünstigungen - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 2",
+                      "code": "Vergünstigungen - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 3",
+                      "code": "Vergünstigungen - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 4",
+                      "code": "Vergünstigungen - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 5",
+                      "code": "Vergünstigungen - 5",
                       "name": "VF All-in-One",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 6",
+                      "code": "Vergünstigungen - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -940,96 +1084,128 @@
                   ],
                   "product": [
                     {
-                      "code": "addonMailbox - 1",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Deezer Musik-Flat - 1",
+                      "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 2",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Mobile TV - 2",
+                      "name": "Mobile TV",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 3",
-                      "name": "Vodafone-MobileMail",
+                      "code": "VF ReisePaket Data - 3",
+                      "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
-                      "category": "general",
-                      "validity": "free",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "promotion - 1",
+                      "code": "VF ReiseVersprechen Asien - 3",
+                      "name": "VF ReiseVersprechen Asien",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "EasyTravel Flat Tag - 3",
+                      "name": "EasyTravel Flat Tag",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Zuhause Option - 3",
+                      "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Aktionen - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 2",
+                      "code": "Aktionen - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 3",
+                      "code": "Aktionen - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 4",
+                      "code": "Aktionen - 4",
                       "name": "Immediately Connected",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "discount - 1",
+                      "code": "Vergünstigungen - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 2",
+                      "code": "Vergünstigungen - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 3",
+                      "code": "Vergünstigungen - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 4",
+                      "code": "Vergünstigungen - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 5",
+                      "code": "Vergünstigungen - 5",
                       "name": "VF All-in-One",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 6",
+                      "code": "Vergünstigungen - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -1081,96 +1257,128 @@
                   ],
                   "product": [
                     {
-                      "code": "addonMailbox - 1",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Deezer Musik-Flat - 1",
+                      "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 2",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Mobile TV - 2",
+                      "name": "Mobile TV",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 3",
-                      "name": "Vodafone-MobileMail",
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
                       "specification": "tariff-addon",
-                      "category": "general",
-                      "validity": "free",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "promotion - 1",
+                      "code": "VF ReisePaket Data - 3",
+                      "name": "VF ReisePaket Data",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF ReiseVersprechen Asien - 3",
+                      "name": "VF ReiseVersprechen Asien",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "EasyTravel Flat Tag - 3",
+                      "name": "EasyTravel Flat Tag",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Zuhause Option - 3",
+                      "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Aktionen - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 2",
+                      "code": "Aktionen - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 3",
+                      "code": "Aktionen - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 4",
+                      "code": "Aktionen - 4",
                       "name": "Immediately Connected",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "discount - 1",
+                      "code": "Vergünstigungen - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 2",
+                      "code": "Vergünstigungen - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 3",
+                      "code": "Vergünstigungen - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 4",
+                      "code": "Vergünstigungen - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 5",
+                      "code": "Vergünstigungen - 5",
                       "name": "VF All-in-One",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 6",
+                      "code": "Vergünstigungen - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -1222,96 +1430,128 @@
                   ],
                   "product": [
                     {
-                      "code": "addonMailbox - 1",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Deezer Musik-Flat - 1",
+                      "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 2",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Mobile TV - 2",
+                      "name": "Mobile TV",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 3",
-                      "name": "Vodafone-MobileMail",
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
                       "specification": "tariff-addon",
-                      "category": "general",
-                      "validity": "free",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "promotion - 1",
+                      "code": "VF ReiseVersprechen Asien - 3",
+                      "name": "VF ReiseVersprechen Asien",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "EasyTravel Flat Tag - 3",
+                      "name": "EasyTravel Flat Tag",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Zuhause Option - 3",
+                      "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Aktionen - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 2",
+                      "code": "Aktionen - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 3",
+                      "code": "Aktionen - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 4",
+                      "code": "Aktionen - 4",
                       "name": "Immediately Connected",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "discount - 1",
+                      "code": "Vergünstigungen - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 2",
+                      "code": "Vergünstigungen - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 3",
+                      "code": "Vergünstigungen - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 4",
+                      "code": "Vergünstigungen - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 5",
+                      "code": "Vergünstigungen - 5",
                       "name": "VF All-in-One",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 6",
+                      "code": "Vergünstigungen - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -1363,96 +1603,120 @@
                   ],
                   "product": [
                     {
-                      "code": "addonMailbox - 1",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Mobile TV - 2",
+                      "name": "Mobile TV",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 2",
-                      "name": "Vodafone-MobileMail",
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 3",
-                      "name": "Vodafone-MobileMail",
+                      "code": "VF ReisePaket Data - 3",
+                      "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
-                      "category": "general",
-                      "validity": "free",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "promotion - 1",
+                      "code": "VF ReiseVersprechen Asien - 3",
+                      "name": "VF ReiseVersprechen Asien",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "EasyTravel Flat Tag - 3",
+                      "name": "EasyTravel Flat Tag",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Zuhause Option - 3",
+                      "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Aktionen - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 2",
+                      "code": "Aktionen - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 3",
+                      "code": "Aktionen - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 4",
+                      "code": "Aktionen - 4",
                       "name": "Immediately Connected",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "discount - 1",
+                      "code": "Vergünstigungen - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 2",
+                      "code": "Vergünstigungen - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 3",
+                      "code": "Vergünstigungen - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 4",
+                      "code": "Vergünstigungen - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 5",
+                      "code": "Vergünstigungen - 5",
                       "name": "VF All-in-One",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 6",
+                      "code": "Vergünstigungen - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
@@ -1504,96 +1768,112 @@
                   ],
                   "product": [
                     {
-                      "code": "addonMailbox - 1",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Deezer Musik-Flat - 1",
+                      "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 2",
-                      "name": "Vodafone-MobileMail",
+                      "code": "Mobile TV - 2",
+                      "name": "Mobile TV",
                       "specification": "tariff-addon",
-                      "category": "mailbox",
-                      "validity": "free",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "addonMailbox - 3",
-                      "name": "Vodafone-MobileMail",
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
                       "specification": "tariff-addon",
-                      "category": "general",
-                      "validity": "free",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "promotion - 1",
+                      "code": "VF ReisePaket Data - 3",
+                      "name": "VF ReisePaket Data",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF ReiseVersprechen Asien - 3",
+                      "name": "VF ReiseVersprechen Asien",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Aktionen - 1",
                       "name": "Zusätzliches Startguthaben",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 2",
+                      "code": "Aktionen - 2",
                       "name": "Rabatt auf Basispreis",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 3",
+                      "code": "Aktionen - 3",
                       "name": "AP-Frei ab der 2. Karte",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "promotion - 4",
+                      "code": "Aktionen - 4",
                       "name": "Immediately Connected",
-                      "specification": "promotion",
+                      "specification": "Aktionen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
                     },
                     {
-                      "code": "discount - 1",
+                      "code": "Vergünstigungen - 1",
                       "name": "Studenten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 2",
+                      "code": "Vergünstigungen - 2",
                       "name": "Junge Leute-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "24 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
                     },
                     {
-                      "code": "discount - 3",
+                      "code": "Vergünstigungen - 3",
                       "name": "Behinderten-Vorteil",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 4",
+                      "code": "Vergünstigungen - 4",
                       "name": "SoHo 15% auf SIMonly",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 5",
+                      "code": "Vergünstigungen - 5",
                       "name": "VF All-in-One",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     },
                     {
-                      "code": "discount - 6",
+                      "code": "Vergünstigungen - 6",
                       "name": "Anschlusspreisbefreiung",
-                      "specification": "discount",
+                      "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
                     }
