@@ -14,7 +14,7 @@ Handlers.defaultHandler = function (request, reply) {
 
     //reply(Util.getData(filePath));
     setTimeout(function () {
-        reply(bf).header('Content-Type', 'application/pdf').header('content-disposition', 'attachment;filename=' + fileName);
+        reply(bf).header('Content-Type', 'application/pdf').header('content-disposition', 'inline; filename=' + fileName);
     }, 3000)
 
 };
