@@ -24,7 +24,7 @@
         },
         "contactPoints": [
           {
-            "contactPerson": "Peter Müller",
+            "contactPerson": "Herr Müller",
             "postal": {
               "type": "CustomerAddress",
               "street": "Ferdinand-Braun-Platz",
