@@ -1,10 +1,13 @@
 {
-  "statusCode":200,
+  "statusCode": 200,
   "customerAccountVBO": [
     {
       "accountID": "2003453",
       "category": "private",
       "skeletonContractNumber": 12345678,
+      "details": {
+        "password": "Fortuna"
+      },
       "parts": {
         "individual": {
           "salutation": "Herr",
@@ -14,6 +17,14 @@
           "prefix": "Van de",
           "aristocraticTitle": "Graf von",
           "birthDate": "1980-01-01"
+        },
+        "idCard": {
+          "documentNumber": "1234567890",
+          "bankName": "Sparkasse Düsseldorf",
+          "idCardNumber": "123456789012",
+          "idCardType": "Passport",
+          "idCardCountry": "DE",
+          "idCardExpiryDate": "2018-01-01"
         },
         "artifacts": {
           "documentNumber": "8510035220",
@@ -129,3 +140,6 @@
     }
   ]
 }
+
+
+
