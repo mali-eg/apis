@@ -3,17 +3,68 @@
   "subscriptions": [
     {
       "details": {
-        "msisdn": "4917246578974",
         "reservedPhoneNumber": "4917246578976"
       },
       "contractDetails": {
-        "startDate": "17.12.2015"
+        "startDate": "2015-01-01"
       },
       "preferences": {
+        "copyLegalToSubscrAddress": true,
+        "copyBillingToSubscrAddress": false,
         "desiredOverview": "Mini",
         "desiredNumber": "Complete",
         "displayedNumber": "EnableCaseToCase",
         "setSharingGroupOwner": true
+      },
+      "porting": {
+        "individual": {
+          "firstName": "Jonh",
+          "familyName": "Johnson",
+          "birthDate": "1990-01-01"
+        },
+        "oldServiceProvider": "TMOB",
+        "oldCustomerNumber": "10033232",
+        "quickPorting": true,
+        "telephone": {
+          "countryCode": "49",
+          "localAreaCode": "172",
+          "subscriberNumber": "1234567"
+        },
+        "numbers": {
+          "countryCode": "49",
+          "localAreaCode": "172",
+          "mainPhoneNumber": "12233443"
+        }
+      },
+      "specialPorting": {
+        "individual": {
+          "firstName": "Jonh",
+          "familyName": "Johnson"
+        },
+        "address": {
+          "type": "HOMEZONE",
+          "street": "Roadstraße",
+          "streetNumber": "23",
+          "postCode": "12345",
+          "city": "Citystadt",
+          "country": "Deutschland"
+        },
+        "landPorting": {
+          "provider": "TMOB",
+          "desiredPortingDate": "2015-01-02",
+          "connectionType": "normal",
+          "numbers": {
+            "countryCode": "49",
+            "localAreaCode": "172",
+            "mainPhoneNumber": "12233443",
+            "additionalPhoneNumber": [
+              "0211123450",
+              "0211123451",
+              "0211123452"
+            ],
+            "portAllNumbers": true
+          }
+        }
       },
       "address": {
         "type": "SUBSCRIBER",
@@ -28,3 +79,7 @@
     }
   ]
 }
+
+
+
+

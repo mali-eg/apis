@@ -43,15 +43,15 @@
               ],
               "product": [
                 {
-                  "specification": "discount",
-                  "count": 2
+                  "specification": "Addons",
+                  "count": 1
                 },
                 {
-                  "specification": "promotion",
+                  "specification": "Promotions",
                   "count": 0
                 },
                 {
-                  "specification": "tariff-addon",
+                  "specification": "Rabatte",
                   "count": 2
                 }
               ]
