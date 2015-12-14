@@ -3,7 +3,7 @@
   "customerAccountVBO": [
     {
       "accountID": "2003453",
-      "category": "private",
+      "category": "privat",
       "skeletonContractNumber": "-",
       "details": {
         "password": "Fortuna"
@@ -56,7 +56,7 @@
           }
         ],
         "preferences": {
-          "advertisingIndicator": true,
+          "advertisingIndicator": "erlaubt",
           "personalDataEvalIndicator": false,
           "hasMessageForBackOffice": false,
           "manualCheck": false,
