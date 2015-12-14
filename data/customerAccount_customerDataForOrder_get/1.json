@@ -74,7 +74,7 @@
               "bankCode": "30050110",
               "bankName": "Sparkasse Düsseldorf",
               "iban": "DE34371600870583581006",
-              "bic": "DUSSDEDDXXX",
+              "bic": "GENODED1CGN",
               "reasonForPayment": "Direct Debit Feature"
             },
             "bankAddress": {
