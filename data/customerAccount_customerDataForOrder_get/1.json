@@ -4,19 +4,19 @@
     {
       "accountID": "2003453",
       "category": "private",
-      "skeletonContractNumber": 12345678,
+      "skeletonContractNumber": "-",
       "details": {
         "password": "Fortuna"
       },
       "parts": {
         "individual": {
           "salutation": "Herr",
-          "title": "Dr",
+          "title": "-",
           "firstName": "Peter",
           "familyName": "Müller",
           "prefix": "Van de",
           "aristocraticTitle": "Graf von",
-          "birthDate": "1980-01-01"
+          "birthDate": "03.10.1985"
         },
         "idCard": {
           "documentNumber": "1234567890",
@@ -63,9 +63,9 @@
           "messageToBackOffice": "Please contact?"
         },
         "billingAccount": {
-          "invoiceDeliveryType": "EMAIL",
+          "invoiceDeliveryType": "Kostenlose Online-Rechnung",
           "sameAsCustAddress": true,
-          "hasSMSNotification": true,
+          "hasSMSNotification": "-",
           "contactPerson": "Peter Müller",
           "paymentMethod": {
             "bankPayment": {
