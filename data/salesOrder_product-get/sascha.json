@@ -283,8 +283,24 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
+                      "code": "Zuhause Option - 3",
+                      "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
                       "code": "VF Handy-Tablet-Versicherung - 3",
                       "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -464,6 +480,22 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
                       "code": "Aktionen - 1",
                       "name": "Zusätzliches Startguthaben",
                       "specification": "Aktionen",
@@ -589,6 +621,22 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
+                      "code": "Mobile TV - 2",
+                      "name": "Mobile TV",
+                      "specification": "tariff-addon",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
                       "code": "VF ReisePaket Data - 3",
                       "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
@@ -623,6 +671,14 @@
                     {
                       "code": "VF Handy-Tablet-Versicherung - 3",
                       "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -746,6 +802,14 @@
                   ],
                   "product": [
                     {
+                      "code": "Deezer Musik-Flat - 1",
+                      "name": "Deezer Musik-Flat",
+                      "specification": "tariff-addon",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
                       "code": "Mobile TV - 2",
                       "name": "Mobile TV",
                       "specification": "tariff-addon",
@@ -796,6 +860,14 @@
                     {
                       "code": "VF Handy-Tablet-Versicherung - 3",
                       "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -935,6 +1007,14 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
                       "code": "VF ReisePaket Data - 3",
                       "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
@@ -961,6 +1041,22 @@
                     {
                       "code": "Zuhause Option - 3",
                       "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -1100,6 +1196,14 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
                       "code": "VF ReisePaket Data - 3",
                       "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
@@ -1134,6 +1238,14 @@
                     {
                       "code": "VF Handy-Tablet-Versicherung - 3",
                       "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -1313,6 +1425,22 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
                       "code": "Aktionen - 1",
                       "name": "Zusätzliches Startguthaben",
                       "specification": "Aktionen",
@@ -1454,6 +1582,14 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
+                      "code": "VF ReisePaket Data - 3",
+                      "name": "VF ReisePaket Data",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
                       "code": "VF ReiseVersprechen Asien - 3",
                       "name": "VF ReiseVersprechen Asien",
                       "specification": "tariff-addon",
@@ -1480,6 +1616,14 @@
                     {
                       "code": "VF Handy-Tablet-Versicherung - 3",
                       "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -1603,6 +1747,14 @@
                   ],
                   "product": [
                     {
+                      "code": "Deezer Musik-Flat - 1",
+                      "name": "Deezer Musik-Flat",
+                      "specification": "tariff-addon",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
                       "code": "Mobile TV - 2",
                       "name": "Mobile TV",
                       "specification": "tariff-addon",
@@ -1645,6 +1797,22 @@
                     {
                       "code": "Zuhause Option - 3",
                       "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -1808,6 +1976,38 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
+                      "code": "EasyTravel Flat Tag - 3",
+                      "name": "EasyTravel Flat Tag",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Zuhause Option - 3",
+                      "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
                       "code": "Aktionen - 1",
                       "name": "Zusätzliches Startguthaben",
                       "specification": "Aktionen",
@@ -1925,7 +2125,7 @@
                   ],
                   "product": [
                     {
-                      "code": "Deezer Musik-Flat - 1-2",
+                      "code": "Deezer Musik-Flat - 1",
                       "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -1933,7 +2133,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Mobile TV - 2-2",
+                      "code": "Mobile TV - 2",
                       "name": "Mobile TV",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -1941,7 +2141,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF Happy International - 3-2",
+                      "code": "VF Happy International - 3",
                       "name": "VF Happy International",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -1949,7 +2149,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReisePaket Data - 3-2",
+                      "code": "VF ReisePaket Data - 3",
                       "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -1957,7 +2157,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReiseVersprechen Asien - 3-2",
+                      "code": "VF ReiseVersprechen Asien - 3",
                       "name": "VF ReiseVersprechen Asien",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -1965,7 +2165,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "EasyTravel Flat Tag - 3-2",
+                      "code": "EasyTravel Flat Tag - 3",
                       "name": "EasyTravel Flat Tag",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -1973,8 +2173,24 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Zuhause Option - 3-2",
+                      "code": "Zuhause Option - 3",
                       "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -2114,7 +2330,7 @@
                   ],
                   "product": [
                     {
-                      "code": "Deezer Musik-Flat - 1-2",
+                      "code": "Deezer Musik-Flat - 1",
                       "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -2122,7 +2338,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Mobile TV - 2-2",
+                      "code": "Mobile TV - 2",
                       "name": "Mobile TV",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -2130,7 +2346,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF Happy International - 3-2",
+                      "code": "VF Happy International - 3",
                       "name": "VF Happy International",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2138,7 +2354,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReisePaket Data - 3-2",
+                      "code": "VF ReisePaket Data - 3",
                       "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2146,7 +2362,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReiseVersprechen Asien - 3-2",
+                      "code": "VF ReiseVersprechen Asien - 3",
                       "name": "VF ReiseVersprechen Asien",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2154,7 +2370,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "EasyTravel Flat Tag - 3-2",
+                      "code": "EasyTravel Flat Tag - 3",
                       "name": "EasyTravel Flat Tag",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2162,8 +2378,24 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF Handy-Tablet-Versicherung - 3-2",
+                      "code": "Zuhause Option - 3",
+                      "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
                       "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -2287,7 +2519,7 @@
                   ],
                   "product": [
                     {
-                      "code": "Deezer Musik-Flat - 1-2",
+                      "code": "Deezer Musik-Flat - 1",
                       "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -2295,7 +2527,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Mobile TV - 2-2",
+                      "code": "Mobile TV - 2",
                       "name": "Mobile TV",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -2303,7 +2535,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF Happy International - 3-2",
+                      "code": "VF Happy International - 3",
                       "name": "VF Happy International",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2311,7 +2543,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReisePaket Data - 3-2",
+                      "code": "VF ReisePaket Data - 3",
                       "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2319,7 +2551,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReiseVersprechen Asien - 3-2",
+                      "code": "VF ReiseVersprechen Asien - 3",
                       "name": "VF ReiseVersprechen Asien",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2327,7 +2559,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "EasyTravel Flat Tag - 3-2",
+                      "code": "EasyTravel Flat Tag - 3",
                       "name": "EasyTravel Flat Tag",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2335,8 +2567,24 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Zuhause Option - 3-2",
+                      "code": "Zuhause Option - 3",
                       "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -2460,7 +2708,7 @@
                   ],
                   "product": [
                     {
-                      "code": "Deezer Musik-Flat - 1-2",
+                      "code": "Deezer Musik-Flat - 1",
                       "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -2468,7 +2716,23 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReisePaket Data - 3-2",
+                      "code": "Mobile TV - 2",
+                      "name": "Mobile TV",
+                      "specification": "tariff-addon",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF ReisePaket Data - 3",
                       "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2476,7 +2740,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReiseVersprechen Asien - 3-2",
+                      "code": "VF ReiseVersprechen Asien - 3",
                       "name": "VF ReiseVersprechen Asien",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2484,7 +2748,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "EasyTravel Flat Tag - 3-2",
+                      "code": "EasyTravel Flat Tag - 3",
                       "name": "EasyTravel Flat Tag",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2492,7 +2756,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Zuhause Option - 3-2",
+                      "code": "Zuhause Option - 3",
                       "name": "Zuhause Option",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
@@ -2500,8 +2764,16 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF Handy-Tablet-Versicherung - 3-2",
+                      "code": "VF Handy-Tablet-Versicherung - 3",
                       "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -2625,7 +2897,15 @@
                   ],
                   "product": [
                     {
-                      "code": "Mobile TV - 2-2",
+                      "code": "Deezer Musik-Flat - 1",
+                      "name": "Deezer Musik-Flat",
+                      "specification": "tariff-addon",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Mobile TV - 2",
                       "name": "Mobile TV",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -2633,7 +2913,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF Happy International - 3-2",
+                      "code": "VF Happy International - 3",
                       "name": "VF Happy International",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2641,7 +2921,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReisePaket Data - 3-2",
+                      "code": "VF ReisePaket Data - 3",
                       "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2649,7 +2929,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReiseVersprechen Asien - 3-2",
+                      "code": "VF ReiseVersprechen Asien - 3",
                       "name": "VF ReiseVersprechen Asien",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2657,7 +2937,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "EasyTravel Flat Tag - 3-2",
+                      "code": "EasyTravel Flat Tag - 3",
                       "name": "EasyTravel Flat Tag",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2665,7 +2945,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Zuhause Option - 3-2",
+                      "code": "Zuhause Option - 3",
                       "name": "Zuhause Option",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
@@ -2673,8 +2953,16 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF Handy-Tablet-Versicherung - 3-2",
+                      "code": "VF Handy-Tablet-Versicherung - 3",
                       "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -2798,7 +3086,7 @@
                   ],
                   "product": [
                     {
-                      "code": "Deezer Musik-Flat - 1-2",
+                      "code": "Deezer Musik-Flat - 1",
                       "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -2806,7 +3094,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Mobile TV - 2-2",
+                      "code": "Mobile TV - 2",
                       "name": "Mobile TV",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -2814,7 +3102,15 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReisePaket Data - 3-2",
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF ReisePaket Data - 3",
                       "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2822,7 +3118,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReiseVersprechen Asien - 3-2",
+                      "code": "VF ReiseVersprechen Asien - 3",
                       "name": "VF ReiseVersprechen Asien",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2830,7 +3126,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "EasyTravel Flat Tag - 3-2",
+                      "code": "EasyTravel Flat Tag - 3",
                       "name": "EasyTravel Flat Tag",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2838,8 +3134,24 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Zuhause Option - 3-2",
+                      "code": "Zuhause Option - 3",
                       "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -2963,7 +3275,7 @@
                   ],
                   "product": [
                     {
-                      "code": "Deezer Musik-Flat - 1-2",
+                      "code": "Deezer Musik-Flat - 1",
                       "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -2971,7 +3283,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Mobile TV - 2-2",
+                      "code": "Mobile TV - 2",
                       "name": "Mobile TV",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -2979,7 +3291,15 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReisePaket Data - 3-2",
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF ReisePaket Data - 3",
                       "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2987,7 +3307,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReiseVersprechen Asien - 3-2",
+                      "code": "VF ReiseVersprechen Asien - 3",
                       "name": "VF ReiseVersprechen Asien",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -2995,7 +3315,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "EasyTravel Flat Tag - 3-2",
+                      "code": "EasyTravel Flat Tag - 3",
                       "name": "EasyTravel Flat Tag",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -3003,7 +3323,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Zuhause Option - 3-2",
+                      "code": "Zuhause Option - 3",
                       "name": "Zuhause Option",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
@@ -3011,8 +3331,16 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF Handy-Tablet-Versicherung - 3-2",
+                      "code": "VF Handy-Tablet-Versicherung - 3",
                       "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -3136,7 +3464,7 @@
                   ],
                   "product": [
                     {
-                      "code": "Deezer Musik-Flat - 1-2",
+                      "code": "Deezer Musik-Flat - 1",
                       "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -3144,7 +3472,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Mobile TV - 2-2",
+                      "code": "Mobile TV - 2",
                       "name": "Mobile TV",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -3152,7 +3480,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF Happy International - 3-2",
+                      "code": "VF Happy International - 3",
                       "name": "VF Happy International",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -3160,7 +3488,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReisePaket Data - 3-2",
+                      "code": "VF ReisePaket Data - 3",
                       "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -3168,7 +3496,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReiseVersprechen Asien - 3-2",
+                      "code": "VF ReiseVersprechen Asien - 3",
                       "name": "VF ReiseVersprechen Asien",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -3176,7 +3504,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "EasyTravel Flat Tag - 3-2",
+                      "code": "EasyTravel Flat Tag - 3",
                       "name": "EasyTravel Flat Tag",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -3184,8 +3512,24 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Zuhause Option - 3-2",
+                      "code": "Zuhause Option - 3",
                       "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -3309,7 +3653,7 @@
                   ],
                   "product": [
                     {
-                      "code": "Deezer Musik-Flat - 1-2",
+                      "code": "Deezer Musik-Flat - 1",
                       "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -3317,7 +3661,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Mobile TV - 2-2",
+                      "code": "Mobile TV - 2",
                       "name": "Mobile TV",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -3325,7 +3669,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF Happy International - 3-2",
+                      "code": "VF Happy International - 3",
                       "name": "VF Happy International",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -3333,7 +3677,15 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReiseVersprechen Asien - 3-2",
+                      "code": "VF ReisePaket Data - 3",
+                      "name": "VF ReisePaket Data",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF ReiseVersprechen Asien - 3",
                       "name": "VF ReiseVersprechen Asien",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -3341,7 +3693,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "EasyTravel Flat Tag - 3-2",
+                      "code": "EasyTravel Flat Tag - 3",
                       "name": "EasyTravel Flat Tag",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -3349,7 +3701,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Zuhause Option - 3-2",
+                      "code": "Zuhause Option - 3",
                       "name": "Zuhause Option",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
@@ -3357,8 +3709,16 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF Handy-Tablet-Versicherung - 3-2",
+                      "code": "VF Handy-Tablet-Versicherung - 3",
                       "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -3482,7 +3842,15 @@
                   ],
                   "product": [
                     {
-                      "code": "Mobile TV - 2-2",
+                      "code": "Deezer Musik-Flat - 1",
+                      "name": "Deezer Musik-Flat",
+                      "specification": "tariff-addon",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Mobile TV - 2",
                       "name": "Mobile TV",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -3490,7 +3858,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF Happy International - 3-2",
+                      "code": "VF Happy International - 3",
                       "name": "VF Happy International",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -3498,7 +3866,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReisePaket Data - 3-2",
+                      "code": "VF ReisePaket Data - 3",
                       "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -3506,7 +3874,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReiseVersprechen Asien - 3-2",
+                      "code": "VF ReiseVersprechen Asien - 3",
                       "name": "VF ReiseVersprechen Asien",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -3514,7 +3882,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "EasyTravel Flat Tag - 3-2",
+                      "code": "EasyTravel Flat Tag - 3",
                       "name": "EasyTravel Flat Tag",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -3522,8 +3890,24 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Zuhause Option - 3-2",
+                      "code": "Zuhause Option - 3",
                       "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
                       "specification": "tariff-addon",
                       "category": "Sonstige",
                       "validity": "24 Monate",
@@ -3647,7 +4031,7 @@
                   ],
                   "product": [
                     {
-                      "code": "Deezer Musik-Flat - 1-2",
+                      "code": "Deezer Musik-Flat - 1",
                       "name": "Deezer Musik-Flat",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -3655,7 +4039,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "Mobile TV - 2-2",
+                      "code": "Mobile TV - 2",
                       "name": "Mobile TV",
                       "specification": "tariff-addon",
                       "category": "Entertainment",
@@ -3663,7 +4047,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF Happy International - 3-2",
+                      "code": "VF Happy International - 3",
                       "name": "VF Happy International",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -3671,7 +4055,7 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReisePaket Data - 3-2",
+                      "code": "VF ReisePaket Data - 3",
                       "name": "VF ReisePaket Data",
                       "specification": "tariff-addon",
                       "category": "Roaming",
@@ -3679,10 +4063,42 @@
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
-                      "code": "VF ReiseVersprechen Asien - 3-2",
+                      "code": "VF ReiseVersprechen Asien - 3",
                       "name": "VF ReiseVersprechen Asien",
                       "specification": "tariff-addon",
                       "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "EasyTravel Flat Tag - 3",
+                      "name": "EasyTravel Flat Tag",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Zuhause Option - 3",
+                      "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
                       "validity": "24 Monate",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
