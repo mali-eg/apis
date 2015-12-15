@@ -40,40 +40,6 @@
                 "familyName": "Muller"
               }
             }
-          },
-          {
-            "orderLineItemID": "674380545-2",
-            "type": "comfortPorting",
-            "category": "NPCM",
-            "status": "sent",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
-            "subscription": {
-              "subscriptionID": "4917232323657"
-            },
-            "billToParty": {
-              "individual": {
-                "firstName": "Frank",
-                "familyName": "Muller"
-              }
-            }
-          },
-          {
-            "orderLineItemID": "674380545-3",
-            "type": "normalPorting",
-            "category": "NBCM",
-            "status": "pending",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
-            "subscription": {
-              "subscriptionID": "4917232323658"
-            },
-            "billToParty": {
-              "individual": {
-                "firstName": "Frank",
-                "familyName": "Muller"
-              }
-            }
           }
         ]
       }
