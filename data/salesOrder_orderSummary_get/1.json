@@ -44,7 +44,7 @@
               "product": [
                 {
                   "specification": "Addons",
-                  "count": 1
+                  "count": 2
                 },
                 {
                   "specification": "Promotions",
@@ -52,7 +52,7 @@
                 },
                 {
                   "specification": "Rabatte",
-                  "count": 2
+                  "count": 1
                 }
               ]
             }

@@ -1,7 +1,83 @@
 {
   "currentIndex": 5,
-  "totalCount": 11,
+  "totalCount": 12,
   "salesOrderVBO": [
+    {
+      "orderID": "674380544",
+      "status": "final",
+      "created": "2015-09-24T20:46:12",
+      "lastModified": "2015-09-24T20:46:12",
+      "count": 5,
+      "details":{
+        "contactInfo":"SalesAgent007",
+        "callBackDate":"2015-09-24T20:55:09.323+02:00",
+        "additionalInformation":"5 Orders Added"
+      },
+      "roles": {
+        "agent": {
+          "voID": "12345678",
+          "name": "Peter Müller"
+        },
+        "customer": {
+          "type": "private"
+        }
+      },
+      "parts": {
+        "lineItems": [
+          {
+            "orderLineItemID": "674380545-1",
+            "type": "activation",
+            "category": "NPCM",
+            "status": "draft",
+            "lastModified": "2015-09-24T20:46:12",
+            "orderDateTime": "2015-09-24T20:46:12",
+            "subscription": {
+              "subscriptionID": "4917232323656"
+            },
+            "billToParty": {
+              "individual": {
+                "firstName": "Frank",
+                "familyName": "Muller"
+              }
+            }
+          },
+          {
+            "orderLineItemID": "674380545-2",
+            "type": "comfortPorting",
+            "category": "NPCM",
+            "status": "sent",
+            "lastModified": "2015-09-24T20:46:12",
+            "orderDateTime": "2015-09-24T20:46:12",
+            "subscription": {
+              "subscriptionID": "4917232323657"
+            },
+            "billToParty": {
+              "individual": {
+                "firstName": "Frank",
+                "familyName": "Muller"
+              }
+            }
+          },
+          {
+            "orderLineItemID": "674380545-3",
+            "type": "normalPorting",
+            "category": "NBCM",
+            "status": "pending",
+            "lastModified": "2015-09-24T20:46:12",
+            "orderDateTime": "2015-09-24T20:46:12",
+            "subscription": {
+              "subscriptionID": "4917232323658"
+            },
+            "billToParty": {
+              "individual": {
+                "firstName": "Frank",
+                "familyName": "Muller"
+              }
+            }
+          }
+        ]
+      }
+    },
     {
       "orderID": "674380545",
       "status": "final",
