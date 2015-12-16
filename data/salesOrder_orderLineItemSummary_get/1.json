@@ -22,9 +22,9 @@
           {
             "orderLineItemID": "674380545-1",
             "desc": "New Private Customer Mobile",
-            "type": "activation",
+            "type": "Aktivierung",
             "category": "NPCM",
-            "status": "accepted",
+            "status": "Akzeptiert",
             "productOffering": {
               "product": [
                 {
