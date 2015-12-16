@@ -4,7 +4,7 @@
   "salesOrderVBO": [
     {
       "orderID": "674380544",
-      "status": "final",
+      "status": "Final",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 5,
@@ -46,7 +46,7 @@
     },
     {
       "orderID": "674380545",
-      "status": "final",
+      "status": "Final",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 5,
@@ -138,7 +138,7 @@
             "orderLineItemID": "674380545-5",
             "type": "FixedActivation",
             "category": "NPCF",
-            "status": "activated",
+            "status": "Activated",
             "lastModified": "2015-09-24T20:46:12",
             "orderDateTime": "2015-09-24T20:46:12",
             "billToParty": {
@@ -156,7 +156,7 @@
     },
     {
       "orderID": "674380547",
-      "status": "activated",
+      "status": "Activated",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 2,
@@ -173,7 +173,7 @@
             "orderLineItemID": "674380547-1",
             "type": "Activation",
             "category": "NPBM",
-            "status": "activated",
+            "status": "Activated",
             "lastModified": "2015-09-24T20:46:12",
             "orderDateTime": "2015-09-24T20:46:12",
             "subscription": {
@@ -190,7 +190,7 @@
             "orderLineItemID": "674380547-2",
             "type": "CreditPorting",
             "category": "NPBM",
-            "status": "activated",
+            "status": "Activated",
             "lastModified": "2015-09-24T20:46:12",
             "orderDateTime": "2015-09-24T20:46:12",
             "subscription": {
@@ -208,7 +208,7 @@
     },
     {
       "orderID": "674380548",
-      "status": "activated",
+      "status": "Activated",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 2,
@@ -225,7 +225,7 @@
             "orderLineItemID": "674380548-1",
             "type": "Activation",
             "category": "NPBM",
-            "status": "activated",
+            "status": "Activated",
             "lastModified": "2015-09-24T20:46:12",
             "orderDateTime": "2015-09-24T20:46:12",
             "subscription": {
@@ -242,7 +242,7 @@
             "orderLineItemID": "674380548-2",
             "type": "CreditPorting",
             "category": "NPBM",
-            "status": "activated",
+            "status": "Activated",
             "lastModified": "2015-09-24T20:46:12",
             "orderDateTime": "2015-09-24T20:46:12",
             "subscription": {
@@ -260,7 +260,7 @@
     },
     {
       "orderID": "674380549",
-      "status": "activated",
+      "status": "Activated",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 2,
@@ -277,7 +277,7 @@
             "orderLineItemID": "674380549-1",
             "type": "Activation",
             "category": "NPBM",
-            "status": "activated",
+            "status": "Activated",
             "lastModified": "2015-09-24T20:46:12",
             "orderDateTime": "2015-09-24T20:46:12",
             "subscription": {
@@ -294,7 +294,7 @@
             "orderLineItemID": "674380549-2",
             "type": "CreditPorting",
             "category": "NPBM",
-            "status": "activated",
+            "status": "Activated",
             "lastModified": "2015-09-24T20:46:12",
             "orderDateTime": "2015-09-24T20:46:12",
             "subscription": {
@@ -312,7 +312,7 @@
     },
     {
       "orderID": "674380300",
-      "status": "final",
+      "status": "Final",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 5,
@@ -405,7 +405,7 @@
     },
     {
       "orderID": "674380301",
-      "status": "final",
+      "status": "Final",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 5,
@@ -464,7 +464,7 @@
     },
     {
       "orderID": "674380302",
-      "status": "final",
+      "status": "Final",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 5,
@@ -557,7 +557,7 @@
     },
     {
       "orderID": "674380303",
-      "status": "final",
+      "status": "Final",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 5,
@@ -633,7 +633,7 @@
     },
     {
       "orderID": "674380304",
-      "status": "final",
+      "status": "Final",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 5,
@@ -726,7 +726,7 @@
     },
     {
       "orderID": "674380305",
-      "status": "final",
+      "status": "Final",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 5,
@@ -785,7 +785,7 @@
     },
     {
       "orderID": "674380306",
-      "status": "final",
+      "status": "Final",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 5,
