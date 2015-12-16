@@ -138,7 +138,7 @@
             "orderLineItemID": "674380545-5",
             "type": "FixedActivation",
             "category": "NPCF",
-            "status": "Activated",
+            "status": "Aktiviert",
             "lastModified": "2015-09-24T20:46:12",
             "orderDateTime": "2015-09-24T20:46:12",
             "billToParty": {
@@ -156,7 +156,7 @@
     },
     {
       "orderID": "674380547",
-      "status": "Activated",
+      "status": "Aktiviert",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 2,
@@ -173,7 +173,7 @@
             "orderLineItemID": "674380547-1",
             "type": "Activation",
             "category": "NPBM",
-            "status": "Activated",
+            "status": "Aktiviert",
             "lastModified": "2015-09-24T20:46:12",
             "orderDateTime": "2015-09-24T20:46:12",
             "subscription": {
@@ -190,7 +190,7 @@
             "orderLineItemID": "674380547-2",
             "type": "CreditPorting",
             "category": "NPBM",
-            "status": "Activated",
+            "status": "Aktiviert",
             "lastModified": "2015-09-24T20:46:12",
             "orderDateTime": "2015-09-24T20:46:12",
             "subscription": {
@@ -208,7 +208,7 @@
     },
     {
       "orderID": "674380548",
-      "status": "Activated",
+      "status": "Aktiviert",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 2,
@@ -225,7 +225,7 @@
             "orderLineItemID": "674380548-1",
             "type": "Activation",
             "category": "NPBM",
-            "status": "Activated",
+            "status": "Aktiviert",
             "lastModified": "2015-09-24T20:46:12",
             "orderDateTime": "2015-09-24T20:46:12",
             "subscription": {
@@ -242,7 +242,7 @@
             "orderLineItemID": "674380548-2",
             "type": "CreditPorting",
             "category": "NPBM",
-            "status": "Activated",
+            "status": "Aktiviert",
             "lastModified": "2015-09-24T20:46:12",
             "orderDateTime": "2015-09-24T20:46:12",
             "subscription": {
@@ -260,7 +260,7 @@
     },
     {
       "orderID": "674380549",
-      "status": "Activated",
+      "status": "Aktiviert",
       "created": "2015-09-24T20:46:12",
       "lastModified": "2015-09-24T20:46:12",
       "count": 2,
@@ -277,7 +277,7 @@
             "orderLineItemID": "674380549-1",
             "type": "Activation",
             "category": "NPBM",
-            "status": "Activated",
+            "status": "Aktiviert",
             "lastModified": "2015-09-24T20:46:12",
             "orderDateTime": "2015-09-24T20:46:12",
             "subscription": {
@@ -294,7 +294,7 @@
             "orderLineItemID": "674380549-2",
             "type": "CreditPorting",
             "category": "NPBM",
-            "status": "Activated",
+            "status": "Aktiviert",
             "lastModified": "2015-09-24T20:46:12",
             "orderDateTime": "2015-09-24T20:46:12",
             "subscription": {
