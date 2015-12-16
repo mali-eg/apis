@@ -68,18 +68,17 @@
       },
       "address": {
         "type": "SUBSCRIBER",
-        "street": "Roadstraße",
+        "street": "Ferdinand-Braun-Platz",
         "streetNumber": "23",
-        "streetNumberSuffix": "a",
-        "postCode": "12345",
-        "city": "Citystadt",
+        "streetNumberSuffix": "1",
+        "postCode": "40549",
+        "city": "Düsseldorf",
         "country": "Deutschland",
         "countryCode": "D"
       }
     }
   ]
 }
-
 
 
 
