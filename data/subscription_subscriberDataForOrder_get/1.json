@@ -6,7 +6,7 @@
         "reservedPhoneNumber": "4917246578976"
       },
       "contractDetails": {
-        "startDate": "2015-01-01"
+        "startDate": "17.12.2015"
       },
       "preferences": {
         "copyLegalToSubscrAddress": true,
@@ -21,6 +21,11 @@
           "firstName": "Jonh",
           "familyName": "Johnson",
           "birthDate": "1990-01-01"
+        },
+        "organization":{
+          "name":"XYZ",
+          "type":"TT"
+
         },
         "oldServiceProvider": "TMOB",
         "oldCustomerNumber": "10033232",
@@ -68,18 +73,17 @@
       },
       "address": {
         "type": "SUBSCRIBER",
-        "street": "Roadstraße",
+        "street": "Ferdinand-Braun-Platz",
         "streetNumber": "23",
-        "streetNumberSuffix": "a",
-        "postCode": "12345",
-        "city": "Citystadt",
+        "streetNumberSuffix": "1",
+        "postCode": "40549",
+        "city": "Düsseldorf",
         "country": "Deutschland",
         "countryCode": "D"
       }
     }
   ]
 }
-
 
 
 

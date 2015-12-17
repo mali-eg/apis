@@ -19,14 +19,14 @@
           "name": "Max Mustermann"
         },
         "customer": {
-          "type": "private"
+          "type": "privat"
         }
       },
       "parts": {
         "lineItems": [
           {
             "orderLineItemID": "674380545-1",
-            "type": "Activation",
+            "type": "Aktivierung",
             "category": "prepaid",
             "status": "DRAFT",
             "lastModified": "2015-09-25T22:34:39",
@@ -38,12 +38,12 @@
               "characteristicValue": [
                 {
                   "name": "SubsidyLevel",
-                  "value": "Subsidy 1"
+                  "value": "Sub 10"
                 }
               ],
               "product": [
                 {
-                  "specification": "Addons",
+                  "specification": "Optionen",
                   "count": 2
                 },
                 {

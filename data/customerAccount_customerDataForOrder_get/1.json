@@ -45,7 +45,7 @@
               "country": "Deutschland"
             },
             "email": {
-              "fullAddress": "petermueller@vodafone.com",
+              "fullAddress": "peter.mueller@vodafone.com",
               "hasEmailAccount": true
             },
             "telephone": {
@@ -70,7 +70,7 @@
           "paymentMethod": {
             "bankPayment": {
               "accountNumber": "1234567890",
-              "accountOwnerName": "Peter Müllher",
+              "accountOwnerName": "Peter Müller",
               "bankCode": "30050110",
               "bankName": "Kölner Bank",
               "iban": "DE34371600870583581006",

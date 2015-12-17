@@ -33,7 +33,7 @@
                   ]
                 },
                 {
-                  "code": "VFREDL1.5GB",
+                  "code": "VFRED1.5GB",
                   "name": "Red 1.5 GB",
                   "specification": "tariff-plan",
                   "category": "Red",
@@ -222,7 +222,7 @@
                   ]
                 },
                 {
-                  "code": "VFREDL3GB",
+                  "code": "VFRED3GB",
                   "name": "Red 3 GB ",
                   "specification": "tariff-plan",
                   "category": "Red",
@@ -411,7 +411,7 @@
                   ]
                 },
                 {
-                  "code": "VFREDL8GB",
+                  "code": "VFRED8GB",
                   "name": "Red 8 GB",
                   "specification": "tariff-plan",
                   "category": "Red",
@@ -600,7 +600,7 @@
                   ]
                 },
                 {
-                  "code": "VFREDL20GB",
+                  "code": "VFRED20GB",
                   "name": "Red 20 GB",
                   "specification": "tariff-plan",
                   "category": "Red",
@@ -789,7 +789,7 @@
                   ]
                 },
                 {
-                  "code": "VFREDLSGB",
+                  "code": "VFSmartS",
                   "name": "Smart S",
                   "specification": "tariff-plan",
                   "category": "Smart",
@@ -978,7 +978,7 @@
                   ]
                 },
                 {
-                  "code": "VFREDLMGB",
+                  "code": "VFSmartM",
                   "name": "Smart M",
                   "specification": "tariff-plan",
                   "category": "Smart",
@@ -1167,7 +1167,7 @@
                   ]
                 },
                 {
-                  "code": "VFREDLLGB",
+                  "code": "VFSmartL",
                   "name": "Smart L",
                   "specification": "tariff-plan",
                   "category": "Smart",
@@ -1356,7 +1356,7 @@
                   ]
                 },
                 {
-                  "code": "VFREDLXLGB",
+                  "code": "VFSmartXL",
                   "name": "Smart XL",
                   "specification": "tariff-plan",
                   "category": "Smart",
@@ -1545,7 +1545,7 @@
                   ]
                 },
                 {
-                  "code": "VFREDLDSGB",
+                  "code": "VFDataGoS",
                   "name": "DataGo S",
                   "specification": "tariff-plan",
                   "category": "DataGo",
@@ -1734,7 +1734,7 @@
                   ]
                 },
                 {
-                  "code": "VFREDLDMGB",
+                  "code": "VFDataGoM",
                   "name": "DataGo M",
                   "specification": "tariff-plan",
                   "category": "DataGo",
@@ -1923,7 +1923,7 @@
                   ]
                 },
                 {
-                  "code": "VFREDLDLGB",
+                  "code": "VFDataGoL",
                   "name": "DataGo L",
                   "specification": "tariff-plan",
                   "category": "DataGo",
@@ -2112,10 +2112,10 @@
                   ]
                 },
                 {
-                  "code": "VFREDL1.5GB-2",
-                  "name": "Red 1.5 GB",
+                  "code": "VFBlack",
+                  "name": "Black",
                   "specification": "tariff-plan",
-                  "category": "Red",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -2317,8 +2317,8 @@
                   ]
                 },
                 {
-                  "code": "VFREDL3GB-2",
-                  "name": "Red 3 GB ",
+                  "code": "VFREDFS",
+                  "name": "Red Family S",
                   "specification": "tariff-plan",
                   "category": "Red",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
@@ -2506,10 +2506,10 @@
                   ]
                 },
                 {
-                  "code": "VFREDL8GB-2",
-                  "name": "Red 8 GB",
+                  "code": "VFREDFXS",
+                  "name": "Red Family XS",
                   "specification": "tariff-plan",
-                  "category": "Red",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -2695,10 +2695,10 @@
                   ]
                 },
                 {
-                  "code": "VFREDL20GB-2",
-                  "name": "Red 20 GB",
+                  "code": "VFREDFM",
+                  "name": "Red Family M",
                   "specification": "tariff-plan",
-                  "category": "Red",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -2884,10 +2884,10 @@
                   ]
                 },
                 {
-                  "code": "VFREDLSGB-2",
-                  "name": "Smart S",
+                  "code": "VFREDFL",
+                  "name": "Red Family L",
                   "specification": "tariff-plan",
-                  "category": "Smart",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -3073,10 +3073,10 @@
                   ]
                 },
                 {
-                  "code": "VFREDLMGB-2",
-                  "name": "Smart M",
+                  "code": "VFBasic50",
+                  "name": "Basic 50",
                   "specification": "tariff-plan",
-                  "category": "Smart",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -3262,10 +3262,10 @@
                   ]
                 },
                 {
-                  "code": "VFREDLLGB-2",
-                  "name": "Smart L",
+                  "code": "VFBasic100",
+                  "name": "Basic 100",
                   "specification": "tariff-plan",
-                  "category": "Smart",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -3451,10 +3451,10 @@
                   ]
                 },
                 {
-                  "code": "VFREDLXLGB-2",
-                  "name": "Smart XL",
+                  "code": "VFSuperflatWE ",
+                  "name": "Superflat WE",
                   "specification": "tariff-plan",
-                  "category": "Smart",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -3640,10 +3640,10 @@
                   ]
                 },
                 {
-                  "code": "VFREDLDSGB-2",
-                  "name": "DataGo S",
+                  "code": "VFSuperflat",
+                  "name": "Superflat",
                   "specification": "tariff-plan",
-                  "category": "DataGo",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -3829,10 +3829,10 @@
                   ]
                 },
                 {
-                  "code": "VFREDLDMGB-2",
-                  "name": "DataGo M",
+                  "code": "VFBusinessClassic ",
+                  "name": "Business Classic",
                   "specification": "tariff-plan",
-                  "category": "DataGo",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -4018,10 +4018,388 @@
                   ]
                 },
                 {
-                  "code": "VFREDLDLGB-2",
-                  "name": "DataGo L",
+                  "code": "VFBusinessActive",
+                  "name": "Business Active",
                   "specification": "tariff-plan",
-                  "category": "DataGo",
+                  "category": "Andere",
+                  "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
+                  "characteristicValue": [
+                    {
+                      "name": "SubsidyLevel",
+                      "value": "Subsidy 1"
+                    }
+                  ],
+                  "product": [
+                    {
+                      "code": "Deezer Musik-Flat - 1",
+                      "name": "Deezer Musik-Flat",
+                      "specification": "tariff-addon",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Mobile TV - 2",
+                      "name": "Mobile TV",
+                      "specification": "tariff-addon",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF ReisePaket Data - 3",
+                      "name": "VF ReisePaket Data",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF ReiseVersprechen Asien - 3",
+                      "name": "VF ReiseVersprechen Asien",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "EasyTravel Flat Tag - 3",
+                      "name": "EasyTravel Flat Tag",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Zuhause Option - 3",
+                      "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Aktionen - 1-2",
+                      "name": "Zusätzliches Startguthaben",
+                      "specification": "Aktionen",
+                      "validity": "24 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
+                    },
+                    {
+                      "code": "Aktionen - 2-2",
+                      "name": "Rabatt auf Basispreis",
+                      "specification": "Aktionen",
+                      "validity": "24 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
+                    },
+                    {
+                      "code": "Aktionen - 3-2",
+                      "name": "AP-Frei ab der 2. Karte",
+                      "specification": "Aktionen",
+                      "validity": "24 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
+                    },
+                    {
+                      "code": "Aktionen - 4-2",
+                      "name": "Immediately Connected",
+                      "specification": "Aktionen",
+                      "validity": "24 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
+                    },
+                    {
+                      "code": "Vergünstigungen - 1-2",
+                      "name": "Studenten-Vorteil",
+                      "specification": "Vergünstigungen",
+                      "validity": "24 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
+                    },
+                    {
+                      "code": "Vergünstigungen - 2-2",
+                      "name": "Junge Leute-Vorteil",
+                      "specification": "Vergünstigungen",
+                      "validity": "24 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
+                    },
+                    {
+                      "code": "Vergünstigungen - 3-2",
+                      "name": "Behinderten-Vorteil",
+                      "specification": "Vergünstigungen",
+                      "validity": "2 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "Vergünstigungen - 4-2",
+                      "name": "SoHo 15% auf SIMonly",
+                      "specification": "Vergünstigungen",
+                      "validity": "2 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "Vergünstigungen - 5-2",
+                      "name": "VF All-in-One",
+                      "specification": "Vergünstigungen",
+                      "validity": "2 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "Vergünstigungen - 6-2",
+                      "name": "Anschlusspreisbefreiung",
+                      "specification": "Vergünstigungen",
+                      "validity": "2 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "orderLineItemID": "23",
+            "status": "",
+            "lastModified": "",
+            "productOffering": {
+              "groupItemID": "23",
+              "product": [
+                {
+                  "specification": "hardware",
+                  "characteristicValue": [
+                    {
+                      "name": "IMEI",
+                      "value": "6543987654675431"
+                    },
+                    {
+                      "name": "DeliveryMode",
+                      "value": "DirectDelivery"
+                    }
+                  ]
+                },
+                {
+                  "specification": "sim-card",
+                  "characteristicValue": [
+                    {
+                      "name": "simSerialNumber",
+                      "value": "10120410200031"
+                    }
+                  ]
+                },
+                {
+                  "code": "VFBusinessBasic",
+                  "name": "Business Basic",
+                  "specification": "tariff-plan",
+                  "category": "Andere",
+                  "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
+                  "characteristicValue": [
+                    {
+                      "name": "SubsidyLevel",
+                      "value": "Subsidy 1"
+                    }
+                  ],
+                  "product": [
+                    {
+                      "code": "Deezer Musik-Flat - 1",
+                      "name": "Deezer Musik-Flat",
+                      "specification": "tariff-addon",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Mobile TV - 2",
+                      "name": "Mobile TV",
+                      "specification": "tariff-addon",
+                      "category": "Entertainment",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Happy International - 3",
+                      "name": "VF Happy International",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF ReisePaket Data - 3",
+                      "name": "VF ReisePaket Data",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF ReiseVersprechen Asien - 3",
+                      "name": "VF ReiseVersprechen Asien",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "EasyTravel Flat Tag - 3",
+                      "name": "EasyTravel Flat Tag",
+                      "specification": "tariff-addon",
+                      "category": "Roaming",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Zuhause Option - 3",
+                      "name": "Zuhause Option",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "VF Handy-Tablet-Versicherung - 3",
+                      "name": "VF Handy-Tablet-Versicherung",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Consumer Secure Net - 3",
+                      "name": "Consumer Secure Net",
+                      "specification": "tariff-addon",
+                      "category": "Sonstige",
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
+                    },
+                    {
+                      "code": "Aktionen - 1-2",
+                      "name": "Zusätzliches Startguthaben",
+                      "specification": "Aktionen",
+                      "validity": "24 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
+                    },
+                    {
+                      "code": "Aktionen - 2-2",
+                      "name": "Rabatt auf Basispreis",
+                      "specification": "Aktionen",
+                      "validity": "24 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
+                    },
+                    {
+                      "code": "Aktionen - 3-2",
+                      "name": "AP-Frei ab der 2. Karte",
+                      "specification": "Aktionen",
+                      "validity": "24 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
+                    },
+                    {
+                      "code": "Aktionen - 4-2",
+                      "name": "Immediately Connected",
+                      "specification": "Aktionen",
+                      "validity": "24 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_promo.html"
+                    },
+                    {
+                      "code": "Vergünstigungen - 1-2",
+                      "name": "Studenten-Vorteil",
+                      "specification": "Vergünstigungen",
+                      "validity": "24 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
+                    },
+                    {
+                      "code": "Vergünstigungen - 2-2",
+                      "name": "Junge Leute-Vorteil",
+                      "specification": "Vergünstigungen",
+                      "validity": "24 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_disca.html"
+                    },
+                    {
+                      "code": "Vergünstigungen - 3-2",
+                      "name": "Behinderten-Vorteil",
+                      "specification": "Vergünstigungen",
+                      "validity": "2 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "Vergünstigungen - 4-2",
+                      "name": "SoHo 15% auf SIMonly",
+                      "specification": "Vergünstigungen",
+                      "validity": "2 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "Vergünstigungen - 5-2",
+                      "name": "VF All-in-One",
+                      "specification": "Vergünstigungen",
+                      "validity": "2 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "Vergünstigungen - 6-2",
+                      "name": "Anschlusspreisbefreiung",
+                      "specification": "Vergünstigungen",
+                      "validity": "2 months",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "orderLineItemID": "24",
+            "status": "",
+            "lastModified": "",
+            "productOffering": {
+              "groupItemID": "24",
+              "product": [
+                {
+                  "specification": "hardware",
+                  "characteristicValue": [
+                    {
+                      "name": "IMEI",
+                      "value": "6543987654675431"
+                    },
+                    {
+                      "name": "DeliveryMode",
+                      "value": "DirectDelivery"
+                    }
+                  ]
+                },
+                {
+                  "specification": "sim-card",
+                  "characteristicValue": [
+                    {
+                      "name": "simSerialNumber",
+                      "value": "10120410200031"
+                    }
+                  ]
+                },
+                {
+                  "code": "VFZuhauseFestnetzFlat",
+                  "name": "Zuhause FestnetzFlat",
+                  "specification": "tariff-plan",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
