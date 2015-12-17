@@ -23,8 +23,8 @@
           "birthDate": "1990-01-01"
         },
         "organization":{
-          "name":"XYZ",
-          "type":"123"
+          "name":"Universität Düsseldorf",
+          "type":"-"
 
         },
         "oldServiceProvider": "TMOB",
