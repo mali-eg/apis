@@ -22,6 +22,11 @@
           "familyName": "Johnson",
           "birthDate": "1990-01-01"
         },
+        "organization":{
+          "name":"XYZ",
+          "type":"TT"
+
+        },
         "oldServiceProvider": "TMOB",
         "oldCustomerNumber": "10033232",
         "quickPorting": true,
