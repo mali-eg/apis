@@ -23,8 +23,9 @@
           "birthDate": "1990-01-01"
         },
         "organization":{
-          "name":"Universität Düsseldorf",
-          "type":"-"
+          "name":"Heinrich Heine Universität",
+          "type":"DA-H109-00143",
+          "date":"03.10.1985"
 
         },
         "oldServiceProvider": "TMOB",
