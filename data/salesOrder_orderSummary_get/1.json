@@ -7,7 +7,7 @@
       "created": "2015-12-23T22:34:39",
       "createdBy": "ePOS",
       "lastModified": "2015-09-25T22:34:39",
-      "count": 1,
+      "count": 5,
       "details": {
         "contactInfo": "SalesAgent007",
         "callBackDate": "2015-09-26T22:34:39",
@@ -26,19 +26,19 @@
         "lineItems": [
           {
             "orderLineItemID": "674380545-1",
-            "type": "Aktivierung",
+            "type": "activation",
             "category": "prepaid",
             "status": "DRAFT",
             "lastModified": "2015-09-25T22:34:39",
             "orderDateTime": "2015-09-25T22:34:39",
             "productOffering": {
               "code": "VFREDL8GB",
-              "name": "Smart XL",
+              "name": "Vodafone RED 8GB Premium Smartphone",
               "specification": "tariff-group",
               "characteristicValue": [
                 {
                   "name": "SubsidyLevel",
-                  "value": "Sub 10"
+                  "value": "Subsidy 1"
                 }
               ],
               "product": [
@@ -52,7 +52,139 @@
                 },
                 {
                   "specification": "Rabatte",
+                  "count": 2
+                }
+              ]
+            }
+          },
+          {
+            "orderLineItemID": "674380545-2",
+            "type": "comfortPorting",
+            "category": "postpaid",
+            "status": "SENT",
+            "lastModified": "2015-09-25T22:34:39",
+            "orderDateTime": "2015-09-25T22:34:39",
+            "productOffering": {
+              "code": "VFREDL6GB",
+              "name": "Vodafone RED 6GB Premium Smartphone",
+              "specification": "tariff-group",
+              "characteristicValue": [
+                {
+                  "name": "SubsidyLevel",
+                  "value": "Subsidy 2"
+                }
+              ],
+              "product": [
+                {
+                  "specification": "Optionen",
+                  "count": 2
+                },
+                {
+                  "specification": "Promotions",
                   "count": 1
+                },
+                {
+                  "specification": "Rabatte",
+                  "count": 0
+                }
+              ]
+            }
+          },
+          {
+            "orderLineItemID": "674380545-3",
+            "type": "normalPorting",
+            "category": "fixednet",
+            "status": "CONFIRMED",
+            "lastModified": "2015-09-25T22:34:39",
+            "orderDateTime": "2015-09-24T22:34:39",
+            "productOffering": {
+              "code": "VFREDL3GB",
+              "name": "Vodafone RED 3GB",
+              "specification": "tariff-group",
+              "characteristicValue": [
+                {
+                  "name": "SubsidyLevel",
+                  "value": "Subsidy 3"
+                }
+              ],
+              "product": [
+                {
+                  "specification": "Optionen",
+                  "count": 3
+                },
+                {
+                  "specification": "Promotions",
+                  "count": 2
+                },
+                {
+                  "specification": "Rabatte",
+                  "count": 3
+                }
+              ]
+            }
+          },
+          {
+            "orderLineItemID": "674380545-4",
+            "type": "Porting Comfort",
+            "category": "postpaid",
+            "status": "CONFIRMED",
+            "lastModified": "2015-09-25T22:34:39",
+            "orderDateTime": "2015-09-24T22:34:39",
+            "productOffering": {
+              "code": "VFREDL4GB",
+              "name": "Vodafone RED 4GB",
+              "specification": "tariff-group",
+              "characteristicValue": [
+                {
+                  "name": "SubsidyLevel",
+                  "value": "Subsidy 3"
+                }
+              ],
+              "product": [
+                {
+                  "specification": "Optionen",
+                  "count": 3
+                },
+                {
+                  "specification": "Promotions",
+                  "count": 2
+                },
+                {
+                  "specification": "Rabatte",
+                  "count": 4
+                }
+              ]
+            }
+          },
+          {
+            "orderLineItemID": "674380545-5",
+            "type": "Porting Classic",
+            "category": "postpaid",
+            "status": "CONFIRMED",
+            "lastModified": "2015-09-25T22:34:39",
+            "orderDateTime": "2015-09-24T22:34:39",
+            "productOffering": {
+              "code": "VFREDL5GB",
+              "name": "Vodafone RED 5GB",
+              "specification": "tariff-group",
+              "characteristicValue": [
+                {
+                  "name": "SubsidyLevel",
+                  "value": "Subsidy 3"
+                }
+              ],
+              "product": [
+                {
+                  "specification": "Optionen",
+                  "count": 3
+                },
+                {
+                  "specification": "Promotions",
+                  "count": 2
+                },
+                {
+                  "specification": "Rabatte",
+                  "count": 5
                 }
               ]
             }
@@ -62,3 +194,4 @@
     }
   ]
 }
+
