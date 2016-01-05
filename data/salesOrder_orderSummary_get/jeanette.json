@@ -2,7 +2,7 @@
   "statusCode": 200,
   "salesOrderVBO": [
     {
-      "orderID": "3",
+      "orderID": "674380545",
       "status": "DRAFT",
       "created": "2015-12-23T22:34:39",
       "createdBy": "ePOS",
