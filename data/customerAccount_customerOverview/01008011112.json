@@ -1,0 +1,31 @@
+{
+  "statusCode": 200,
+  "customerAccountVBO": [
+    {
+      "relatedCustomerAccounts": [],
+      "accountID": "000056456231",
+      "type": "fixednet",
+      "category": "private",
+      "status": "active",
+      "parts": {
+        "individual": {
+          "title": "Dr.",
+          "salutation": "Herr",
+          "firstName": "Peter",
+          "familyName": "Müller"
+        },
+        "serviceAccounts": [
+          {
+            "subscriptionID": "4921155551234",
+            "product": {
+              "name": "DSL50_TV",
+              "code": "V0012",
+              "desc": "DSL package plus TV",
+              "technology": "DSL"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

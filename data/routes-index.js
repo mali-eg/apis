@@ -47,7 +47,10 @@ var routes = [].concat(
 
     //PDF Download APIs
     require('./CustomerAgreementForOrder_GET/routes'),
-    require('./Agreement_CustomerDocument_GET/routes')
+    require('./Agreement_CustomerDocument_GET/routes'),
+
+    //customer Overview
+    require('./customerAccount_customerOverview/routes')
 
 
 
