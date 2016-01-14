@@ -36,7 +36,7 @@ var routes = [].concat(
     require('./customerAccount_customerDataForOrder_put/routes'),
     require('./salesOrder_orderSummary_get/routes'),
     require('./salesOrder_orderLineItemUpdate_put/routes'),
-    require('./salesOrder_orderUpdate_put/routes'),
+    require('./SalesOrder_OrderUpdate_post/routes'),
     require('./subscription_subscriberDataForOrder_put/routes'),
     require('./salesOrder_order_delete/routes'),
     require('./customerAccount_customerDataForOrder_get/routes'),
