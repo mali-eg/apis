@@ -1,4 +1,4 @@
-var Boom = require("Boom");
+var Boom = require("boom");
 var fs = require('fs');
 var Util = {};
 
