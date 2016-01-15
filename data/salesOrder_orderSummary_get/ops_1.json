@@ -77,7 +77,7 @@
           },
           {
             "orderLineItemID": "2",
-            "type": "comfortPorting",
+            "type": "activation",
             "category": "postpaid",
             "status": "SENT",
             "lastModified": "2015-09-25T22:34:39",
@@ -97,7 +97,7 @@
                   "specification": "hardware",
                   "characteristicValue": [
                     {
-                      "name": "IMEI",
+                      "name": "IMEI for copy",
                       "value": "6543987654675431"
                     }
                   ]
@@ -106,7 +106,7 @@
                   "specification": "sim-card",
                   "characteristicValue": [
                     {
-                      "name": "simSerialNumber",
+                      "name": "SIM serial number for copy",
                       "value": "10120410200031"
                     }
                   ]
@@ -129,7 +129,7 @@
           {
             "orderLineItemID": "3",
             "type": "activation",
-            "category": "prepaid",
+            "category": "postpaid",
             "status": "CONFIRMED",
             "lastModified": "2015-09-25T22:34:39",
             "orderDateTime": "2015-09-24T22:34:39",
@@ -148,7 +148,7 @@
                   "specification": "hardware",
                   "characteristicValue": [
                     {
-                      "name": "IMEI",
+                      "name": "IMEI for copy",
                       "value": "6543987654675431"
                     }
                   ]
@@ -157,7 +157,7 @@
                   "specification": "sim-card",
                   "characteristicValue": [
                     {
-                      "name": "Pre registered phone number for copy",
+                      "name": "SIM serial number for copy",
                       "value": "10120410200031"
                     }
                   ]
@@ -173,112 +173,11 @@
                 {
                   "specification": "Rabatte",
                   "count": 3
-                }
-              ]
-            }
-          },
-          {
-            "orderLineItemID": "4",
-            "type": "activation classic porting",
-            "category": "prepaid",
-            "status": "CONFIRMED",
-            "lastModified": "2015-09-25T22:34:39",
-            "orderDateTime": "2015-09-24T22:34:39",
-            "productOffering": {
-              "code": "VFREDL4GB",
-              "name": "Vodafone RED 4GB",
-              "specification": "tariff-group",
-              "characteristicValue": [
-                {
-                  "name": "SubsidyLevel",
-                  "value": "Subsidy 3"
-                }
-              ],
-              "product": [
-                {
-                  "specification": "hardware",
-                  "characteristicValue": [
-                    {
-                      "name": "IMEI",
-                      "value": "6543987654675431"
-                    }
-                  ]
-                },
-                {
-                  "specification": "sim-card",
-                  "characteristicValue": [
-                    {
-                      "name": "simSerialNumber",
-                      "value": "10120410200031"
-                    }
-                  ]
-                },
-                {
-                  "specification": "Optionen",
-                  "count": 3
-                },
-                {
-                  "specification": "Promotions",
-                  "count": 2
-                },
-                {
-                  "specification": "Rabatte",
-                  "count": 4
-                }
-              ]
-            }
-          },
-          {
-            "orderLineItemID": "5",
-            "type": "Porting Classic",
-            "category": "postpaid",
-            "status": "CONFIRMED",
-            "lastModified": "2015-09-25T22:34:39",
-            "orderDateTime": "2015-09-24T22:34:39",
-            "productOffering": {
-              "code": "VFREDL5GB",
-              "name": "Vodafone RED 5GB",
-              "specification": "tariff-group",
-              "characteristicValue": [
-                {
-                  "name": "SubsidyLevel",
-                  "value": "Subsidy 3"
-                }
-              ],
-              "product": [
-                {
-                  "specification": "hardware",
-                  "characteristicValue": [
-                    {
-                      "name": "IMEI",
-                      "value": "6543987654675431"
-                    }
-                  ]
-                },
-                {
-                  "specification": "sim-card",
-                  "characteristicValue": [
-                    {
-                      "name": "SIM selector for copy",
-                      "value": "10120410200031"
-                    }
-                  ]
-                },
-                {
-                  "specification": "Optionen",
-                  "count": 3
-                },
-                {
-                  "specification": "Promotions",
-                  "count": 2
-                },
-                {
-                  "specification": "Rabatte",
-                  "count": 5
                 }
               ]
             }
           }
+
         ]
       }
     }
