@@ -26,7 +26,7 @@
         "lineItems": [
           {
             "orderLineItemID": "1",
-            "type": "activation",
+            "type": "Activation Classic Porting",
             "category": "prepaid",
             "status": "DRAFT",
             "lastModified": "2015-09-25T22:34:39",
@@ -77,8 +77,8 @@
           },
           {
             "orderLineItemID": "2",
-            "type": "Activation Porting Classic",
-            "category": "postpaid",
+            "type": "Activation",
+            "category": "prepaid",
             "status": "SENT",
             "lastModified": "2015-09-25T22:34:39",
             "orderDateTime": "2015-09-25T22:34:39",
@@ -128,8 +128,8 @@
           },
           {
             "orderLineItemID": "3",
-            "type": "Activation Porting Classic",
-            "category": "postpaid",
+            "type": "Activation",
+            "category": "singleItem",
             "status": "CONFIRMED",
             "lastModified": "2015-09-25T22:34:39",
             "orderDateTime": "2015-09-24T22:34:39",

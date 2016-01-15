@@ -26,7 +26,7 @@
         "lineItems": [
           {
             "orderLineItemID": "1",
-            "type": "activation",
+            "type": "Activation Classic Porting",
             "category": "prepaid",
             "status": "DRAFT",
             "lastModified": "2015-09-25T22:34:39",
