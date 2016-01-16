@@ -26,7 +26,7 @@
         "lineItems": [
           {
             "orderLineItemID": "1",
-            "type": "Activation Classic Porting",
+            "type": "Activation",
             "category": "prepaid",
             "status": "DRAFT",
             "lastModified": "2015-09-25T22:34:39",
@@ -77,7 +77,7 @@
           },
           {
             "orderLineItemID": "2",
-            "type": "Activation",
+            "type": "Activation Classic Porting",
             "category": "prepaid",
             "status": "SENT",
             "lastModified": "2015-09-25T22:34:39",
