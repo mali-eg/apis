@@ -3,13 +3,12 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'DELETE',
-        path: '/api/deleteContracts',
+        path: '/api/salesOrder_order_delete',
         config: {
             handler: Handlers.defaultHandler,
             description: 'shoppingCart API',
-            notes: 'Remove new customer cart items',
+            notes: 'Remove a given line item from the shopping cart',
             tags: ['api', 'newCustomer', 'shoppingCart']
-            //response: {schema: responseModel}
         }
     }
 ];

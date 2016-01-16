@@ -1,0 +1,45 @@
+{
+  "statusCode":200,
+  "userAccountVBO": [
+    {
+      "credential": {
+        "username": "ops_5"
+      },
+      "roles": {
+        "businessRole": "agent",
+        "businessRights": [
+          "test1",
+          "test2"
+        ],
+        "voIDSequence": [
+          "12345678",
+          "87654321"
+        ],
+        "accountHolder": {
+          "active": true,
+          "creationDate": "2015-06-13 12:35:45",
+          "updateDate": "2015-04-22 02:30:40",
+          "twoFactorFlag": true,
+          "passwordExpiryDate": "2015-12-31 12:00:00",
+          "firstName": "ops_1",
+          "lastName": "Mustermann",
+          "emailAddress": "max.mustermann@vodafone.com",
+          "mtanPhoneNumber": "491725678976",
+          "defaultVoID": "12345678",
+          "lastLoginDate": "2015-04-22 02:30:40"
+        },
+        "shopUser": {
+          "shopName": "Vodafone Retail Shop",
+          "shopAddress": {
+            "street": "Herder Strasse",
+            "streetNumber": "7",
+            "streetNumberSuffix": "a",
+            "postCode": "22851",
+            "city": "Hamburg",
+            "country": "Germany"
+          }
+        }
+      }
+    }
+  ]
+}
