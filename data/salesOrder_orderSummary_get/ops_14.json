@@ -27,18 +27,18 @@
           {
             "orderLineItemID": "1",
             "type": "Activation",
-            "category": "prepaid",
-            "status": "DRAFT",
+            "category": "fixedNet",
+            "status": "CONFIRMED",
             "lastModified": "2015-09-25T22:34:39",
-            "orderDateTime": "2015-09-25T22:34:39",
+            "orderDateTime": "2015-09-24T22:34:39",
             "productOffering": {
-              "code": "VFREDL8GB",
-              "name": "Vodafone RED 8GB Premium Smartphone",
+              "code": "VFREDL5GB",
+              "name": "Vodafone RED 5GB",
               "specification": "tariff-group",
               "characteristicValue": [
                 {
                   "name": "SubsidyLevel",
-                  "value": "Subsidy 1"
+                  "value": "Subsidy 3"
                 }
               ],
               "product": [
@@ -46,58 +46,7 @@
                   "specification": "hardware",
                   "characteristicValue": [
                     {
-                      "name": "IMEI for copy",
-                      "value": "6543987654675431"
-                    }
-                  ]
-                },
-                {
-                  "specification": "sim-card",
-                  "characteristicValue": [
-                    {
-                      "name": "Pre registered phone number for copy",
-                      "value": "10120410200031"
-                    }
-                  ]
-                },
-                {
-                  "specification": "Optionen",
-                  "count": 2
-                },
-                {
-                  "specification": "Promotions",
-                  "count": 0
-                },
-                {
-                  "specification": "Rabatte",
-                  "count": 2
-                }
-              ]
-            }
-          },
-          {
-            "orderLineItemID": "2",
-            "type": "Activation Classic Porting",
-            "category": "prepaid",
-            "status": "SENT",
-            "lastModified": "2015-09-25T22:34:39",
-            "orderDateTime": "2015-09-25T22:34:39",
-            "productOffering": {
-              "code": "VFREDL6GB",
-              "name": "Vodafone RED 6GB Premium Smartphone",
-              "specification": "tariff-group",
-              "characteristicValue": [
-                {
-                  "name": "SubsidyLevel",
-                  "value": "Subsidy 2"
-                }
-              ],
-              "product": [
-                {
-                  "specification": "hardware",
-                  "characteristicValue": [
-                    {
-                      "name": "IMEI for copy",
+                      "name": "IMEI",
                       "value": "6543987654675431"
                     }
                   ]
@@ -113,11 +62,11 @@
                 },
                 {
                   "specification": "Optionen",
-                  "count": 2
+                  "count": 0
                 },
                 {
                   "specification": "Promotions",
-                  "count": 1
+                  "count": 0
                 },
                 {
                   "specification": "Rabatte",
@@ -127,15 +76,15 @@
             }
           },
           {
-            "orderLineItemID": "3",
-            "type": "Activation",
-            "category": "singleItem",
+            "orderLineItemID": "2",
+            "type": "Activation Porting",
+            "category": "fixedNet",
             "status": "CONFIRMED",
             "lastModified": "2015-09-25T22:34:39",
             "orderDateTime": "2015-09-24T22:34:39",
             "productOffering": {
-              "code": "VFREDL3GB",
-              "name": "Vodafone RED 3GB",
+              "code": "VFREDL5GB",
+              "name": "Vodafone RED 5GB",
               "specification": "tariff-group",
               "characteristicValue": [
                 {
@@ -148,7 +97,7 @@
                   "specification": "hardware",
                   "characteristicValue": [
                     {
-                      "name": "IMEI for copy",
+                      "name": "IMEI",
                       "value": "6543987654675431"
                     }
                   ]
@@ -157,27 +106,26 @@
                   "specification": "sim-card",
                   "characteristicValue": [
                     {
-                      "name": "SIM serial number for copy",
+                      "name": "SIM selector for copy",
                       "value": "10120410200031"
                     }
                   ]
                 },
                 {
                   "specification": "Optionen",
-                  "count": 3
+                  "count": 0
                 },
                 {
                   "specification": "Promotions",
-                  "count": 2
+                  "count": 0
                 },
                 {
                   "specification": "Rabatte",
-                  "count": 3
+                  "count": 0
                 }
               ]
             }
           }
-
         ]
       }
     }
