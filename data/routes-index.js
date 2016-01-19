@@ -32,6 +32,7 @@ var routes = [].concat(
     require('./itemTask_ruleset/routes'),
     require('./salesOrder_product-get/routes'),
     require('./salesOrder_product-post/routes'),
+    require('./salesOrder_orderCreation_POST/routes'),
     require('./salesOrder_orderLineItemSummary_get/routes'),
     require('./customerAccount_customerDataForOrder_put/routes'),
     require('./salesOrder_orderSummary_get/routes'),
@@ -44,6 +45,7 @@ var routes = [].concat(
     require('./salesOrder_OrdersOverview_get/routes'),
     require('./salesOrder_orderLineItem_delete/routes'),
     require('./token/routes'),
+
 
     //PDF Download APIs
     require('./CustomerAgreementForOrder_GET/routes'),
