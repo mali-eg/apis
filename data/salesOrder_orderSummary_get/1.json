@@ -77,7 +77,7 @@
           },
           {
             "orderLineItemID": "2",
-            "type": "comfortPorting",
+            "type": "Comfort Porting",
             "category": "postpaid",
             "status": "SENT",
             "lastModified": "2015-09-25T22:34:39",
@@ -128,7 +128,7 @@
           },
           {
             "orderLineItemID": "3",
-            "type": "activation",
+            "type": "Activation",
             "category": "prepaid",
             "status": "CONFIRMED",
             "lastModified": "2015-09-25T22:34:39",
@@ -179,7 +179,7 @@
           },
           {
             "orderLineItemID": "4",
-            "type": "activation classic porting",
+            "type": "Activation Classic Porting",
             "category": "prepaid",
             "status": "CONFIRMED",
             "lastModified": "2015-09-25T22:34:39",
@@ -230,7 +230,7 @@
           },
           {
             "orderLineItemID": "5",
-            "type": "Porting Classic",
+            "type": "Activation Porting Classic",
             "category": "postpaid",
             "status": "CONFIRMED",
             "lastModified": "2015-09-25T22:34:39",
@@ -275,6 +275,109 @@
                 {
                   "specification": "Rabatte",
                   "count": 5
+                }
+              ]
+            }
+          },
+
+          {
+            "orderLineItemID": "6",
+            "type": "activation",
+            "category": "fixedNet",
+            "status": "SENT",
+            "lastModified": "2015-09-25T22:34:39",
+            "orderDateTime": "2015-09-25T22:34:39",
+            "productOffering": {
+              "code": "VFREDL6GB",
+              "name": "Vodafone RED 6GB Premium Smartphone",
+              "specification": "tariff-group",
+              "characteristicValue": [
+                {
+                  "name": "SubsidyLevel",
+                  "value": "Subsidy 2"
+                }
+              ],
+              "product": [
+                {
+                  "specification": "hardware",
+                  "characteristicValue": [
+                    {
+                      "name": "IMEI",
+                      "value": "6543987654675431"
+                    }
+                  ]
+                },
+                {
+                  "specification": "sim-card",
+                  "characteristicValue": [
+                    {
+                      "name": "simSerialNumber",
+                      "value": "10120410200031"
+                    }
+                  ]
+                },
+                {
+                  "specification": "Optionen",
+                  "count": 2
+                },
+                {
+                  "specification": "Promotions",
+                  "count": 1
+                },
+                {
+                  "specification": "Rabatte",
+                  "count": 0
+                }
+              ]
+            }
+          },
+          {
+            "orderLineItemID": "7",
+            "type": "activation",
+            "category": "singleItem",
+            "status": "SENT",
+            "lastModified": "2015-09-25T22:34:39",
+            "orderDateTime": "2015-09-25T22:34:39",
+            "productOffering": {
+              "code": "VFREDL6GB",
+              "name": "Vodafone RED 6GB Premium Smartphone",
+              "specification": "tariff-group",
+              "characteristicValue": [
+                {
+                  "name": "SubsidyLevel",
+                  "value": "Subsidy 2"
+                }
+              ],
+              "product": [
+                {
+                  "specification": "hardware",
+                  "characteristicValue": [
+                    {
+                      "name": "IMEI",
+                      "value": "6543987654675431"
+                    }
+                  ]
+                },
+                {
+                  "specification": "sim-card",
+                  "characteristicValue": [
+                    {
+                      "name": "simSerialNumber",
+                      "value": "10120410200031"
+                    }
+                  ]
+                },
+                {
+                  "specification": "Optionen",
+                  "count": 2
+                },
+                {
+                  "specification": "Promotions",
+                  "count": 1
+                },
+                {
+                  "specification": "Rabatte",
+                  "count": 0
                 }
               ]
             }

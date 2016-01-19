@@ -26,8 +26,8 @@
         "lineItems": [
           {
             "orderLineItemID": "1",
-            "type": "activation",
-            "category": "prepaid",
+            "type": "Activation",
+            "category": "singleItem",
             "status": "DRAFT",
             "lastModified": "2015-09-25T22:34:39",
             "orderDateTime": "2015-09-25T22:34:39",
@@ -78,7 +78,7 @@
           {
             "orderLineItemID": "2",
             "type": "Activation Porting Classic",
-            "category": "postpaid",
+            "category": "singleItem",
             "status": "SENT",
             "lastModified": "2015-09-25T22:34:39",
             "orderDateTime": "2015-09-25T22:34:39",
@@ -128,6 +128,159 @@
           },
           {
             "orderLineItemID": "3",
+            "type": "Activation Porting Comfort",
+            "category": "singleItem",
+            "status": "CONFIRMED",
+            "lastModified": "2015-09-25T22:34:39",
+            "orderDateTime": "2015-09-24T22:34:39",
+            "productOffering": {
+              "code": "VFREDL3GB",
+              "name": "Vodafone RED 3GB",
+              "specification": "tariff-group",
+              "characteristicValue": [
+                {
+                  "name": "SubsidyLevel",
+                  "value": "Subsidy 3"
+                }
+              ],
+              "product": [
+                {
+                  "specification": "hardware",
+                  "characteristicValue": [
+                    {
+                      "name": "IMEI for copy",
+                      "value": "6543987654675431"
+                    }
+                  ]
+                },
+                {
+                  "specification": "sim-card",
+                  "characteristicValue": [
+                    {
+                      "name": "SIM serial number for copy",
+                      "value": "10120410200031"
+                    }
+                  ]
+                },
+                {
+                  "specification": "Optionen",
+                  "count": 3
+                },
+                {
+                  "specification": "Promotions",
+                  "count": 2
+                },
+                {
+                  "specification": "Rabatte",
+                  "count": 3
+                }
+              ]
+            }
+          },
+          {
+            "orderLineItemID": "4",
+            "type": "Activation",
+            "category": "postpaid",
+            "status": "CONFIRMED",
+            "lastModified": "2015-09-25T22:34:39",
+            "orderDateTime": "2015-09-24T22:34:39",
+            "productOffering": {
+              "code": "VFREDL3GB",
+              "name": "Vodafone RED 3GB",
+              "specification": "tariff-group",
+              "characteristicValue": [
+                {
+                  "name": "SubsidyLevel",
+                  "value": "Subsidy 3"
+                }
+              ],
+              "product": [
+                {
+                  "specification": "hardware",
+                  "characteristicValue": [
+                    {
+                      "name": "IMEI for copy",
+                      "value": "6543987654675431"
+                    }
+                  ]
+                },
+                {
+                  "specification": "sim-card",
+                  "characteristicValue": [
+                    {
+                      "name": "SIM serial number for copy",
+                      "value": "10120410200031"
+                    }
+                  ]
+                },
+                {
+                  "specification": "Optionen",
+                  "count": 3
+                },
+                {
+                  "specification": "Promotions",
+                  "count": 2
+                },
+                {
+                  "specification": "Rabatte",
+                  "count": 3
+                }
+              ]
+            }
+          },
+          {
+            "orderLineItemID": "5",
+            "type": "Activation Porting Comfort",
+            "category": "postpaid",
+            "status": "CONFIRMED",
+            "lastModified": "2015-09-25T22:34:39",
+            "orderDateTime": "2015-09-24T22:34:39",
+            "productOffering": {
+              "code": "VFREDL3GB",
+              "name": "Vodafone RED 3GB",
+              "specification": "tariff-group",
+              "characteristicValue": [
+                {
+                  "name": "SubsidyLevel",
+                  "value": "Subsidy 3"
+                }
+              ],
+              "product": [
+                {
+                  "specification": "hardware",
+                  "characteristicValue": [
+                    {
+                      "name": "IMEI for copy",
+                      "value": "6543987654675431"
+                    }
+                  ]
+                },
+                {
+                  "specification": "sim-card",
+                  "characteristicValue": [
+                    {
+                      "name": "SIM serial number for copy",
+                      "value": "10120410200031"
+                    }
+                  ]
+                },
+                {
+                  "specification": "Optionen",
+                  "count": 3
+                },
+                {
+                  "specification": "Promotions",
+                  "count": 2
+                },
+                {
+                  "specification": "Rabatte",
+                  "count": 3
+                }
+              ]
+            }
+          },
+          {
+            "orderLineItemID": "6",
             "type": "Activation Porting Classic",
             "category": "postpaid",
             "status": "CONFIRMED",
