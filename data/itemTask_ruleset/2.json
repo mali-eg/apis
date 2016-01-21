@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "name": "salesOrder.NewCustomerCategory",
+      "defaultValue": null,
+      "editable": {
+        "type": "static",
+        "value": "true"
+      },
+      "enabled": {
+        "type": "static",
+        "value": "true"
+      },
+      "mandatory": {
+        "type": "static",
+        "value": "false"
+      },
+      "visible": {
+        "type": "static",
+        "value": "true"
+      },
+      "domain": {
+        "type": "String",
+        "minLength": {
+          "type": "functionbased",
+          "function": "CalculateIBAN()"
+        },
+        "maxLength": {
+          "type": "functionbased",
+          "function": "CalculateIBAN()"
+        },
+        "regExpression": {
+          "type": "static",
+          "value": "^[A-Z]{2,2}[0-9]{2,2}[a-zA-Z0-9]{1,30}$",
+          "function": "CalculateIBAN()"
+        }
+      }
+    }
+  ]
+}
