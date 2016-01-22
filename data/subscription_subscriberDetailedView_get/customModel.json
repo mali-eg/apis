@@ -1,0 +1,145 @@
+{
+  "statusCode": 200,
+  "contract": {
+    "contractMasterData": {
+      "mobileNumber": "0172 123 45678",
+      "subscriberName": "Franz Beckenichtbauer",
+      "contractStatus": "",
+      "level": "Gold",
+      "subsidy": "",
+      "subsidyInfo": "",
+      "tarrifName": "Red 6GB member",
+      "role": "member",
+      "firstActivationDate": "01.01.2003",
+      "nextPossibleCancellation": "14.03.2013",
+      "lastSubsidy": "15.03.2013",
+      "lastNotification": "13.01.2016",
+      "recommendations": "",
+      "recommendationsIcon": ""
+    },
+    "discounts": [
+      "Guthaben 01",
+      "Guthaben 02"
+    ],
+    "promotions": [
+      "040 Guthaben",
+      "Christmas Promotion 0432",
+      "Christmas Promotion 0432"
+    ],
+    "addOns": [
+      {
+        "addOnCategory": "addOn_Category_1",
+        "addOnName": [
+          "addOn_1",
+          "addOn_2",
+          "addOn_3"
+        ]
+      },
+      {
+        "addOnCategory": "addOn_Category_2",
+        "addOnName": [
+          "addOn_1",
+          "addOn_2",
+          "addOn_3"
+        ]
+      }
+    ],
+    "simInfo": {
+      "simSerialNumber": "123456789",
+      "cardType": "NFC",
+      "ultraCard1": "123456789",
+      "ultraCard2": "123456789"
+    }
+  },
+  "billingAccount": {
+    "billingInfo": {
+      "billCycle": "15",
+      "paymentMethod": "Direct debit",
+      "billingType": "Web Invoice",
+      "billingEmail": "Edward.Müller@somewhere.de"
+    },
+    "invoiceBalance": {
+      "currentBalance": "-300",
+      "reminderStatus": "Reminder",
+      "lastReminderDate": "23.07.2016",
+      "delinquentIndicator": "Regular",
+      "solvency": "No Info"
+    },
+    "invoiceList": [
+      {
+        "invoiceNumber": "1234567890",
+        "invoiceDate": "11.02.2015",
+        "DueDate": "12.02.2015",
+        "Amount": "100",
+        "pdf": "PDF"
+      },
+      {
+        "invoiceNumber": "1234567890",
+        "invoiceDate": "11.02.2015",
+        "DueDate": "12.02.2015",
+        "Amount": "100",
+        "pdf": "PDF"
+      },
+      {
+        "invoiceNumber": "1234567890",
+        "invoiceDate": "11.02.2015",
+        "DueDate": "12.02.2015",
+        "Amount": "100",
+        "pdf": "PDF"
+      }
+    ],
+    "bankAccount": {
+      "accountOwner": "Edward Müller",
+      "iban": "DE1234 **** **** 1234",
+      "bankName": "Sparkasse Amsterdam"
+    },
+    "billingAddress": {
+      "street": "Ewtasstrasse",
+      "Nr": "123456789",
+      "plz": "12345",
+      "city": "Dortmund",
+      "country": "Germany"
+    }
+  },
+  "contact": {
+    "customerContact": {
+      "customerName": "Stephanie Müller",
+      "contactPhone": "1234 456 7890",
+      "mobilePhone": "1234 456 7890",
+      "netPhone": "1234 456 7890",
+      "email": "Hello@hello.de"
+    },
+    "privacySettings": {
+      "Advertising": true,
+      "PersonalDataEvaluation": true,
+      "phoneBookEntry": true,
+      "phoneBookEntryHomeZone": ""
+    },
+    "customerAddress": {
+      "customerName": "Edward Müller",
+      "street": "Berliner Allee",
+      "Nr": "23",
+      "plz": "12345",
+      "city": "Dortmund",
+      "country": "Deutschland",
+      "AdditionToAddress": "",
+      "AdditionToCity": ""
+    },
+    "homeZone": {
+      "housePhoneNumber": "0211 - 2344567",
+      "street": "Berliner Alee",
+      "Nr": "23",
+      "plz": "12345",
+      "city": "Dortmund",
+      "country": "Deutschland",
+      "phoneBookEntryHomeZone": ""
+    },
+    "billingAddress": {
+      "street": "Ewtasstrasse",
+      "Nr": "123456789",
+      "plz": "12345",
+      "city": "Dortmund",
+      "country": "Germany"
+    }
+  }
+}
