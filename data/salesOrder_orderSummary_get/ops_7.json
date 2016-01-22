@@ -55,7 +55,7 @@
                   "specification": "sim-card",
                   "characteristicValue": [
                     {
-                      "name": "Pre registered phone number for copy",
+                      "name": "Pre selector for copy",
                       "value": "10120410200031"
                     }
                   ]
@@ -106,7 +106,7 @@
                   "specification": "sim-card",
                   "characteristicValue": [
                     {
-                      "name": "SIM serial number for copy",
+                      "name": "SIM selector for copy",
                       "value": "10120410200031"
                     }
                   ]
@@ -157,7 +157,7 @@
                   "specification": "sim-card",
                   "characteristicValue": [
                     {
-                      "name": "SIM serial number for copy",
+                      "name": "SIM selector for copy",
                       "value": "10120410200031"
                     }
                   ]
