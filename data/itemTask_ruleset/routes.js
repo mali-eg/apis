@@ -2,7 +2,7 @@ var Handlers = require('./handlers');
 
 var routes = [
     {
-        method: 'POST',
+        method: 'GET',
         path: '/api/itemTask_ruleSet',
         config: {
             handler: Handlers.defaultHandler,

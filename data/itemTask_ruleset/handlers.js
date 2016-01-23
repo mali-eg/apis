@@ -3,8 +3,8 @@ var Handlers = {};
 
 Handlers.defaultHandler = function(request, reply){
 
-    var username = request.payload.securityTokenVBO.credentials.username;
-    var filePath = __dirname+"/"+username+".json";
+    var entityList = request.query.entityList;
+    var filePath = __dirname+"/1.json";
 
     reply(Util.getData(filePath));
 };

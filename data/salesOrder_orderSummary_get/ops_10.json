@@ -106,7 +106,7 @@
                   "specification": "sim-card",
                   "characteristicValue": [
                     {
-                      "name": "SIM serial number for copy",
+                      "name": "SIM selector for copy",
                       "value": "10120410200031"
                     }
                   ]

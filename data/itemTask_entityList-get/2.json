@@ -1,0 +1,40 @@
+{
+  "entities": [
+    {
+      "name": "salesOrder.NewCustomerCategory",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].category"
+    },
+    {
+      "name": "salesOrder.NewCustomerOrderType",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].type"
+    },
+    {
+      "name": "salesOrder.NewCustomerPUName",
+      "path": "$.salesOrderVBO[*].roles.agent.name"
+    },
+    {
+      "name": "salesOrder.NewCustomerVoID",
+      "path": "$.salesOrderVBO[*].roles.agent.voID"
+    },
+    {
+      "name": "salesOrder.Tariff",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*][@.specification=~/tariff-plan/)].category"
+    },
+    {
+      "name": "salesOrder.Promotion",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].product[?(@.specification=~/promotion/)].code"
+    },
+    {
+      "name": "salesOrder.Discount",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].product[?(@.specification=~/discount/)].code"
+    },
+    {
+      "name": "salesOrder.IMEI",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification=~/hardware/)].characteristicValue.[?(@.name=~/IMEI/)].value"
+    },
+    {
+      "name": "salesOrder.SimSerialNumber",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification=~/sim-card/)].characteristicValue.[?(@.name=~/simSerialNumber/)].value"
+    }
+  ]
+}
