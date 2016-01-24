@@ -4,8 +4,8 @@ var Handlers = {};
 Handlers.defaultHandler = function (request, reply) {
 
 
-    var id = request.query.id;
-    var filePath = __dirname + "/" + id + ".json";
+    var username = request.headers.username;
+    var filePath = __dirname + "/" + username + ".json";
 
     setTimeout(function () {
         reply(Util.getData(filePath));
