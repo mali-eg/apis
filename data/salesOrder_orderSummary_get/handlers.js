@@ -3,8 +3,8 @@ var Handlers = {};
 
 Handlers.defaultHandler = function(request, reply){
 
-    //var username = request.query.username;
-    var filePath = __dirname+"/"+1+".json";
+    var orderId = request.query.username;
+    var filePath = __dirname+"/"+orderId+".json";
 
     reply(Util.getData(filePath));
 };

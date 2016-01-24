@@ -6,8 +6,9 @@ var routes = [
         path: '/api/customer/customer-accounts/overview',
         config: {
             handler: Handlers.defaultHandler,
-            description: 'This service is used to obtain the overview of existing customer information based on give search criteria',
-            tags: ['api', 'login']
+            description: 'customerOverview API',
+            notes: 'get customerOverview with Authentication',
+            tags: ['api', 'customerOverview', 'overview']
             //response: {schema: responseModel}
         }
     }

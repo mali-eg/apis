@@ -4,7 +4,7 @@
     {
       "orderID": "674380545",
       "status": "saved",
-      "lastModified": "2015-12-17T00:51:55",
+      "lastModified": "2015-12-23T00:51:55",
       "lastModifiedBy": "ePOS",
       "roles": {
         "agent": {
@@ -22,9 +22,9 @@
           {
             "orderLineItemID": "674380545-1",
             "desc": "New Private Customer Mobile",
-            "type": "activation",
+            "type": "Aktivierung",
             "category": "NPCM",
-            "status": "accepted",
+            "status": "Akzeptiert",
             "productOffering": {
               "product": [
                 {

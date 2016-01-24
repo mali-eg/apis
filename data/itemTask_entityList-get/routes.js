@@ -2,7 +2,7 @@ var Handlers = require('./handlers');
 
 var routes = [
     {
-        method: 'POST',
+        method: 'GET',
         path: '/api/itemTask_entityList',
         config: {
             handler: Handlers.defaultHandler,

@@ -4,13 +4,13 @@
   "salesOrderVBO": [
     {
       "orderID": "674380544",
-      "status": "final",
-      "created": "2015-09-24T20:46:12",
-      "lastModified": "2015-09-24T20:46:12",
+      "status": "Final",
+      "created": "2015-12-23T20:46:12",
+      "lastModified": "2015-12-23T20:46:12",
       "count": 5,
       "details":{
         "contactInfo":"SalesAgent007",
-        "callBackDate":"2015-09-24T20:55:09.323+02:00",
+        "callBackDate":"2015-12-23T20:55:09.323+02:00",
         "additionalInformation":"5 Orders Added"
       },
       "roles": {
@@ -29,8 +29,8 @@
             "type": "activation",
             "category": "NPCM",
             "status": "draft",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -46,13 +46,13 @@
     },
     {
       "orderID": "674380545",
-      "status": "final",
-      "created": "2015-09-24T20:46:12",
-      "lastModified": "2015-09-24T20:46:12",
+      "status": "Final",
+      "created": "2015-12-23T20:46:12",
+      "lastModified": "2015-12-23T20:46:12",
       "count": 5,
       "details":{
         "contactInfo":"SalesAgent007",
-        "callBackDate":"2015-09-24T20:55:09.323+02:00",
+        "callBackDate":"2015-12-23T20:55:09.323+02:00",
         "additionalInformation":"5 Orders Added"
       },
       "roles": {
@@ -71,8 +71,8 @@
             "type": "activation",
             "category": "NPCM",
             "status": "draft",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -88,8 +88,8 @@
             "type": "comfortPorting",
             "category": "NPCM",
             "status": "sent",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323657"
             },
@@ -105,8 +105,8 @@
             "type": "normalPorting",
             "category": "NBCM",
             "status": "pending",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323658"
             },
@@ -122,8 +122,8 @@
             "type": "CallyaPorting",
             "category": "NPCM",
             "status": "incorrect",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -138,9 +138,9 @@
             "orderLineItemID": "674380545-5",
             "type": "FixedActivation",
             "category": "NPCF",
-            "status": "activated",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "status": "Aktiviert",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "billToParty": {
               "individual": {
                 "firstName": "Frank",
@@ -156,11 +156,11 @@
     },
     {
       "orderID": "674380547",
-      "status": "activated",
-      "created": "2015-09-24T20:46:12",
-      "lastModified": "2015-09-24T20:46:12",
+      "status": "Aktiviert",
+      "created": "2015-12-23T20:46:12",
+      "lastModified": "2015-12-23T20:46:12",
       "count": 2,
-      "callBackDate": "2015-09-24T20:55:09",
+      "callBackDate": "2015-12-23T20:55:09",
       "roles": {
         "agent": {
           "voID": "34567812",
@@ -173,9 +173,9 @@
             "orderLineItemID": "674380547-1",
             "type": "Activation",
             "category": "NPBM",
-            "status": "activated",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "status": "Aktiviert",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -190,9 +190,9 @@
             "orderLineItemID": "674380547-2",
             "type": "CreditPorting",
             "category": "NPBM",
-            "status": "activated",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "status": "Aktiviert",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323657"
             },
@@ -208,11 +208,11 @@
     },
     {
       "orderID": "674380548",
-      "status": "activated",
-      "created": "2015-09-24T20:46:12",
-      "lastModified": "2015-09-24T20:46:12",
+      "status": "Aktiviert",
+      "created": "2015-12-23T20:46:12",
+      "lastModified": "2015-12-23T20:46:12",
       "count": 2,
-      "callBackDate": "2015-09-24T20:55:09",
+      "callBackDate": "2015-12-23T20:55:09",
       "roles": {
         "agent": {
           "voID": "12345678",
@@ -225,9 +225,9 @@
             "orderLineItemID": "674380548-1",
             "type": "Activation",
             "category": "NPBM",
-            "status": "activated",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "status": "Aktiviert",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -242,9 +242,9 @@
             "orderLineItemID": "674380548-2",
             "type": "CreditPorting",
             "category": "NPBM",
-            "status": "activated",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "status": "Aktiviert",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323657"
             },
@@ -260,11 +260,11 @@
     },
     {
       "orderID": "674380549",
-      "status": "activated",
-      "created": "2015-09-24T20:46:12",
-      "lastModified": "2015-09-24T20:46:12",
+      "status": "Aktiviert",
+      "created": "2015-12-23T20:46:12",
+      "lastModified": "2015-12-23T20:46:12",
       "count": 2,
-      "callBackDate": "2015-09-24T20:55:09",
+      "callBackDate": "2015-12-23T20:55:09",
       "roles": {
         "agent": {
           "voID": "78123456",
@@ -277,9 +277,9 @@
             "orderLineItemID": "674380549-1",
             "type": "Activation",
             "category": "NPBM",
-            "status": "activated",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "status": "Aktiviert",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -294,9 +294,9 @@
             "orderLineItemID": "674380549-2",
             "type": "CreditPorting",
             "category": "NPBM",
-            "status": "activated",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "status": "Aktiviert",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323657"
             },
@@ -312,13 +312,13 @@
     },
     {
       "orderID": "674380300",
-      "status": "final",
-      "created": "2015-09-24T20:46:12",
-      "lastModified": "2015-09-24T20:46:12",
+      "status": "Final",
+      "created": "2015-12-23T20:46:12",
+      "lastModified": "2015-12-23T20:46:12",
       "count": 5,
       "details":{
         "contactInfo":"SalesAgent007",
-        "callBackDate":"2015-09-24T20:55:09.323+02:00",
+        "callBackDate":"2015-12-23T20:55:09.323+02:00",
         "additionalInformation":"5 Orders Added"
       },
       "roles": {
@@ -337,8 +337,8 @@
             "type": "activation",
             "category": "NPCM",
             "status": "draft",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -354,8 +354,8 @@
             "type": "comfortPorting",
             "category": "NPCM",
             "status": "sent",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323657"
             },
@@ -371,8 +371,8 @@
             "type": "normalPorting",
             "category": "NBCM",
             "status": "pending",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323658"
             },
@@ -388,8 +388,8 @@
             "type": "CallyaPorting",
             "category": "NPCM",
             "status": "incorrect",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -405,13 +405,13 @@
     },
     {
       "orderID": "674380301",
-      "status": "final",
-      "created": "2015-09-24T20:46:12",
-      "lastModified": "2015-09-24T20:46:12",
+      "status": "Final",
+      "created": "2015-12-23T20:46:12",
+      "lastModified": "2015-12-23T20:46:12",
       "count": 5,
       "details":{
         "contactInfo":"SalesAgent007",
-        "callBackDate":"2015-09-24T20:55:09.323+02:00",
+        "callBackDate":"2015-12-23T20:55:09.323+02:00",
         "additionalInformation":"5 Orders Added"
       },
       "roles": {
@@ -430,8 +430,8 @@
             "type": "activation",
             "category": "NPCM",
             "status": "draft",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -447,8 +447,8 @@
             "type": "comfortPorting",
             "category": "NPCM",
             "status": "sent",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323657"
             },
@@ -464,13 +464,13 @@
     },
     {
       "orderID": "674380302",
-      "status": "final",
-      "created": "2015-09-24T20:46:12",
-      "lastModified": "2015-09-24T20:46:12",
+      "status": "Final",
+      "created": "2015-12-23T20:46:12",
+      "lastModified": "2015-12-23T20:46:12",
       "count": 5,
       "details":{
         "contactInfo":"SalesAgent007",
-        "callBackDate":"2015-09-24T20:55:09.323+02:00",
+        "callBackDate":"2015-12-23T20:55:09.323+02:00",
         "additionalInformation":"5 Orders Added"
       },
       "roles": {
@@ -489,8 +489,8 @@
             "type": "activation",
             "category": "NPCM",
             "status": "draft",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -506,8 +506,8 @@
             "type": "comfortPorting",
             "category": "NPCM",
             "status": "sent",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323657"
             },
@@ -523,8 +523,8 @@
             "type": "normalPorting",
             "category": "NBCM",
             "status": "pending",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323658"
             },
@@ -540,8 +540,8 @@
             "type": "CallyaPorting",
             "category": "NPCM",
             "status": "incorrect",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -557,13 +557,13 @@
     },
     {
       "orderID": "674380303",
-      "status": "final",
-      "created": "2015-09-24T20:46:12",
-      "lastModified": "2015-09-24T20:46:12",
+      "status": "Final",
+      "created": "2015-12-23T20:46:12",
+      "lastModified": "2015-12-23T20:46:12",
       "count": 5,
       "details":{
         "contactInfo":"SalesAgent007",
-        "callBackDate":"2015-09-24T20:55:09.323+02:00",
+        "callBackDate":"2015-12-23T20:55:09.323+02:00",
         "additionalInformation":"5 Orders Added"
       },
       "roles": {
@@ -582,8 +582,8 @@
             "type": "activation",
             "category": "NPCM",
             "status": "draft",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -599,8 +599,8 @@
             "type": "comfortPorting",
             "category": "NPCM",
             "status": "sent",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323657"
             },
@@ -616,8 +616,8 @@
             "type": "normalPorting",
             "category": "NBCM",
             "status": "pending",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323658"
             },
@@ -633,13 +633,13 @@
     },
     {
       "orderID": "674380304",
-      "status": "final",
-      "created": "2015-09-24T20:46:12",
-      "lastModified": "2015-09-24T20:46:12",
+      "status": "Final",
+      "created": "2015-12-23T20:46:12",
+      "lastModified": "2015-12-23T20:46:12",
       "count": 5,
       "details":{
         "contactInfo":"SalesAgent007",
-        "callBackDate":"2015-09-24T20:55:09.323+02:00",
+        "callBackDate":"2015-12-23T20:55:09.323+02:00",
         "additionalInformation":"5 Orders Added"
       },
       "roles": {
@@ -658,8 +658,8 @@
             "type": "activation",
             "category": "NPCM",
             "status": "draft",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -675,8 +675,8 @@
             "type": "comfortPorting",
             "category": "NPCM",
             "status": "sent",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323657"
             },
@@ -692,8 +692,8 @@
             "type": "normalPorting",
             "category": "NBCM",
             "status": "pending",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323658"
             },
@@ -709,8 +709,8 @@
             "type": "CallyaPorting",
             "category": "NPCM",
             "status": "incorrect",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -726,13 +726,13 @@
     },
     {
       "orderID": "674380305",
-      "status": "final",
-      "created": "2015-09-24T20:46:12",
-      "lastModified": "2015-09-24T20:46:12",
+      "status": "Final",
+      "created": "2015-12-23T20:46:12",
+      "lastModified": "2015-12-23T20:46:12",
       "count": 5,
       "details":{
         "contactInfo":"SalesAgent007",
-        "callBackDate":"2015-09-24T20:55:09.323+02:00",
+        "callBackDate":"2015-12-23T20:55:09.323+02:00",
         "additionalInformation":"5 Orders Added"
       },
       "roles": {
@@ -751,8 +751,8 @@
             "type": "activation",
             "category": "NPCM",
             "status": "draft",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -768,8 +768,8 @@
             "type": "comfortPorting",
             "category": "NPCM",
             "status": "sent",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323657"
             },
@@ -785,13 +785,13 @@
     },
     {
       "orderID": "674380306",
-      "status": "final",
-      "created": "2015-09-24T20:46:12",
-      "lastModified": "2015-09-24T20:46:12",
+      "status": "Final",
+      "created": "2015-12-23T20:46:12",
+      "lastModified": "2015-12-23T20:46:12",
       "count": 5,
       "details":{
         "contactInfo":"SalesAgent007",
-        "callBackDate":"2015-09-24T20:55:09.323+02:00",
+        "callBackDate":"2015-12-23T20:55:09.323+02:00",
         "additionalInformation":"5 Orders Added"
       },
       "roles": {
@@ -810,8 +810,8 @@
             "type": "activation",
             "category": "NPCM",
             "status": "draft",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },
@@ -827,8 +827,8 @@
             "type": "comfortPorting",
             "category": "NPCM",
             "status": "sent",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323657"
             },
@@ -844,8 +844,8 @@
             "type": "CallyaPorting",
             "category": "NPCM",
             "status": "incorrect",
-            "lastModified": "2015-09-24T20:46:12",
-            "orderDateTime": "2015-09-24T20:46:12",
+            "lastModified": "2015-12-23T20:46:12",
+            "orderDateTime": "2015-12-23T20:46:12",
             "subscription": {
               "subscriptionID": "4917232323656"
             },

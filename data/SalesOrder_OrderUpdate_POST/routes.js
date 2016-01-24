@@ -2,7 +2,7 @@ var Handlers = require('./handlers');
 
 var routes = [
     {
-        method: 'PUT',
+        method: 'POST',
         path: '/api/contracts',
         config: {
             handler: Handlers.defaultHandler,

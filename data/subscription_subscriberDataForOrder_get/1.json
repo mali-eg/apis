@@ -6,7 +6,7 @@
         "reservedPhoneNumber": "4917246578976"
       },
       "contractDetails": {
-        "startDate": "17.12.2015"
+        "startDate": "23.12.2015"
       },
       "preferences": {
         "copyLegalToSubscrAddress": true,
@@ -21,6 +21,12 @@
           "firstName": "Jonh",
           "familyName": "Johnson",
           "birthDate": "1990-01-01"
+        },
+        "organization":{
+          "name":"Heinrich Heine Universität",
+          "type":"DA-H109-00143",
+          "date":"03.10.1985"
+
         },
         "oldServiceProvider": "TMOB",
         "oldCustomerNumber": "10033232",
@@ -68,18 +74,17 @@
       },
       "address": {
         "type": "SUBSCRIBER",
-        "street": "Roadstraße",
+        "street": "Ferdinand-Braun-Platz",
         "streetNumber": "23",
-        "streetNumberSuffix": "a",
-        "postCode": "12345",
-        "city": "Citystadt",
+        "streetNumberSuffix": "1",
+        "postCode": "40549",
+        "city": "Düsseldorf",
         "country": "Deutschland",
         "countryCode": "D"
       }
     }
   ]
 }
-
 
 
 

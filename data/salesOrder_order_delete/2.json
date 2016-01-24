@@ -2,7 +2,7 @@
   "statusCode":401,
   "faultMessage": {
     "code": "NIL00V408",
-    "text": "A Validation error occurred in SalesOrder - OrderUpdate Service",
+    "text": "A Validation error occurred in SalesOrder - Order Service",
     "severity": "E",
     "type": "ValidationError",
     "original": {
@@ -13,3 +13,4 @@
     }
   }
 }
+

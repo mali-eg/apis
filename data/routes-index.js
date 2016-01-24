@@ -4,17 +4,17 @@ var fs = require('fs');
 var path = require('path');
 
 /*var routes = [];
-fs.readdirSync(__dirname+"/").forEach(function (item) {
+ fs.readdirSync(__dirname+"/").forEach(function (item) {
 
-    var filePath = path.join(__dirname, item);
+ var filePath = path.join(__dirname, item);
 
-    var stat = fs.statSync(filePath);
-    if (stat.isDirectory() && fs.exists(filePath+'/routes.js')) {
-        console.log('adding route file:' + filePath+'/routes');
-        //routes.push(require(filePath+'/routes'));
-        routes = routes.concat(require(filePath+'/routes'));
-    }
-});*/
+ var stat = fs.statSync(filePath);
+ if (stat.isDirectory() && fs.exists(filePath+'/routes.js')) {
+ console.log('adding route file:' + filePath+'/routes');
+ //routes.push(require(filePath+'/routes'));
+ routes = routes.concat(require(filePath+'/routes'));
+ }
+ });*/
 
 
 var routes = [].concat(
@@ -32,12 +32,12 @@ var routes = [].concat(
     require('./itemTask_ruleset/routes'),
     require('./salesOrder_product-get/routes'),
     require('./salesOrder_product-post/routes'),
+    require('./salesOrder_orderCreation_POST/routes'),
     require('./salesOrder_orderLineItemSummary_get/routes'),
-    require('./customerAccount_customerOverviewGet/routes'),
     require('./customerAccount_customerDataForOrder_put/routes'),
     require('./salesOrder_orderSummary_get/routes'),
     require('./salesOrder_orderLineItemUpdate_put/routes'),
-    require('./salesOrder_orderUpdate_put/routes'),
+    require('./SalesOrder_OrderUpdate_POST/routes'),
     require('./subscription_subscriberDataForOrder_put/routes'),
     require('./salesOrder_order_delete/routes'),
     require('./customerAccount_customerDataForOrder_get/routes'),
@@ -46,12 +46,16 @@ var routes = [].concat(
     require('./salesOrder_orderLineItem_delete/routes'),
     require('./token/routes'),
 
+
     //PDF Download APIs
     require('./CustomerAgreementForOrder_GET/routes'),
-    require('./Agreement_CustomerDocument_GET/routes')
+    require('./Agreement_CustomerDocument_GET/routes'),
 
+    //customer Overview
+    require('./customerAccount_customerOverview/routes'),
 
-
+    //customer details
+    require('./customerAccount_customerDetailedView_get/routes')
 );
 //console.log("routes:"+routes);
 module.exports = routes;

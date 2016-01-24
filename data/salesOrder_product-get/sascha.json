@@ -2115,7 +2115,7 @@
                   "code": "VFBlack",
                   "name": "Black",
                   "specification": "tariff-plan",
-                  "category": "Other",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -2509,7 +2509,7 @@
                   "code": "VFREDFXS",
                   "name": "Red Family XS",
                   "specification": "tariff-plan",
-                  "category": "Other",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -2698,7 +2698,7 @@
                   "code": "VFREDFM",
                   "name": "Red Family M",
                   "specification": "tariff-plan",
-                  "category": "Other",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -2887,7 +2887,7 @@
                   "code": "VFREDFL",
                   "name": "Red Family L",
                   "specification": "tariff-plan",
-                  "category": "Other",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -3076,7 +3076,7 @@
                   "code": "VFBasic50",
                   "name": "Basic 50",
                   "specification": "tariff-plan",
-                  "category": "Other",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -3265,7 +3265,7 @@
                   "code": "VFBasic100",
                   "name": "Basic 100",
                   "specification": "tariff-plan",
-                  "category": "Other",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -3454,7 +3454,7 @@
                   "code": "VFSuperflatWE ",
                   "name": "Superflat WE",
                   "specification": "tariff-plan",
-                  "category": "Other",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -3643,7 +3643,7 @@
                   "code": "VFSuperflat",
                   "name": "Superflat",
                   "specification": "tariff-plan",
-                  "category": "Other",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -3832,7 +3832,7 @@
                   "code": "VFBusinessClassic ",
                   "name": "Business Classic",
                   "specification": "tariff-plan",
-                  "category": "Other",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -4021,7 +4021,7 @@
                   "code": "VFBusinessActive",
                   "name": "Business Active",
                   "specification": "tariff-plan",
-                  "category": "Other",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -4210,7 +4210,7 @@
                   "code": "VFBusinessBasic",
                   "name": "Business Basic",
                   "specification": "tariff-plan",
-                  "category": "Other",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
@@ -4397,9 +4397,9 @@
                 },
                 {
                   "code": "VFZuhauseFestnetzFlat",
-                  "name": "ZuhauseFestnetzFlat",
+                  "name": "Zuhause FestnetzFlat",
                   "specification": "tariff-plan",
-                  "category": "Other",
+                  "category": "Andere",
                   "infoURL": "http://www.vodafone.de/css/tarif_info/vf_red.html",
                   "characteristicValue": [
                     {
