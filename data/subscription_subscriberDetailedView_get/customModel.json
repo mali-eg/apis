@@ -122,8 +122,8 @@
       "plz": "12345",
       "city": "Dortmund",
       "country": "Deutschland",
-      "AdditionToAddress": "",
-      "AdditionToCity": ""
+      "additionToAddress": "N/A",
+      "additionToCity": ""
     },
     "homeZone": {
       "housePhoneNumber": "0211 - 2344567",
@@ -135,11 +135,12 @@
       "phoneBookEntryHomeZone": ""
     },
     "billingAddress": {
+      "customerName": "Edward Müller",
       "street": "Ewtasstrasse",
       "Nr": "123456789",
       "plz": "12345",
       "city": "Dortmund",
-      "country": "Germany"
+      "country": "Deutschland"
     }
   }
 }
