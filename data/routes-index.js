@@ -52,10 +52,14 @@ var routes = [].concat(
     require('./Agreement_CustomerDocument_GET/routes'),
 
     //customer Overview
-    require('./customerAccount_customerOverview/routes'),
+    require('./customerAccount_customerOverview_get/routes'),
 
     //customer details
-    require('./customerAccount_customerDetailedView_get/routes')
+    require('./customerAccount_customerDetailedView_get/routes'),
+    require('./subscription_subscriberDetailedView_get/routes'),
+    require('./customerAccount_invoice_billedUsage_get/routes'),
+    require('./subscription_invoice_billedUsage_get/routes'),
+    require('./invoice_billDocument_get/routes')
 );
 //console.log("routes:"+routes);
 module.exports = routes;
