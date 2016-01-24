@@ -1,0 +1,65 @@
+{
+  "statusCode":200,
+  "invoiceVBO": [
+    {
+      "details": {
+        "accountId": "2400123",
+        "type": "mobile",
+        "marketCode": "MMC",
+        "balanceAmount": "133.20",
+        "unitOfMeasure": "EUR"
+      },
+      "channels": {
+        "onlineBillSent": true,
+        "paperBillSent": true
+      },
+      "payments": {
+        "payment": [
+          {
+            "billCycle": {
+              "billCycleNumber": 15,
+              "startDate": "2015-01-01",
+              "endDate": "2015-02-01",
+              "billDate": "2015-01-01"
+            },
+            "due": {
+              "amount": "49.99",
+              "unitOfMeasure": "EUR",
+              "date": "2015-01-01"
+            },
+            "artifact": {
+              "onlineBillAvailable": true,
+              "id": "234234234234-adasd-324234-asdad-24",
+              "type": "Invoice",
+              "format": "PDF",
+              "description": "Invoice Document",
+              "source": "CPO",
+              "creationTime": "2015-12-16T19:03:46.156+01:00"
+            }
+          },
+          {
+            "billCycle": {
+              "startDate": "2014-12-01",
+              "endDate": "2015-01-01",
+              "billDate": "2014-12-01"
+            },
+            "due": {
+              "amount": "49.99",
+              "unitOfMeasure": "EUR",
+              "date": "2014-12-14"
+            },
+            "artifact": {
+              "onlineBillAvailable": true,
+              "id": "234234234234-adasd-324234-asdad-24",
+              "type": "Invoice",
+              "format": "PDF",
+              "description": "Invoice Document",
+              "source": "CPO",
+              "creationTime": "2015-01-16T19:03:46.156+01:00"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
