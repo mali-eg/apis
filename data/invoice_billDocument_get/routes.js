@@ -3,12 +3,12 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'GET',
-        path: '/api/itemTask_ruleSet',
+        path: '/api/{type}/payment/invoices/{document_id}/invoice',
         config: {
             handler: Handlers.defaultHandler,
-            description: 'Retrieve the validation rules for each entity element for the frontend',
-            notes: 'Used to newCustomer',
-            tags: ['api', 'newCustomer', 'entityList']
+            description: 'customerDetails API',
+            notes: 'get customerDetails with Authentication',
+            tags: ['api', 'customerDetails', 'details']
             //response: {schema: responseModel}
         }
     }
