@@ -90,7 +90,8 @@
                       "name": "EasyTravel Flat Tag",
                       "specification": "tariff-addon",
                       "category": "Roaming",
-                      "validity": "24 Monate"
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
                       "code": "Zuhause Option - 3",
