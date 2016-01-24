@@ -1,0 +1,12 @@
+{
+    "customerAccountVBO": [
+        {
+            "accountID": "000012345678",
+            "type": "fixednet",
+            "category": "business",
+            "status": "suspended",
+            "skeletonContractNumber": 123456,
+            "marketCode": "MMC"
+        }
+    ]
+}

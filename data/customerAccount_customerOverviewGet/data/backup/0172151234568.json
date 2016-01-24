@@ -1,0 +1,10 @@
+{
+	"statusCode":500,
+    "faultMessage": {
+        "code": "NIL0F0881",
+        "text": "The entered number is from a partner company.",
+        "detailedText": null,
+        "severity": "E",
+        "type": "AuthenticationError"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "faultMessage": {
+        "code": "NIL00A001",
+        "text": "No results found. Reﬁne your search information.",
+        "detailedText": null,
+        "severity": "E",
+        "type": "AuthenticationError"
+    }
+}
