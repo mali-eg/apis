@@ -3,8 +3,7 @@ var Handlers = {};
 
 Handlers.defaultHandler = function(request, reply){
 
-    var orderId = request.query.orderId;
-    var orderLineItemId = request.query.orderLineItemId;
+    //var username = request.payload.securityTokenVBO.credentials.username;
 
     var filePath = __dirname+"/"+3+".json";
 
