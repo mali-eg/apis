@@ -3,7 +3,7 @@ var Handlers = {};
 
 Handlers.defaultHandler = function(request, reply){
 	var fs = require('fs');
-	var filePath = __dirname+"/data/1.json";
+	var filePath = '';
     var customer_id = request.query.id;
     var customer_password = request.query.password;
     var customer_birthdate = request.query['birth-date'];
@@ -21,7 +21,7 @@ Handlers.defaultHandler = function(request, reply){
     	filePath = __dirname+"/data/"+customer_id+".json";
     }
 	if (!fs.existsSync(filePath)) {
-	    filePath = __dirname+"/data/000012345677.json";
+	    filePath = __dirname+"/data/not-found.json";
 	}
 
     reply(Util.getData(filePath));
