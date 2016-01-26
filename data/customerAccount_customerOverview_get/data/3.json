@@ -1,0 +1,10 @@
+{
+	"statusCode":500,
+    "faultMessage": {
+        "code": "NIL00F1403",
+        "text": "A Functional error occurred in CustomerAccount-CustomerOverview Service",
+        "detailedText": null,
+        "severity": "E",
+        "type": "FunctionalError"
+    }
+}
