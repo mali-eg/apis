@@ -1,0 +1,13 @@
+{
+    "customerAccountVBO": [
+        {
+            "accountID": "0172151234575",
+			"authType": "ban",
+            "type": "mobile",
+            "category": "private",
+            "status": "opened",
+            "skeletonContractNumber": 123456,
+            "marketCode": "MMC"
+        }
+    ]
+}

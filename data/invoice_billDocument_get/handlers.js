@@ -4,11 +4,11 @@ var Handlers = {};
 Handlers.defaultHandler = function (request, reply) {
 
 
-    var id = 'pdf'
-    var filePath = __dirname + "/" + id;
+    var file = 'bill.pdf'
+    var filePath = __dirname + "/" + file;
 
 
-    reply(new Readable().wrap(Util.getData(filePath)));
+    reply.file(filePath);
 
 
 };

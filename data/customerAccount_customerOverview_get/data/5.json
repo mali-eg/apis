@@ -1,0 +1,10 @@
+{
+	"statusCode":400,
+    "faultMessage": {
+        "code": "NIL00V1403",
+        "text": "A Validation error occurred in CustomerAccount-CustomerOverview Service",
+        "detailedText": null,
+        "severity": "E",
+        "type": "ValidationError"
+    }
+}

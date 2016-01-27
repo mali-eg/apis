@@ -1,0 +1,10 @@
+{
+	"statusCode":403,
+    "faultMessage": {
+        "code": "NIL0A0883",
+        "text": "User is not authorized due to incorrect date of birth",
+        "detailedText": null,
+        "severity": "E",
+        "type": "AuthorizationError"
+    }
+}

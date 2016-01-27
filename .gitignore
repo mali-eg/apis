@@ -2,8 +2,6 @@
 logs
 *.log
 
-nohup.out
-
 # webstorm
 .idea
 

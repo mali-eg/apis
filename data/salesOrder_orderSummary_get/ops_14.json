@@ -31,6 +31,10 @@
             "status": "CONFIRMED",
             "lastModified": "2015-09-25T22:34:39",
             "orderDateTime": "2015-09-24T22:34:39",
+            "subscription":{
+              "subscriptionID":"491726773434",
+              "desc":"MSISDN"
+            },
             "productOffering": {
               "code": "VFREDL5GB",
               "name": "Vodafone RED 5GB",
@@ -56,7 +60,7 @@
                   "characteristicValue": [
                     {
                       "name": "SIM selector for copy",
-                      "value": "10120410200031"
+                      "value": "334"
                     }
                   ]
                 },
@@ -82,6 +86,10 @@
             "status": "CONFIRMED",
             "lastModified": "2015-09-25T22:34:39",
             "orderDateTime": "2015-09-24T22:34:39",
+            "subscription":{
+              "subscriptionID":"491726773434",
+              "desc":"MSISDN"
+            },
             "productOffering": {
               "code": "VFREDL5GB",
               "name": "Vodafone RED 5GB",
@@ -107,7 +115,7 @@
                   "characteristicValue": [
                     {
                       "name": "SIM selector for copy",
-                      "value": "10120410200031"
+                      "value": "334"
                     }
                   ]
                 },
