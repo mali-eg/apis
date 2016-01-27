@@ -90,7 +90,8 @@
                       "name": "EasyTravel Flat Tag",
                       "specification": "tariff-addon",
                       "category": "Roaming",
-                      "validity": "24 Monate"
+                      "validity": "24 Monate",
+                      "infoURL": "http://www.vodafone.de/css/tarif_info/vf_mob.html"
                     },
                     {
                       "code": "Zuhause Option - 3",
@@ -185,6 +186,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -374,6 +385,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -563,6 +584,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -752,6 +783,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -941,6 +982,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -1130,6 +1181,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -1319,6 +1380,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -1508,6 +1579,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -1697,6 +1778,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -1886,6 +1977,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -2075,6 +2176,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -2280,6 +2391,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -2469,6 +2590,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -2658,6 +2789,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -2847,6 +2988,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -3036,6 +3187,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -3225,6 +3386,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -3414,6 +3585,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -3603,6 +3784,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -3792,6 +3983,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -3981,6 +4182,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -4170,6 +4381,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -4359,6 +4580,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
@@ -4548,6 +4779,16 @@
                       "specification": "Vergünstigungen",
                       "validity": "2 months",
                       "infoURL": "http://www.vodafone.de/css/tarif_info/vf_discb.html"
+                    },
+                    {
+                      "code": "porting-1",
+                      "name": "VF Twin Card",
+                      "specification": "Porting SIM type"
+                    },
+                    {
+                      "code": "porting-2",
+                      "name": "NFC",
+                      "specification": "Porting SIM type"
                     }
                   ]
                 }
