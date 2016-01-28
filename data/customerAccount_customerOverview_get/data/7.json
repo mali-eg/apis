@@ -1,0 +1,10 @@
+{
+	"statusCode":400,
+    "faultMessage": {
+        "code": "NIL00V001",
+        "text": "A validation error occurred while mapping the input data from NIL to backend",
+        "detailedText": null,
+        "severity": "E",
+        "type": "ValidationError"
+    }
+}
