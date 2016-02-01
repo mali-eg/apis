@@ -1,0 +1,48 @@
+{
+  "statusCode": 200,
+  "userAccountVBO": {
+    "onlineUser": {
+      "onlineUserID": 111790,
+      "userName": "john.doe2",
+      "title": "Herr",
+      "firstName": "John",
+      "lastName": "Doe",
+      "lastLoginDate": "2015-03-01T12:02:00",
+      "primaryEmail": "john.doe@arcor.de",
+      "isFirstLogin": true,
+      "lastSelectedMBO": 243705,
+      "lastSelectedMBOname": "Hauptkonto"
+    },
+    "mobile": [
+      {
+        "contract": {
+          "mboId": 243705,
+          "mboName": "Hauptkonto",
+          "partyRoleId": 111790,
+          "ban": 24000154,
+          "marketCode": "MMC",
+          "subType": "KD",
+          "role": "CustomerAccountAdmin",
+          "access": "CustomerAccount",
+          "status": "effective",
+          "registrationDate": "2015-01-02",
+          "isLastSelectedMBO": true
+        }
+      }
+    ],
+    "fixednet": [
+      {
+        "mboId": 1761903,
+        "mboName": null,
+        "partyRoleId": 111793,
+        "acn": "002883531730",
+        "subType": "DSL",
+        "role": "SubscriptionAdmin",
+        "access": "DSLAccessSubscription",
+        "status": "effective",
+        "registrationDate": "2015-02-01",
+        "isLastSelectedMBO": false
+      }
+    ]
+  }
+}

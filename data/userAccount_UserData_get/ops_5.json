@@ -1,0 +1,17 @@
+{
+  "statusCode": 200,
+  "userAccountVBO": {
+    "onlineUser": {
+      "onlineUserID": 111790,
+      "userName": "john.doe2",
+      "title": "Herr",
+      "firstName": "John",
+      "lastName": "Doe",
+      "lastLoginDate": "2015-03-01T12:02:00",
+      "primaryEmail": "john.doe@arcor.de",
+      "isFirstLogin": true,
+      "lastSelectedMBO": null,
+      "lastSelectedMBOname": null
+    }
+  }
+}

@@ -60,7 +60,8 @@ var routes = [].concat(
     require('./subscription_subscriberDetailedView_get/routes'),
     require('./customerAccount_invoice_billedUsage_get/routes'),
     require('./subscription_invoice_billedUsage_get/routes'),
-    require('./invoice_billDocument_get/routes')
+    require('./invoice_billDocument_get/routes'),
+    require('./userAccount_UserData_get/routes')
 );
 //console.log("routes:"+routes);
 module.exports = routes;

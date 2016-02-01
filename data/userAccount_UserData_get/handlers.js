@@ -7,7 +7,9 @@ Handlers.defaultHandler = function (request, reply) {
     var id = 'customModel'
     var filePath = __dirname + "/" + id + ".json";
 
-    reply(Util.getData(filePath));
+    setTimeout(function () {
+        reply(Util.getData(filePath));
+    }, 2000)
 
 
 };
