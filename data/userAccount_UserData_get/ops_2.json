@@ -1,0 +1,40 @@
+{
+  "statusCode": 200,
+  "userAccountVBO": {
+    "onlineUser": {
+      "onlineUserID": 111790,
+      "userName": "john.doe2",
+      "title": "Herr",
+      "firstName": "John",
+      "lastName": "Doe",
+      "lastLoginDate": "2015-03-01T12:02:00",
+      "primaryEmail": "john.doe@arcor.de",
+      "isFirstLogin": true,
+      "lastSelectedMBO": 243705,
+      "lastSelectedMBOname": "Hauptkonto"
+    },
+    "mobile": [
+      {
+        "contract": {
+          "subscription": [
+            {
+              "mboId": 1761410,
+              "mboName": null,
+              "partyRoleId": 111790,
+              "ban": 24000154,
+              "msisdn": 491620450720,
+              "marketCode": "MMO",
+              "subType": "EK",
+              "role": "SubscriptionAdmin",
+              "access": "AccessSubscription",
+              "status": "effective",
+              "registrationDate": "2015-02-02",
+              "isLastSelectedMBO": false,
+              "isFemtoSubscription": false
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

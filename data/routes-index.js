@@ -33,6 +33,7 @@ var routes = [].concat(
     require('./salesOrder_product-get/routes'),
     require('./salesOrder_product-post/routes'),
     require('./salesOrder_orderCreation_POST/routes'),
+    require('./salesOrder-OrderLineItemCreation_POST/routes'),
     require('./salesOrder_orderLineItemSummary_get/routes'),
     require('./customerAccount_customerDataForOrder_put/routes'),
     require('./salesOrder_orderSummary_get/routes'),
@@ -59,7 +60,8 @@ var routes = [].concat(
     require('./subscription_subscriberDetailedView_get/routes'),
     require('./customerAccount_invoice_billedUsage_get/routes'),
     require('./subscription_invoice_billedUsage_get/routes'),
-    require('./invoice_billDocument_get/routes')
+    require('./invoice_billDocument_get/routes'),
+    require('./userAccount_UserData_get/routes')
 );
 //console.log("routes:"+routes);
 module.exports = routes;
