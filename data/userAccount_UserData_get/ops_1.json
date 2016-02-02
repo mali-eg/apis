@@ -1,14 +1,44 @@
 {
-  "statusCode": 200,
   "userAccountVBO": {
+    "credential": {
+      "username": "max.mustermann@vodafone.com"
+    },
+    "permissions": {
+      "businessRole": "agent",
+      "businessRights": [
+        "test1",
+        "test2"
+      ],
+      "voIDList": [
+        {
+          "voID": 12345678,
+          "voDescription": "Blue VO",
+          "voNumber": 87654321,
+          "salesChannelRights": [
+            "Activation",
+            "Porting"
+          ]
+        },
+        {
+          "voID": 12345679,
+          "voDescription": "Blue VO",
+          "voNumber": 87654322,
+          "salesChannelRights": [
+            "Porting"
+          ]
+        }
+      ]
+    },
     "onlineUser": {
       "onlineUserID": 111790,
-      "userName": "john.doe2",
+      "userName": "ops_1",
       "title": "Herr",
       "firstName": "John",
       "lastName": "Doe",
       "lastLoginDate": "2015-03-01T12:02:00",
       "primaryEmail": "john.doe@arcor.de",
+      "mtanPhoneNumber": "491725678976",
+      "defaultVoID": "12345678",
       "isFirstLogin": true,
       "lastSelectedMBO": 243705,
       "lastSelectedMBOname": "Hauptkonto"
@@ -105,3 +135,4 @@
     ]
   }
 }
+

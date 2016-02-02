@@ -1,17 +1,13 @@
 var Util = require('../../Util');
 var Handlers = {};
 
-Handlers.defaultHandler = function (request, reply) {
+Handlers.defaultHandler = function(request, reply){
 
+    var username = request.query.username;
+    //var voidName = request.query.void;
+    var filePath = __dirname+"/"+username+".json";
 
-    var id = 'customModel'
-    var filePath = __dirname + "/" + id + ".json";
-
-    setTimeout(function () {
-        reply(Util.getData(filePath));
-    }, 2000)
-
-
+    reply(Util.getData(filePath));
 };
 
 module.exports = Handlers;

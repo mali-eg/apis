@@ -3,12 +3,12 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'GET',
-        path: '/api/identity/user-accounts/user-data',
+        path: '/api/pos-user-accounts/users',
         config: {
             handler: Handlers.defaultHandler,
-            description: 'subscriptionsDetails API',
-            notes: 'get subscriptionsDetails with Authentication',
-            tags: ['api', 'subscriptionsDetails', 'details']
+            description: 'users API',
+            notes: 'get user',
+            tags: ['api', 'login', 'dashboard']
             //response: {schema: responseModel}
         }
     }
