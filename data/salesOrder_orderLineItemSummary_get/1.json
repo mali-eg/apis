@@ -22,8 +22,8 @@
           {
             "orderLineItemID": "674380545-1",
             "desc": "New Private Customer Mobile",
-            "type": "Aktivierung",
-            "category": "NPCM",
+            "type": "normalPorting",
+            "category": "pre-pay",
             "status": "Akzeptiert",
             "productOffering": {
               "product": [
