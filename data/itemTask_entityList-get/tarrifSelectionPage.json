@@ -1,0 +1,84 @@
+{
+  "entities": [
+    {
+      "name": "SC.Type.Prepaid",
+      "code": "pre-pay",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].category"
+    },
+    {
+      "name": "SC.Type.Postpaid",
+      "code": "post-pay",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].category"
+    },
+    {
+      "name": "SC.Type.Fixednet",
+      "code": "fixednet",
+      "path": "$.salesOrderVBO[*].parts.lineItems[*].category"
+    }
+  ],
+  "containers": [
+    {
+      "type": "dynamic",
+      "name": "leading-product-filter",
+      "entities": [
+        {
+          "name": "filter.SDJASK",
+          "code": "SDJASKL ",
+          "path": "filterGroup"
+        },
+        {
+          "name": "filter.KHHKJH",
+          "code": "KHHKJH",
+          "path": "filterGroup"
+        },
+        {
+          "name": "filter.IUOIIO",
+          "code": "IUOIIO",
+          "path": "filterGroup"
+        }
+      ]
+    },
+    {
+      "type": "dynamic",
+      "name": "tariff-group",
+      "entities": [
+        {
+          "name": "Tariff.Group.SDJASK",
+          "code": "CYOPB_602 ",
+          "path": "tariffGroup"
+        },
+        {
+          "name": "Tariff.Group.KHHKJH",
+          "code": "CYOPBI601",
+          "path": "tariffGroup"
+        },
+        {
+          "name": "Tariff.Group.IUOIIO",
+          "code": "CY_SMF2_1",
+          "path": "tariffGroup"
+        }
+      ]
+    },
+    {
+      "type": "dynamic",
+      "name": "package",
+      "entities": [
+        {
+          "name": "package.SDJASK",
+          "code": "CY_SF10 ",
+          "path": "package"
+        },
+        {
+          "name": "package.KHHKJH",
+          "code": "CY_SMT_7M",
+          "path": "packageGroup"
+        },
+        {
+          "name": "package.IUOIIO",
+          "code": "CY_SMT28M",
+          "path": "packageGroup"
+        }
+      ]
+    }
+  ]
+}
