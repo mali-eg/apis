@@ -1,14 +1,14 @@
 {
   "statusCode": 200,
   "customerMasterData": {
-    "customerName": "Edward Müller",
+    "customerName": "Hamada Company",
     "accountType": "postpaid",
     "customerNumber": "1234 4567890",
     "market": "Festnetz",
-    "type": "Privat",
+    "type": "Business",
     "subType": "Ford Verkehrstelematic",
     "skeleton": "123456",
-    "banStatus": "open",
+    "banStatus": "Tentative",
     "solvency": "Solvency"
   },
   "customerSubscribers": [
