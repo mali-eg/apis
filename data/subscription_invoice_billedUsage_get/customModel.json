@@ -43,7 +43,7 @@
   },
   "billingAddress": {
     "street": "Ewtasstrasse",
-    "Nr": "123456789",
+    "nr": "123456789",
     "plz": "12345",
     "city": "Dortmund",
     "country": "Germany"

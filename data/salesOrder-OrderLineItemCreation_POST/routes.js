@@ -3,12 +3,12 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/api/SalesOrder_OrderUpdate_post',
+        path: '/api/salesOrder_OrderLineItemCreation_POST',
         config: {
             handler: Handlers.defaultHandler,
-            description: 'summaryData API',
-            notes: 'Agent submit summary data',
-            tags: ['api', 'newCustomer', 'summaryData']
+            description: 'orderCreation API',
+            notes: 'Agent gets order ID',
+            tags: ['api', 'newCustomer', 'orderCreation']
             //response: {schema: responseModel}
         }
     }
