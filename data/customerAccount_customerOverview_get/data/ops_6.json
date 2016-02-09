@@ -1,16 +1,15 @@
 {
   "statusCode": 200,
   "customerMasterData": {
-    "customerName": "Edward Müller",
+    "customerName": "Hamada Company",
     "accountType": "postpaid",
     "customerNumber": "1234 4567890",
     "market": "Festnetz",
-    "type": "Privat",
+    "type": "Business",
     "subType": "Ford Verkehrstelematic",
     "skeleton": "123456",
-    "banStatus": "open",
-    "solvency": "Solvency",
-    "subscriberStatus": "active"
+    "banStatus": "Tentative",
+    "solvency": "Solvency"
   },
   "customerSubscribers": [
     {
@@ -23,7 +22,7 @@
       "mobileNumberStatus": true,
       "mobileNumberColor": "red",
       "subscriberName": "Edward Meyerose",
-      "subscriberStatus": "active",
+      "subscriberStatus": "A",
       "nextRegularSubDate": "10/10/20",
       "role": "member",
       "prolongationStatus": "",
@@ -40,7 +39,7 @@
       "mobileNumberStatus": false,
       "mobileNumberColor": "gray",
       "subscriberName": "Edward Meyerose",
-      "subscriberStatus": "active",
+      "subscriberStatus": "A",
       "nextRegularSubDate": "10/10/18",
       "role": "owner",
       "prolongationStatus": "",
@@ -57,7 +56,7 @@
       "mobileNumberStatus": "",
       "mobileNumberColor": "",
       "subscriberName": "Edward Meyerose",
-      "subscriberStatus": "active",
+      "subscriberStatus": "A",
       "nextRegularSubDate": "10/10/20",
       "role": "member",
       "prolongationStatus": "",
@@ -75,7 +74,7 @@
         "type": "SOHO",
         "subType": "Ford Verkehrstelematic",
         "skeleton": "123456",
-        "banStatus": "open",
+        "banStatus": "Open",
         "solvency": "Solvency"
       },
       "customerSubscribers": [

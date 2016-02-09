@@ -44,7 +44,7 @@
       "entities": [
         {
           "name": "Tariff.Group.SDJASK",
-          "code": "CYOPB_602 ",
+          "code": "CYOPB_602",
           "path": "tariffGroup"
         },
         {

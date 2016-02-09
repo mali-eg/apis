@@ -9,8 +9,7 @@
     "subType": "Ford Verkehrstelematic",
     "skeleton": "123456",
     "banStatus": "open",
-    "solvency": "Solvency",
-    "subscriberStatus": "active"
+    "solvency": "Solvency"
   },
   "customerSubscribers": [
     {
@@ -23,7 +22,7 @@
       "mobileNumberStatus": true,
       "mobileNumberColor": "red",
       "subscriberName": "Edward Meyerose",
-      "subscriberStatus": "active",
+      "subscriberStatus": "A",
       "nextRegularSubDate": "10/10/20",
       "role": "member",
       "prolongationStatus": "",
@@ -40,7 +39,7 @@
       "mobileNumberStatus": false,
       "mobileNumberColor": "gray",
       "subscriberName": "Edward Meyerose",
-      "subscriberStatus": "active",
+      "subscriberStatus": "A",
       "nextRegularSubDate": "10/10/18",
       "role": "owner",
       "prolongationStatus": "",
@@ -57,7 +56,7 @@
       "mobileNumberStatus": "",
       "mobileNumberColor": "",
       "subscriberName": "Edward Meyerose",
-      "subscriberStatus": "active",
+      "subscriberStatus": "A",
       "nextRegularSubDate": "10/10/20",
       "role": "member",
       "prolongationStatus": "",
@@ -75,7 +74,50 @@
         "type": "SOHO",
         "subType": "Ford Verkehrstelematic",
         "skeleton": "123456",
-        "banStatus": "open",
+        "banStatus": "Open",
+        "solvency": "Solvency"
+      },
+      "customerSubscribers": [
+        {
+          "tariffName": "Red 20GB",
+          "level": "Bronze",
+          "subLevel": "",
+          "redPlusType": "",
+          "mobileNumber": "0172 345 6789",
+          "mobileNumberStatus": "",
+          "mobileNumberColor": "",
+          "subscriberName": "Edward Meyerose",
+          "subscriberStatus": "A",
+          "nextRegularSubDate": "10/10/20",
+          "prolongationColor": "green",
+          "role": "member"
+        },
+        {
+          "tariffName": "Red 20GB",
+          "level": "Bronze",
+          "subLevel": "",
+          "redPlusType": "",
+          "mobileNumber": "0172 345 6789",
+          "mobileNumberStatus": "",
+          "mobileNumberColor": "gray",
+          "subscriberName": "Edward Meyerose",
+          "subscriberStatus": "A",
+          "nextRegularSubDate": "10/10/20",
+          "prolongationColor": "gray",
+          "role": "owner"
+        }
+      ]
+    },
+    {
+      "customerMasterData": {
+        "customerName": "Medizinverlag Edward Müller",
+        "accountType": "postpaid",
+        "customerNumber": "1234 4567890",
+        "market": "Credit",
+        "type": "SOHO",
+        "subType": "Ford Verkehrstelematic",
+        "skeleton": "123456",
+        "banStatus": "Open",
         "solvency": "Solvency"
       },
       "customerSubscribers": [
