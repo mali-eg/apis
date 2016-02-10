@@ -1,10 +1,10 @@
 {
-	"statusCode":504,
+	"statusCode":401,
     "faultMessage": {
-        "code": "NIL00T1403",
-        "text": "A Technical error occurred in CustomerAccount-CustomerOverview Service",
+        "code": "NIL00A001",
+        "text": "Invalid User, User is not authenticated",
         "detailedText": null,
         "severity": "E",
-        "type": "TechnicalError"
+        "type": "AuthenticationError"
     }
 }

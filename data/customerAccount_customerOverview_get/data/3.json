@@ -1,8 +1,8 @@
 {
 	"statusCode":500,
     "faultMessage": {
-        "code": "NIL00F1403",
-        "text": "A Functional error occurred in CustomerAccount-CustomerOverview Service",
+        "code": "VAL02022",
+        "text": "Invalid id. Does not match any of the expected patterns",
         "detailedText": null,
         "severity": "E",
         "type": "FunctionalError"
