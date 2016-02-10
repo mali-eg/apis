@@ -2,12 +2,12 @@ var Handlers = require('./handlers');
 
 var routes = [
     {
-        method: 'GET',
-        path: '/api/pos-user-accounts/user-data',
+        method: 'POST',
+	path: '/api/identity/user-accounts/users/{username}',
         config: {
             handler: Handlers.defaultHandler,
-            description: 'users API',
-            notes: 'get user',
+            description: 'update user API',
+            notes: 'update user',
             tags: ['api', 'login', 'dashboard']
         }
     }
