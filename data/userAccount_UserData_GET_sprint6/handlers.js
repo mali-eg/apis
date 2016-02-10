@@ -3,8 +3,8 @@ var Handlers = {};
 
 Handlers.defaultHandler = function(request, reply){
 
-
-    var filePath = __dirname+"/3.json";
+    var username = request.query.username;
+    var filePath = __dirname+"/data/"+username+".json";
 
     reply(Util.getData(filePath));
 };

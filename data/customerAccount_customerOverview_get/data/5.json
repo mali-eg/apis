@@ -1,10 +1,10 @@
 {
-	"statusCode":400,
+	"statusCode":500,
     "faultMessage": {
-        "code": "NIL00V1403",
-        "text": "A Validation error occurred in CustomerAccount-CustomerOverview Service",
+        "code": "NIL00T010",
+        "text": "User cannot be authorized, check log for more information",
         "detailedText": null,
         "severity": "E",
-        "type": "ValidationError"
+        "type": "TechnicalError"
     }
 }

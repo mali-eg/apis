@@ -27,7 +27,6 @@ var routes = [].concat(
     require('./passwordReset/routes'),
     require('./passwordChange/routes'),
     require('./securityToken_mTANAuthentication/routes'),
-    require('./userAccount_UserData_GET/routes'),
     require('./itemTask_entityList-get/routes'),
     require('./itemTask_ruleset/routes'),
     require('./salesOrder_product-get/routes'),
@@ -46,15 +45,17 @@ var routes = [].concat(
     require('./salesOrder_OrdersOverview_get/routes'),
     require('./salesOrder_orderLineItem_delete/routes'),
     require('./token/routes'),
-
-
+	// user account
+	require('./userAccount_PUIDDeactivation_POST/routes'),
+    require('./userAccount_PUIDUpdate_POST/routes'),
+    require('./userAccount_PUIDCreation_POST/routes'),
+    require('./userAccount_UserData_GET/routes'),
+	require('./userAccount_UserData_GET_sprint6/routes'),
     //PDF Download APIs
     require('./CustomerAgreementForOrder_GET/routes'),
     require('./Agreement_CustomerDocument_GET/routes'),
-
     //customer Overview
     require('./customerAccount_customerOverview_get/routes'),
-
     //customer details
     require('./customerAccount_customerDetailedView_get/routes'),
     require('./subscription_subscriberDetailedView_get/routes'),
