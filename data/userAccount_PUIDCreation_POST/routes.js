@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/api/user-accounts/users',
+        path: '/api/identity/user-accounts/users',
         config: {
             handler: Handlers.defaultHandler,
             description: 'create user API',

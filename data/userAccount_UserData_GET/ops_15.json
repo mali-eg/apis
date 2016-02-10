@@ -2,10 +2,10 @@
     "userAccountVBO":[
         {
             "credential":{
-                "username":"max.mustermann@vodafone.com"
+                "username":"ops_15"
             },
             "permissions":{
-                "businessRole":"agent",
+                "businessRole":"Admin-FH",
                 "businessRights":[
                     "test1",
                     "test2"
@@ -14,7 +14,7 @@
                     {
                         "voID":12345678,
                         "voDescription":"Blue VO 1",
-                        "voNumber":87654321,
+                        "voNumber":87654331,
                         "salesChannelRights":[
                             "Activation",
                             "Porting"
@@ -23,16 +23,33 @@
                     {
                         "voID":12345679,
                         "voDescription":"Blue VO 2",
-                        "voNumber":87654322,
+                        "voNumber":87624322,
                         "salesChannelRights":[
+                            "Porting"
+                        ]
+                    },
+					{
+                        "voID":12345680,
+                        "voDescription":"Blue VO 3",
+                        "voNumber":87634321,
+                        "salesChannelRights":[
+                            "Activation",
+                            "Porting"
+                        ]
+                    },
+					{
+                        "voID":12345850,
+                        "voDescription":"Blue VO 4",
+                        "voNumber":87654421,
+                        "salesChannelRights":[
+                            "Activation",
                             "Porting"
                         ]
                     }
                 ]
             },
             "onlineUser":{
-                "active":true,
-                "suspended":false,
+                "status":"ACTIVE",
 				"username":"john.ss",
                 "creationDate":"2015-06-13T12:35:45",
                 "updateDate":"2015-04-22T02:30:40",
@@ -73,7 +90,19 @@
                 },
                 {
                     "shopName":"Vodafone Retail Shop III",
-                    "rmsID":"123456",
+                    "rmsID":"123457",
+                    "shopAddress":{
+                        "street":"Heegbarg",
+                        "streetNumber":"31",
+                        "streetNumberSuffix":"b",
+                        "postCode":"60313",
+                        "city":"Frankfurt",
+                        "country":"Germany"
+                    }
+                },
+                {
+                    "shopName":"Vodafone Retail Shop IIIII",
+                    "rmsID":"123458",
                     "shopAddress":{
                         "street":"Heegbarg",
                         "streetNumber":"31",

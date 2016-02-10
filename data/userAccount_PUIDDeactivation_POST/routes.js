@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/api/user-accounts/user-profile/{username}',
+        path: '/api/identity/user-accounts/user-profile/{username}',
         config: {
             handler: Handlers.defaultHandler,
             description: 'User Deactivation API',
