@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'GET',
-        path: '/api/contracts/{order_id}/customer-agreements/{document}',
+        path: '/api/pos-contract-customer-agreement/customer-agreements/{documentId}/{document}',
         config: {
             handler: Handlers.defaultHandler,
             description: 'authenticate API',
