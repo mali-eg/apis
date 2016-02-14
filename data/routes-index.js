@@ -31,6 +31,7 @@ var routes = [].concat(
     require('./itemTask_ruleset/routes'),
     require('./salesOrder_product-get/routes'),
     require('./salesOrder_product-post/routes'),
+    require('./salesOrder_product-postSprint3/routes'),
     require('./salesOrder_orderCreation_POST/routes'),
     require('./salesOrder-OrderLineItemCreation_POST/routes'),
     require('./salesOrder_orderLineItemSummary_get/routes'),
