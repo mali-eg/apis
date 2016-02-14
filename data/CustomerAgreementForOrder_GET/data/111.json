@@ -1,14 +1,12 @@
 {
-  "customerAgreementVBO": {
-    "parts": {
-      "attachments": [
-        {
-          "fileName": "Smart_XL_Peter_Mueller.xps",
-          "size": "787879435",
-          "format": "PDF",
-          "status": "created"
-        }
-      ]
-    }
+  "parts": {
+    "attachments": [
+      {
+        "fileName": "Smart_XL_Peter_Mueller.pdf",
+        "size": "787879435",
+        "format": "PDF",
+        "status": "created"
+      }
+    ]
   }
 }

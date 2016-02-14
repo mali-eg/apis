@@ -10,17 +10,25 @@ Handlers.defaultHandler = function (request, reply) {
 
     var filePath = __dirname + "/data/" + fileName;
     var file = fs.readFileSync(filePath);
-    var fileBuffer = new Buffer(file).toString('base64');
+    var fileBuffer = new Buffer(file);
+    //.toString('base64');
 
     var fileType = fileName.match(/\.([0-9a-z]+)(?:[\?#]|$)/i)[1];
 
     var contentType = 'application/' + fileType;
-
-    var payload = '<data contentType="' + contentType + '" contentLength="' + fileBuffer.length + '">' + fileBuffer + '</data>';
+    //
+    //var payload = '<data contentType="' + contentType + '" contentLength="' + fileBuffer.length + '">' + fileBuffer + '</data>';
 
     //reply(Util.getData(filePath));
+    //setTimeout(function () {
+    //    reply(payload).header('Content-Type',contentType).header('content-disposition', 'inline;filename="'+ fileName + '"');
+    //}, 3000)
+
     setTimeout(function () {
-        reply(payload).header('Content-Type',contentType).header('content-disposition', 'inline;filename="'+ fileName + '"');
+        reply(fileBuffer)
+            .header('Content-Type', contentType)
+            .header('content-disposition', 'attachment;filename="' + fileName + '"')
+            .header('Content-Length', file.size);
     }, 3000)
 
 };
