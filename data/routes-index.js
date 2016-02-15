@@ -39,10 +39,26 @@ var routes = [].concat(
     require('./salesOrder_order_delete/routes'),
     require('./customerAccount_customerDataForOrder_get/routes'),
     require('./subscription_subscriberDataForOrder_get/routes'),
-
-    require('./salesOrder_OrdersOverview_get/routes')
-
-
+    require('./salesOrder_OrdersOverview_get/routes'),
+    require('./salesOrder_orderLineItem_delete/routes'),
+    require('./token/routes'),
+	// user account
+	require('./userAccount_PUIDDeactivation_POST/routes'),
+    require('./userAccount_PUIDUpdate_POST/routes'),
+    require('./userAccount_PUIDCreation_POST/routes'),
+    require('./userAccount_UserData_GET/routes'),
+	require('./userAccount_UserData_GET_sprint6/routes'),
+    //PDF Download APIs
+    require('./CustomerAgreementForOrder_GET/routes'),
+    require('./Agreement_CustomerDocument_GET/routes'),
+    //customer Overview
+    require('./customerAccount_customerOverview_get/routes'),
+    //customer details
+    require('./customerAccount_customerDetailedView_get/routes'),
+    require('./subscription_subscriberDetailedView_get/routes'),
+    require('./customerAccount_invoice_billedUsage_get/routes'),
+    require('./subscription_invoice_billedUsage_get/routes'),
+    require('./invoice_billDocument_get/routes')
 );
 //console.log("routes:"+routes);
 module.exports = routes;
