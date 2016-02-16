@@ -2,7 +2,7 @@
     "userAccountVBO":[
         {
             "credential":{
-                "username":"ops_1@vodafone.com"
+                "username":"ops_1_sprint6@vodafone.com"
             },
             "permissions":{
                 "businessRole":"Agent",
@@ -37,6 +37,7 @@
                 "updateDate":"2015-04-22T02:30:40",
                 "twoFactorFlag":true,
                 "passwordExpiryDate":"2015-12-31T12:00:00",
+                "passwordExpiryHint": 7,
                 "title":"Dr.",
 				"firstName": "John",
                 "familyName":"Mustermann",
