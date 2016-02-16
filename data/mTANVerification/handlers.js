@@ -2,9 +2,8 @@ var Util = require('../../Util');
 var Handlers = {};
 
 Handlers.defaultHandler = function(request, reply){
-
-    var filePath = __dirname+"/"+request.query.username+".json";
-
+	var username = request.query.username;
+    var filePath = __dirname+"/data/"+username+".json";
     reply(Util.getData(filePath));
 };
 

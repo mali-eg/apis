@@ -11,7 +11,7 @@
                     "test2"
                 ],
                 "voIDList":[
-					{
+                    {
                         "voID":12345679,
                         "voDescription":"Blue VO 2",
                         "voNumber":87624322,
@@ -23,13 +23,13 @@
             },
             "onlineUser":{
                 "status":"ACTIVE",
-				"username":"user.name",
+                "username":"user.name",
                 "creationDate":"2015-06-13T12:35:45",
                 "updateDate":"2015-04-22T02:30:40",
                 "twoFactorFlag":true,
                 "passwordExpiryDate":"2015-12-31T12:00:00",
                 "title":"Mr.",
-				"firstName": "Ahmed",
+                "firstName":"Ahmed",
                 "familyName":"Saber",
                 "lastLoginDate":"2015-04-22T02:30:40",
                 "primaryEmail":"max.mustermann@vodafone.com",
@@ -37,17 +37,17 @@
                 "defaultVoID":12345679
             },
             "shop":{
-				"shopName":"Vodafone Retail Shop III",
-				"rmsID":"123457",
-				"shopAddress":{
-					"street":"Heegbarg",
-					"streetNumber":"31",
-					"streetNumberSuffix":"b",
-					"postCode":"60313",
-					"city":"Frankfurt",
-					"country":"Germany"
-				}
-			},
+                "shopName":"Vodafone Retail Shop III",
+                "rmsID":"123457",
+                "shopAddress":{
+                    "street":"Heegbarg",
+                    "streetNumber":"31",
+                    "streetNumberSuffix":"b",
+                    "postCode":"60313",
+                    "city":"Frankfurt",
+                    "country":"Germany"
+                }
+            },
             "availableShops":[
                 {
                     "shopName":"Vodafone Retail Shop III",
