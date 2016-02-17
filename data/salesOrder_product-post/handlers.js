@@ -8,7 +8,8 @@ Handlers.defaultHandler = function(request, reply){
     if(request.query.username){
         username = request.query.username;
     }
-    var filePath = __dirname+"/"+username+".json";
+
+    var filePath = __dirname+"/"+"ops_1"+".json";
 
     reply(Util.getData(filePath));
 };
