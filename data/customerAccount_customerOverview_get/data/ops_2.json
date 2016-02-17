@@ -232,7 +232,8 @@
         "subType": "Ford Verkehrstelematic",
         "skeleton": "123456",
         "banStatus": "Open",
-        "solvency": "Solvency"
+        "solvency": "Solvency",
+        "banNumber": 1
       },
       "customerSubscribers": [
         {
