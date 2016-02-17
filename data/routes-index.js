@@ -50,7 +50,6 @@ var routes = [].concat(
     require('./userAccount_PUIDUpdate_POST/routes'),
     require('./userAccount_PUIDCreation_POST/routes'),
     require('./userAccount_UserData_GET/routes'),
-	require('./userAccount_UserData_GET_sprint6/routes'),
     //PDF Download APIs
     require('./CustomerAgreementForOrder_GET/routes'),
     require('./Agreement_CustomerDocument_GET/routes'),

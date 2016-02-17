@@ -70,13 +70,116 @@
       "customerMasterData": {
         "customerName": "Medizinverlag Edward Müller",
         "accountType": "postpaid",
+        "customerNumber": "12344567890",
+        "market": "Credit",
+        "type": "SOHO",
+        "subType": "Ford Verkehrstelematic",
+        "skeleton": "123456",
+        "banStatus": "open",
+        "solvency": "Solvency",
+        "banNumber": 3
+      },
+      "customerSubscribers": [
+        {
+          "tariffName": "Red 20GB",
+          "level": "Bronze",
+          "subLevel": "",
+          "redPlusType": "",
+          "mobileNumber": "0172 345 6789",
+          "mobileNumberStatus": "",
+          "mobileNumberColor": "",
+          "subscriberName": "Edward Meyerose",
+          "subscriberStatus": "A",
+          "nextRegularSubDate": "2017-12-23T00:51:55",
+          "prolongationColor": "green",
+          "role": "member"
+        },
+        {
+          "tariffName": "Red 20GB",
+          "level": "Bronze",
+          "subLevel": "",
+          "redPlusType": "",
+          "mobileNumber": "0172 345 6789",
+          "mobileNumberStatus": "",
+          "mobileNumberColor": "gray",
+          "subscriberName": "Edward Meyerose",
+          "subscriberStatus": "A",
+          "nextRegularSubDate": "2018-09-20T00:51:55",
+          "prolongationColor": "gray",
+          "role": "owner"
+        },
+        {
+          "tariffName": "Red 20GB",
+          "level": "Bronze",
+          "subLevel": "",
+          "redPlusType": "",
+          "mobileNumber": "0172 345 6789",
+          "mobileNumberStatus": "",
+          "mobileNumberColor": "gray",
+          "subscriberName": "Edward Meyerose",
+          "subscriberStatus": "A",
+          "nextRegularSubDate": "2016-01-10T00:51:55",
+          "prolongationColor": "gray",
+          "role": "owner"
+        }
+      ]
+    },
+    {
+      "customerMasterData": {
+        "customerName": "Medizinverlag Edward Müller",
+        "accountType": "postpaid",
         "customerNumber": "1234 4567890",
         "market": "Credit",
         "type": "SOHO",
         "subType": "Ford Verkehrstelematic",
         "skeleton": "123456",
         "banStatus": "open",
-        "solvency": "Solvency"
+        "solvency": "Solvency",
+        "banNumber": 1
+      },
+      "customerSubscribers": [
+        {
+          "tariffName": "Red 20GB",
+          "level": "Bronze",
+          "subLevel": "",
+          "redPlusType": "",
+          "mobileNumber": "0172 345 6789",
+          "mobileNumberStatus": "",
+          "mobileNumberColor": "",
+          "subscriberName": "Edward Meyerose",
+          "subscriberStatus": "A",
+          "nextRegularSubDate": "10/10/20",
+          "prolongationColor": "green",
+          "role": "member"
+        },
+        {
+          "tariffName": "Red 20GB",
+          "level": "Bronze",
+          "subLevel": "",
+          "redPlusType": "",
+          "mobileNumber": "0172 345 6789",
+          "mobileNumberStatus": "",
+          "mobileNumberColor": "gray",
+          "subscriberName": "Edward Meyerose",
+          "subscriberStatus": "A",
+          "nextRegularSubDate": "10/10/20",
+          "prolongationColor": "gray",
+          "role": "owner"
+        }
+      ]
+    },
+    {
+      "customerMasterData": {
+        "customerName": "Medizinverlag Edward Müller",
+        "accountType": "postpaid",
+        "customerNumber": "1234 4567890",
+        "market": "Credit",
+        "type": "SOHO",
+        "subType": "Ford Verkehrstelematic",
+        "skeleton": "123456",
+        "banStatus": "open",
+        "solvency": "Solvency",
+        "banNumber": 2
       },
       "customerSubscribers": [
         {
