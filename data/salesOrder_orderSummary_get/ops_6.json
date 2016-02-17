@@ -24,63 +24,9 @@
       },
       "parts": {
         "lineItems": [
+
           {
             "orderLineItemID": "1",
-            "type": "activation",
-            "category": "prepaid",
-            "status": "DRAFT",
-            "lastModified": "2015-09-25T22:34:39",
-            "orderDateTime": "2015-09-25T22:34:39",
-            "subscription":{
-              "subscriptionID":"491726773434",
-              "desc":"MSISDN"
-            },
-            "productOffering": {
-              "code": "VFREDL8GB",
-              "name": "Vodafone RED 8GB Premium Smartphone",
-              "specification": "tariff-group",
-              "characteristicValue": [
-                {
-                  "name": "SubsidyLevel",
-                  "value": "Subsidy 1"
-                }
-              ],
-              "product": [
-                {
-                  "specification": "hardware",
-                  "characteristicValue": [
-                    {
-                      "name": "IMEI for copy",
-                      "value": "678"
-                    }
-                  ]
-                },
-                {
-                  "specification": "sim-card",
-                  "characteristicValue": [
-                    {
-                      "name": "Pre registered phone number for copy",
-                      "value": "10120410200031"
-                    }
-                  ]
-                },
-                {
-                  "specification": "Optionen",
-                  "count": 2
-                },
-                {
-                  "specification": "Promotions",
-                  "count": 0
-                },
-                {
-                  "specification": "Rabatte",
-                  "count": 2
-                }
-              ]
-            }
-          },
-          {
-            "orderLineItemID": "2",
             "type": "Activation Porting Classic",
             "category": "postpaid",
             "status": "SENT",
@@ -135,7 +81,7 @@
             }
           },
           {
-            "orderLineItemID": "3",
+            "orderLineItemID": "2",
             "type": "Activation Porting Classic",
             "category": "postpaid",
             "status": "CONFIRMED",
