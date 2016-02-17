@@ -24,17 +24,71 @@
       },
       "parts": {
         "lineItems": [
-
           {
             "orderLineItemID": "1",
-            "type": "Activation Porting Classic",
+            "type": "activation",
+            "category": "postpaid",
+            "status": "DRAFT",
+            "lastModified": "2015-09-25T22:34:39",
+            "orderDateTime": "2015-09-25T22:34:39",
+            "subscription": {
+              "subscriptionID": "491726773434",
+              "desc": "MSISDN"
+            },
+            "productOffering": {
+              "code": "VFREDL8GB",
+              "name": "Vodafone RED 8GB Premium Smartphone",
+              "specification": "tariff-group",
+              "characteristicValue": [
+                {
+                  "name": "SubsidyLevel",
+                  "value": "Subsidy 1"
+                }
+              ],
+              "product": [
+                {
+                  "specification": "hardware",
+                  "characteristicValue": [
+                    {
+                      "name": "IMEI for copy",
+                      "value": "6543987654675431"
+                    }
+                  ]
+                },
+                {
+                  "specification": "sim-card",
+                  "characteristicValue": [
+                    {
+                      "name": "SIM serial number for copy",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "specification": "Optionen",
+                  "count": 2
+                },
+                {
+                  "specification": "Promotions",
+                  "count": 0
+                },
+                {
+                  "specification": "Rabatte",
+                  "count": 2
+                }
+              ]
+            }
+          },
+          {
+            "orderLineItemID": "2",
+            "type": "activation",
             "category": "postpaid",
             "status": "SENT",
             "lastModified": "2015-09-25T22:34:39",
             "orderDateTime": "2015-09-25T22:34:39",
-            "subscription":{
-              "subscriptionID":"491726773434",
-              "desc":"MSISDN"
+            "subscription": {
+              "subscriptionID": "49172678",
+              "desc": "MSISDN"
             },
             "productOffering": {
               "code": "VFREDL6GB",
@@ -52,7 +106,7 @@
                   "characteristicValue": [
                     {
                       "name": "IMEI for copy",
-                      "value": "678"
+                      "value": "6543987654675431"
                     }
                   ]
                 },
@@ -61,7 +115,7 @@
                   "characteristicValue": [
                     {
                       "name": "SIM serial number for copy",
-                      "value": "10120410200031"
+                      "value": "2"
                     }
                   ]
                 },
@@ -81,15 +135,15 @@
             }
           },
           {
-            "orderLineItemID": "2",
-            "type": "Activation Porting Classic",
+            "orderLineItemID": "3",
+            "type": "activation",
             "category": "postpaid",
             "status": "CONFIRMED",
             "lastModified": "2015-09-25T22:34:39",
             "orderDateTime": "2015-09-24T22:34:39",
-            "subscription":{
-              "subscriptionID":"491726773434",
-              "desc":"MSISDN"
+            "subscription": {
+              "subscriptionID": "49172610000",
+              "desc": "MSISDN"
             },
             "productOffering": {
               "code": "VFREDL3GB",
@@ -107,7 +161,7 @@
                   "characteristicValue": [
                     {
                       "name": "IMEI for copy",
-                      "value": "678"
+                      "value": "6543987654675431"
                     }
                   ]
                 },
@@ -135,7 +189,6 @@
               ]
             }
           }
-
         ]
       }
     }
