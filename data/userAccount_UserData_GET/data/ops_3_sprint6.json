@@ -20,9 +20,9 @@
                         ]
                     },
                     {
-                        "voID":12345850,
-                        "voDescription":"Blue VO 4",
-                        "voNumber":87654421,
+                        "voID":12345680,
+                        "voDescription":"Blue VO 3",
+                        "voNumber":87634321,
                         "salesChannelRights":[
                             "Activation",
                             "Porting"
