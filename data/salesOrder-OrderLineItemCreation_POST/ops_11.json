@@ -1,0 +1,22 @@
+{
+  "statusCode":200,
+  "salesOrderVBO":[
+    {
+      "orderID": "ops_11",
+      "status": "draft",
+      "lastModified ": "2015-08-13T15:17:44",
+      "lastModifiedBy": "ePOS",
+      "parts": {
+        "lineItems": [
+          {
+            "orderLineItemID": "674380545-1",
+            "desc": "New Private Customer Mobile",
+            "type": "activation",
+            "category": "post-pay",
+            "status": "draft"
+          }
+        ]
+      }
+    }
+  ]
+}
