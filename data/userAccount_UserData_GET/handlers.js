@@ -3,7 +3,7 @@ var Handlers = {};
 
 Handlers.defaultHandler = function(request, reply){
     // asaber
-    var username = request.headers.username;
+    var username = request.headers.username + '_list';
     if(request.query.username){
         username = request.query.username;
     }
