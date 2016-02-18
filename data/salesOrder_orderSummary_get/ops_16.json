@@ -24,25 +24,26 @@
       },
       "parts": {
         "lineItems": [
+
           {
             "orderLineItemID": "1",
-            "type": "Activation porting comfort",
-            "category": "singleItem",
-            "status": "DRAFT",
+            "type": "Activation Porting",
+            "category": "fixedNet",
+            "status": "CONFIRMED",
             "lastModified": "2015-09-25T22:34:39",
-            "orderDateTime": "2015-09-25T22:34:39",
+            "orderDateTime": "2015-09-24T22:34:39",
             "subscription":{
               "subscriptionID":"491726773434",
               "desc":"MSISDN"
             },
             "productOffering": {
-              "code": "VFREDL8GB",
-              "name": "Vodafone RED 8GB Premium Smartphone",
+              "code": "VFREDL5GB",
+              "name": "Vodafone RED 5GB",
               "specification": "tariff-group",
               "characteristicValue": [
                 {
                   "name": "SubsidyLevel",
-                  "value": "Subsidy 1"
+                  "value": "Subsidy 3"
                 }
               ],
               "product": [
@@ -50,7 +51,7 @@
                   "specification": "hardware",
                   "characteristicValue": [
                     {
-                      "name": "IMEI for copy",
+                      "name": "IMEI",
                       "value": "6543987654675431"
                     }
                   ]
@@ -59,29 +60,26 @@
                   "specification": "sim-card",
                   "characteristicValue": [
                     {
-                      "name": "Pre registered phone number for copy",
-                      "value": "326"
+                      "name": "SIM selector for copy",
+                      "value": "776"
                     }
                   ]
                 },
                 {
                   "specification": "Optionen",
-                  "count": 2
+                  "count": 3
                 },
                 {
                   "specification": "Promotions",
-                  "count": 0
+                  "count": 2
                 },
                 {
                   "specification": "Rabatte",
-                  "count": 2
+                  "count": 5
                 }
               ]
             }
           }
-
-
-
         ]
       }
     }
