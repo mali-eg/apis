@@ -2,7 +2,7 @@
   "userAccountVBO": [
     {
       "credential": {
-        "username": "max.mustermann"
+        "username": "ops_1_sprint6"
       },
       "permissions": {
         "voIDList": [
@@ -28,7 +28,7 @@
         "firstName": "Max",
         "lastName": "Mustermann",
         "lastLoginDate": "2015-04-22T02:30:40",
-        "primaryEmail": "max.mustermann@vodafone.com",
+        "primaryEmail": "ops_1_sprint6@vodafone.com",
         "mtanPhoneNumber": "491725678976",
         "defaultVoID": "12345678"
       },
@@ -46,7 +46,7 @@
     },
     {
       "credential": {
-        "username": "john.doe"
+        "username": "ops_2_sprint6"
       },
       "permissions": {
         "voIDList": [
@@ -73,7 +73,7 @@
         "firstName": "John",
         "lastName": "Doe",
         "lastLoginDate": "2015-04-21T02:30:40",
-        "primaryEmail": "john.doe@vodafone.com",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
         "mtanPhoneNumber": "491725678976",
         "defaultVoID": "12345678"
       },
@@ -117,7 +117,7 @@
     },
     {
       "credential": {
-        "username": "john.doe"
+        "username": "ops_2_sprint6"
       },
       "permissions": {
         "voIDList": [
@@ -144,7 +144,7 @@
         "firstName": "John",
         "lastName": "Doe",
         "lastLoginDate": "2015-04-21T02:30:40",
-        "primaryEmail": "john.doe@vodafone.com",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
         "mtanPhoneNumber": "491725678976",
         "defaultVoID": "12345678"
       },
@@ -188,7 +188,7 @@
     },
     {
       "credential": {
-        "username": "john.doe"
+        "username": "ops_2_sprint6"
       },
       "permissions": {
         "voIDList": [
@@ -215,7 +215,7 @@
         "firstName": "John",
         "lastName": "Doe",
         "lastLoginDate": "2015-04-21T02:30:40",
-        "primaryEmail": "john.doe@vodafone.com",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
         "mtanPhoneNumber": "491725678976",
         "defaultVoID": "12345678"
       },
@@ -259,7 +259,7 @@
     },
     {
       "credential": {
-        "username": "john.doe"
+        "username": "ops_2_sprint6"
       },
       "permissions": {
         "voIDList": [
@@ -286,7 +286,7 @@
         "firstName": "John",
         "lastName": "Doe",
         "lastLoginDate": "2015-04-21T02:30:40",
-        "primaryEmail": "john.doe@vodafone.com",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
         "mtanPhoneNumber": "491725678976",
         "defaultVoID": "12345678"
       },
@@ -330,7 +330,7 @@
     },
     {
       "credential": {
-        "username": "john.doe"
+        "username": "ops_2_sprint6"
       },
       "permissions": {
         "voIDList": [
@@ -357,7 +357,7 @@
         "firstName": "John",
         "lastName": "Doe",
         "lastLoginDate": "2015-04-21T02:30:40",
-        "primaryEmail": "john.doe@vodafone.com",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
         "mtanPhoneNumber": "491725678976",
         "defaultVoID": "12345678"
       },
@@ -401,7 +401,7 @@
     },
     {
       "credential": {
-        "username": "john.doe"
+        "username": "ops_2_sprint6"
       },
       "permissions": {
         "voIDList": [
@@ -428,7 +428,7 @@
         "firstName": "John",
         "lastName": "Doe",
         "lastLoginDate": "2015-04-21T02:30:40",
-        "primaryEmail": "john.doe@vodafone.com",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
         "mtanPhoneNumber": "491725678976",
         "defaultVoID": "12345678"
       },
@@ -472,7 +472,7 @@
     },
     {
       "credential": {
-        "username": "john.doe"
+        "username": "ops_2_sprint6"
       },
       "permissions": {
         "voIDList": [
@@ -499,7 +499,7 @@
         "firstName": "John",
         "lastName": "Doe",
         "lastLoginDate": "2015-04-21T02:30:40",
-        "primaryEmail": "john.doe@vodafone.com",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
         "mtanPhoneNumber": "491725678976",
         "defaultVoID": "12345678"
       },
@@ -543,7 +543,7 @@
     },
     {
       "credential": {
-        "username": "john.doe"
+        "username": "ops_2_sprint6"
       },
       "permissions": {
         "voIDList": [
@@ -570,7 +570,7 @@
         "firstName": "John",
         "lastName": "Doe",
         "lastLoginDate": "2015-04-21T02:30:40",
-        "primaryEmail": "john.doe@vodafone.com",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
         "mtanPhoneNumber": "491725678976",
         "defaultVoID": "12345678"
       },
@@ -614,7 +614,7 @@
     },
     {
       "credential": {
-        "username": "john.doe"
+        "username": "ops_2_sprint6"
       },
       "permissions": {
         "voIDList": [
@@ -641,7 +641,7 @@
         "firstName": "John",
         "lastName": "Doe",
         "lastLoginDate": "2015-04-21T02:30:40",
-        "primaryEmail": "john.doe@vodafone.com",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
         "mtanPhoneNumber": "491725678976",
         "defaultVoID": "12345678"
       },
@@ -685,7 +685,7 @@
     },
     {
       "credential": {
-        "username": "john.doe"
+        "username": "ops_2_sprint6"
       },
       "permissions": {
         "voIDList": [
@@ -712,7 +712,7 @@
         "firstName": "John",
         "lastName": "Doe",
         "lastLoginDate": "2015-04-21T02:30:40",
-        "primaryEmail": "john.doe@vodafone.com",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
         "mtanPhoneNumber": "491725678976",
         "defaultVoID": "12345678"
       },
@@ -756,7 +756,7 @@
     },
     {
       "credential": {
-        "username": "john.doe"
+        "username": "ops_3_sprint6"
       },
       "permissions": {
         "voIDList": [
@@ -783,7 +783,7 @@
         "firstName": "John",
         "lastName": "Doe",
         "lastLoginDate": "2015-04-21T02:30:40",
-        "primaryEmail": "john.doe@vodafone.com",
+        "primaryEmail": "ops_3_sprint6@vodafone.com",
         "mtanPhoneNumber": "491725678976",
         "defaultVoID": "12345678"
       },
