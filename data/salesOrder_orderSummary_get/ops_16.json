@@ -28,7 +28,7 @@
           {
             "orderLineItemID": "1",
             "type": "Activation Porting",
-            "category": "fixedNet",
+            "category": "fixedNet (single item)",
             "status": "CONFIRMED",
             "lastModified": "2015-09-25T22:34:39",
             "orderDateTime": "2015-09-24T22:34:39",

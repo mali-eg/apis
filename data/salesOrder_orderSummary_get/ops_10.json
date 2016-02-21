@@ -137,7 +137,7 @@
           {
             "orderLineItemID": "3",
             "type": "Activation",
-            "category": "singleItem",
+            "category": "Prepaid (single item)",
             "status": "CONFIRMED",
             "lastModified": "2015-09-25T22:34:39",
             "orderDateTime": "2015-09-24T22:34:39",
