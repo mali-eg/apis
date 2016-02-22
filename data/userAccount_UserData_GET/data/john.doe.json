@@ -1,0 +1,99 @@
+{
+    "userAccountVBO":[
+        {
+            "credential":{
+                "username":"ops_1_sprint6@vodafone.com"
+            },
+            "permissions":{
+                "businessRole":"Agent",
+                "businessRights":[
+                    "test1",
+                    "test2"
+                ],
+                "voIDList":[
+                    {
+                        "voID":12345679,
+                        "voDescription":"Blue VO 2",
+                        "voNumber":87624322,
+                        "salesChannelRights":[
+                            "Porting"
+                        ]
+                    },
+                    {
+                        "voID":12345680,
+                        "voDescription":"Blue VO 3",
+                        "voNumber":87634321,
+                        "salesChannelRights":[
+                            "Activation",
+                            "Porting"
+                        ]
+                    }
+                ]
+            },
+            "onlineUser":{
+                "status":"ACTIVE",
+                "username":"john.ss",
+                "creationDate":"2015-06-13T12:35:45",
+                "updateDate":"2015-04-22T02:30:40",
+                "twoFactorFlag":true,
+                "passwordExpiryDate":"2015-12-31T12:00:00",
+                "passwordExpiryHint": 7,
+                "title":"Dr.",
+                "firstName":"John",
+                "familyName":"Mustermann",
+                "lastLoginDate":"2015-04-22T02:30:40",
+                "primaryEmail":"max.mustermann@vodafone.com",
+                "mTanPhoneNumber":"491725678976",
+                "defaultVoID":12345678
+            },
+            "shop":{
+                "shopName":"Vodafone Retail Shop IIIII",
+                "rmsID":"123458",
+                "shopAddress":{
+                    "street":"Heegbarg",
+                    "streetNumber":"31",
+                    "streetNumberSuffix":"b",
+                    "postCode":"60313",
+                    "city":"Frankfurt",
+                    "country":"Germany"
+                }
+            },
+            "availableShops":[
+                {
+                    "shopName":"Vodafone Retail Shop II",
+                    "rmsID":"654321",
+                    "shopAddress":{
+                        "street":"Heegbarg",
+                        "streetNumber":"31",
+                        "streetNumberSuffix":"a",
+                        "postCode":"22391",
+                        "city":"Hamburg",
+                        "country":"Germany"
+                    }
+                },
+                {
+                    "shopName":"Vodafone Retail Shop III",
+                    "rmsID":"123456",
+                    "shopAddress":{
+                        "street":"Heegbarg",
+                        "streetNumber":"31",
+                        "streetNumberSuffix":"b",
+                        "postCode":"60313",
+                        "city":"Frankfurt",
+                        "country":"Germany"
+                    }
+                }
+            ],
+            "federation":[
+                {
+                    "serviceProviderID":"otelo",
+                    "serviceProviderName":"Otelo"
+                },
+                {
+                    "serviceProviderID":"cable",
+                    "serviceProviderName":"Kabel Deutschland"
+                }
+            ]
+        }
+    ]
+}
