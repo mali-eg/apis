@@ -27,7 +27,7 @@
           {
             "orderLineItemID": "1",
             "type": "Activation porting classic",
-            "category": "singleItem",
+            "category": "Postpaid (single item)",
             "status": "DRAFT",
             "lastModified": "2015-09-25T22:34:39",
             "orderDateTime": "2015-09-25T22:34:39",
