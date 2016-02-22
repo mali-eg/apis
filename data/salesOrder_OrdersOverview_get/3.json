@@ -1,13 +1,11 @@
 {
-  "currentIndex": 5,
-  "totalCount": 12,
   "salesOrderVBO": [
     {
       "orderID": "674380544",
       "status": "Final",
       "created": "2015-12-23T20:46:12",
       "lastModified": "2015-12-23T20:46:12",
-      "count": 5,
+      "count": 9,
       "details":{
         "contactInfo":"SalesAgent007",
         "callBackDate":"2015-12-23T20:55:09.323+02:00",
