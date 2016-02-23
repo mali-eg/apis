@@ -1,0 +1,829 @@
+{
+  "userAccountVBO": [
+    {
+      "credential": {
+        "username": "max.mustermann"
+      },
+      "permissions": {
+        "voIDList": [
+          {
+            "voID": 12345678,
+            "voDescription": "Blue VO",
+            "voNumber": 87654321
+          },
+          {
+            "voID": 12345679,
+            "voDescription": "Blue VO",
+            "voNumber": 87654322
+          }
+        ]
+      },
+      "onlineUser": {
+        "active": false,
+        "suspended": false,
+        "creationDate": "2015-06-13T12:35:45",
+        "updateDate": "2015-04-22T02:30:40",
+        "twoFactorFlag": true,
+        "passwordExpiryDate": "2015-12-31T12:00:00",
+        "firstName": "Max",
+        "lastName": "Mustermann",
+        "lastLoginDate": "2015-04-22T02:30:40",
+        "primaryEmail": "ops_1_sprint6@vodafone.com",
+        "mtanPhoneNumber": "491725678976",
+        "defaultVoID": "12345678"
+      },
+      "shopUser": {
+        "shopName": "Vodafone Retail Shop",
+        "shopAddress": {
+          "street": "Herder Strasse",
+          "streetNumber": "7",
+          "streetNumberSuffix": "a",
+          "postCode": "22851",
+          "city": "Hamburg",
+          "country": "Germany"
+        }
+      }
+    },
+    {
+      "credential": {
+        "username": "john.doe"
+      },
+      "permissions": {
+        "voIDList": [
+          {
+            "voID": 12342678,
+            "voDescription": "Blue VO",
+            "voNumber": 87623321
+          },
+          {
+            "voID": 12342679,
+            "voDescription": "Blue VO",
+            "voNumber": 87624322
+          }
+        ]
+      },
+      "onlineUser": {
+        "active": false,
+        "suspended": true,
+        "creationDate": "2015-06-13T12:35:45",
+        "updateDate": "2015-04-22T02:30:40",
+        "twoFactorFlag": true,
+        "passwordExpiryDate": "2015-12-31T12:00:00",
+        "title": "Dr.",
+        "firstName": "John",
+        "lastName": "Doe",
+        "lastLoginDate": "2015-04-21T02:30:40",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
+        "mtanPhoneNumber": "491725678976",
+        "defaultVoID": "12345678"
+      },
+      "shop": {
+        "shopName": "Vodafone Retail Shop",
+        "shopAddress": {
+          "street": "Herder Strasse",
+          "streetNumber": "7",
+          "streetNumberSuffix": "a",
+          "postCode": "22851",
+          "city": "Hamburg",
+          "country": "Germany"
+        }
+      },
+      "availableShops": [
+        {
+          "shopName": "Vodafone Retail Shop II",
+          "rmsID": "654321",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "a",
+            "postCode": "22391",
+            "city": "Hamburg",
+            "country": "Germany"
+          }
+        },
+        {
+          "shopName": "Vodafone Retail Shop III",
+          "rmsID": "123456",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "b",
+            "postCode": "60313",
+            "city": "Frankfurt",
+            "country": "Germany"
+          }
+        }
+      ]
+    },
+    {
+      "credential": {
+        "username": "omar_makeen"
+      },
+      "permissions": {
+        "voIDList": [
+          {
+            "voID": 12342678,
+            "voDescription": "Blue VO",
+            "voNumber": 87623321
+          },
+          {
+            "voID": 12342679,
+            "voDescription": "Blue VO",
+            "voNumber": 87624322
+          }
+        ]
+      },
+      "onlineUser": {
+        "active": true,
+        "suspended": false,
+        "creationDate": "2015-06-13T12:35:45",
+        "updateDate": "2015-04-22T02:30:40",
+        "twoFactorFlag": true,
+        "passwordExpiryDate": "2015-12-31T12:00:00",
+        "title": "Dr.",
+        "firstName": "Omar",
+        "lastName": "Makeen",
+        "lastLoginDate": "2015-04-21T02:30:40",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
+        "mtanPhoneNumber": "491725678976",
+        "defaultVoID": "12345678"
+      },
+      "shop": {
+        "shopName": "Vodafone Retail Shop",
+        "shopAddress": {
+          "street": "Herder Strasse",
+          "streetNumber": "7",
+          "streetNumberSuffix": "a",
+          "postCode": "22851",
+          "city": "Hamburg",
+          "country": "Germany"
+        }
+      },
+      "availableShops": [
+        {
+          "shopName": "Vodafone Retail Shop II",
+          "rmsID": "654321",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "a",
+            "postCode": "22391",
+            "city": "Hamburg",
+            "country": "Germany"
+          }
+        },
+        {
+          "shopName": "Vodafone Retail Shop III",
+          "rmsID": "123456",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "b",
+            "postCode": "60313",
+            "city": "Frankfurt",
+            "country": "Germany"
+          }
+        }
+      ]
+    },
+    {
+      "credential": {
+        "username": "youssef_labib"
+      },
+      "permissions": {
+        "voIDList": [
+          {
+            "voID": 12342678,
+            "voDescription": "Blue VO",
+            "voNumber": 87623321
+          },
+          {
+            "voID": 12342679,
+            "voDescription": "Blue VO",
+            "voNumber": 87624322
+          }
+        ]
+      },
+      "onlineUser": {
+        "active": false,
+        "suspended": false,
+        "creationDate": "2015-06-13T12:35:45",
+        "updateDate": "2015-04-22T02:30:40",
+        "twoFactorFlag": true,
+        "passwordExpiryDate": "2015-12-31T12:00:00",
+        "title": "Dr.",
+        "firstName": "Youssef",
+        "lastName": "Labib",
+        "lastLoginDate": "2015-04-21T02:30:40",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
+        "mtanPhoneNumber": "491725678976",
+        "defaultVoID": "12345678"
+      },
+      "shop": {
+        "shopName": "Vodafone Retail Shop",
+        "shopAddress": {
+          "street": "Herder Strasse",
+          "streetNumber": "7",
+          "streetNumberSuffix": "a",
+          "postCode": "22851",
+          "city": "Hamburg",
+          "country": "Germany"
+        }
+      },
+      "availableShops": [
+        {
+          "shopName": "Vodafone Retail Shop II",
+          "rmsID": "654321",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "a",
+            "postCode": "22391",
+            "city": "Hamburg",
+            "country": "Germany"
+          }
+        },
+        {
+          "shopName": "Vodafone Retail Shop III",
+          "rmsID": "123456",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "b",
+            "postCode": "60313",
+            "city": "Frankfurt",
+            "country": "Germany"
+          }
+        }
+      ]
+    },
+    {
+      "credential": {
+        "username": "samy_ahmed"
+      },
+      "permissions": {
+        "voIDList": [
+          {
+            "voID": 12342678,
+            "voDescription": "Blue VO",
+            "voNumber": 87623321
+          },
+          {
+            "voID": 12342679,
+            "voDescription": "Blue VO",
+            "voNumber": 87624322
+          }
+        ]
+      },
+      "onlineUser": {
+        "active": false,
+        "suspended": true,
+        "creationDate": "2015-06-13T12:35:45",
+        "updateDate": "2015-04-22T02:30:40",
+        "twoFactorFlag": true,
+        "passwordExpiryDate": "2015-12-31T12:00:00",
+        "title": "Dr.",
+        "firstName": "Samy",
+        "lastName": "Ahmed",
+        "lastLoginDate": "2015-04-21T02:30:40",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
+        "mtanPhoneNumber": "491725678976",
+        "defaultVoID": "12345678"
+      },
+      "shop": {
+        "shopName": "Vodafone Retail Shop",
+        "shopAddress": {
+          "street": "Herder Strasse",
+          "streetNumber": "7",
+          "streetNumberSuffix": "a",
+          "postCode": "22851",
+          "city": "Hamburg",
+          "country": "Germany"
+        }
+      },
+      "availableShops": [
+        {
+          "shopName": "Vodafone Retail Shop II",
+          "rmsID": "654321",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "a",
+            "postCode": "22391",
+            "city": "Hamburg",
+            "country": "Germany"
+          }
+        },
+        {
+          "shopName": "Vodafone Retail Shop III",
+          "rmsID": "123456",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "b",
+            "postCode": "60313",
+            "city": "Frankfurt",
+            "country": "Germany"
+          }
+        }
+      ]
+    },
+    {
+      "credential": {
+        "username": "tarek_mohamed"
+      },
+      "permissions": {
+        "voIDList": [
+          {
+            "voID": 12342678,
+            "voDescription": "Blue VO",
+            "voNumber": 87623321
+          },
+          {
+            "voID": 12342679,
+            "voDescription": "Blue VO",
+            "voNumber": 87624322
+          }
+        ]
+      },
+      "onlineUser": {
+        "active": true,
+        "suspended": false,
+        "creationDate": "2015-06-13T12:35:45",
+        "updateDate": "2015-04-22T02:30:40",
+        "twoFactorFlag": true,
+        "passwordExpiryDate": "2015-12-31T12:00:00",
+        "title": "Dr.",
+        "firstName": "Tarek",
+        "lastName": "Mohamed",
+        "lastLoginDate": "2015-04-21T02:30:40",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
+        "mtanPhoneNumber": "491725678976",
+        "defaultVoID": "12345678"
+      },
+      "shop": {
+        "shopName": "Vodafone Retail Shop",
+        "shopAddress": {
+          "street": "Herder Strasse",
+          "streetNumber": "7",
+          "streetNumberSuffix": "a",
+          "postCode": "22851",
+          "city": "Hamburg",
+          "country": "Germany"
+        }
+      },
+      "availableShops": [
+        {
+          "shopName": "Vodafone Retail Shop II",
+          "rmsID": "654321",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "a",
+            "postCode": "22391",
+            "city": "Hamburg",
+            "country": "Germany"
+          }
+        },
+        {
+          "shopName": "Vodafone Retail Shop III",
+          "rmsID": "123456",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "b",
+            "postCode": "60313",
+            "city": "Frankfurt",
+            "country": "Germany"
+          }
+        }
+      ]
+    },
+    {
+      "credential": {
+        "username": "ops_2_sprint6"
+      },
+      "permissions": {
+        "voIDList": [
+          {
+            "voID": 12342678,
+            "voDescription": "Blue VO",
+            "voNumber": 87623321
+          },
+          {
+            "voID": 12342679,
+            "voDescription": "Blue VO",
+            "voNumber": 87624322
+          }
+        ]
+      },
+      "onlineUser": {
+        "active": false,
+        "suspended": true,
+        "creationDate": "2015-06-13T12:35:45",
+        "updateDate": "2015-04-22T02:30:40",
+        "twoFactorFlag": true,
+        "passwordExpiryDate": "2015-12-31T12:00:00",
+        "title": "Dr.",
+        "firstName": "Riham",
+        "lastName": "Amr",
+        "lastLoginDate": "2015-04-21T02:30:40",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
+        "mtanPhoneNumber": "491725678976",
+        "defaultVoID": "12345678"
+      },
+      "shop": {
+        "shopName": "Vodafone Retail Shop",
+        "shopAddress": {
+          "street": "Herder Strasse",
+          "streetNumber": "7",
+          "streetNumberSuffix": "a",
+          "postCode": "22851",
+          "city": "Hamburg",
+          "country": "Germany"
+        }
+      },
+      "availableShops": [
+        {
+          "shopName": "Vodafone Retail Shop II",
+          "rmsID": "654321",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "a",
+            "postCode": "22391",
+            "city": "Hamburg",
+            "country": "Germany"
+          }
+        },
+        {
+          "shopName": "Vodafone Retail Shop III",
+          "rmsID": "123456",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "b",
+            "postCode": "60313",
+            "city": "Frankfurt",
+            "country": "Germany"
+          }
+        }
+      ]
+    },
+    {
+      "credential": {
+        "username": "ops_2_sprint6"
+      },
+      "permissions": {
+        "voIDList": [
+          {
+            "voID": 12342678,
+            "voDescription": "Blue VO",
+            "voNumber": 87623321
+          },
+          {
+            "voID": 12342679,
+            "voDescription": "Blue VO",
+            "voNumber": 87624322
+          }
+        ]
+      },
+      "onlineUser": {
+        "active": false,
+        "suspended": false,
+        "creationDate": "2015-06-13T12:35:45",
+        "updateDate": "2015-04-22T02:30:40",
+        "twoFactorFlag": true,
+        "passwordExpiryDate": "2015-12-31T12:00:00",
+        "title": "Dr.",
+        "firstName": "Salma",
+        "lastName": "Samir",
+        "lastLoginDate": "2015-04-21T02:30:40",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
+        "mtanPhoneNumber": "491725678976",
+        "defaultVoID": "12345678"
+      },
+      "shop": {
+        "shopName": "Vodafone Retail Shop",
+        "shopAddress": {
+          "street": "Herder Strasse",
+          "streetNumber": "7",
+          "streetNumberSuffix": "a",
+          "postCode": "22851",
+          "city": "Hamburg",
+          "country": "Germany"
+        }
+      },
+      "availableShops": [
+        {
+          "shopName": "Vodafone Retail Shop II",
+          "rmsID": "654321",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "a",
+            "postCode": "22391",
+            "city": "Hamburg",
+            "country": "Germany"
+          }
+        },
+        {
+          "shopName": "Vodafone Retail Shop III",
+          "rmsID": "123456",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "b",
+            "postCode": "60313",
+            "city": "Frankfurt",
+            "country": "Germany"
+          }
+        }
+      ]
+    },
+    {
+      "credential": {
+        "username": "ops_2_sprint6"
+      },
+      "permissions": {
+        "voIDList": [
+          {
+            "voID": 12342678,
+            "voDescription": "Blue VO",
+            "voNumber": 87623321
+          },
+          {
+            "voID": 12342679,
+            "voDescription": "Blue VO",
+            "voNumber": 87624322
+          }
+        ]
+      },
+      "onlineUser": {
+        "active": true,
+        "suspended": false,
+        "creationDate": "2015-06-13T12:35:45",
+        "updateDate": "2015-04-22T02:30:40",
+        "twoFactorFlag": true,
+        "passwordExpiryDate": "2015-12-31T12:00:00",
+        "title": "Dr.",
+        "firstName": "Tamer",
+        "lastName": "Ibrahim",
+        "lastLoginDate": "2015-04-21T02:30:40",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
+        "mtanPhoneNumber": "491725678976",
+        "defaultVoID": "12345678"
+      },
+      "shop": {
+        "shopName": "Vodafone Retail Shop",
+        "shopAddress": {
+          "street": "Herder Strasse",
+          "streetNumber": "7",
+          "streetNumberSuffix": "a",
+          "postCode": "22851",
+          "city": "Hamburg",
+          "country": "Germany"
+        }
+      },
+      "availableShops": [
+        {
+          "shopName": "Vodafone Retail Shop II",
+          "rmsID": "654321",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "a",
+            "postCode": "22391",
+            "city": "Hamburg",
+            "country": "Germany"
+          }
+        },
+        {
+          "shopName": "Vodafone Retail Shop III",
+          "rmsID": "123456",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "b",
+            "postCode": "60313",
+            "city": "Frankfurt",
+            "country": "Germany"
+          }
+        }
+      ]
+    },
+    {
+      "credential": {
+        "username": "ops_2_sprint6"
+      },
+      "permissions": {
+        "voIDList": [
+          {
+            "voID": 12342678,
+            "voDescription": "Blue VO",
+            "voNumber": 87623321
+          },
+          {
+            "voID": 12342679,
+            "voDescription": "Blue VO",
+            "voNumber": 87624322
+          }
+        ]
+      },
+      "onlineUser": {
+        "active": true,
+        "suspended": false,
+        "creationDate": "2015-06-13T12:35:45",
+        "updateDate": "2015-04-22T02:30:40",
+        "twoFactorFlag": true,
+        "passwordExpiryDate": "2015-12-31T12:00:00",
+        "title": "Dr.",
+        "firstName": "Mohamed",
+        "lastName": "Salah",
+        "lastLoginDate": "2015-04-21T02:30:40",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
+        "mtanPhoneNumber": "491725678976",
+        "defaultVoID": "12345678"
+      },
+      "shop": {
+        "shopName": "Vodafone Retail Shop",
+        "shopAddress": {
+          "street": "Herder Strasse",
+          "streetNumber": "7",
+          "streetNumberSuffix": "a",
+          "postCode": "22851",
+          "city": "Hamburg",
+          "country": "Germany"
+        }
+      },
+      "availableShops": [
+        {
+          "shopName": "Vodafone Retail Shop II",
+          "rmsID": "654321",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "a",
+            "postCode": "22391",
+            "city": "Hamburg",
+            "country": "Germany"
+          }
+        },
+        {
+          "shopName": "Vodafone Retail Shop III",
+          "rmsID": "123456",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "b",
+            "postCode": "60313",
+            "city": "Frankfurt",
+            "country": "Germany"
+          }
+        }
+      ]
+    },
+    {
+      "credential": {
+        "username": "ops_2_sprint6"
+      },
+      "permissions": {
+        "voIDList": [
+          {
+            "voID": 12342678,
+            "voDescription": "Blue VO",
+            "voNumber": 87623321
+          },
+          {
+            "voID": 12342679,
+            "voDescription": "Blue VO",
+            "voNumber": 87624322
+          }
+        ]
+      },
+      "onlineUser": {
+        "active": true,
+        "suspended": false,
+        "creationDate": "2015-06-13T12:35:45",
+        "updateDate": "2015-04-22T02:30:40",
+        "twoFactorFlag": true,
+        "passwordExpiryDate": "2015-12-31T12:00:00",
+        "title": "Dr.",
+        "firstName": "Alaa",
+        "lastName": "Saber",
+        "lastLoginDate": "2015-04-21T02:30:40",
+        "primaryEmail": "ops_2_sprint6@vodafone.com",
+        "mtanPhoneNumber": "491725678976",
+        "defaultVoID": "12345678"
+      },
+      "shop": {
+        "shopName": "Vodafone Retail Shop",
+        "shopAddress": {
+          "street": "Herder Strasse",
+          "streetNumber": "7",
+          "streetNumberSuffix": "a",
+          "postCode": "22851",
+          "city": "Hamburg",
+          "country": "Germany"
+        }
+      },
+      "availableShops": [
+        {
+          "shopName": "Vodafone Retail Shop II",
+          "rmsID": "654321",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "a",
+            "postCode": "22391",
+            "city": "Hamburg",
+            "country": "Germany"
+          }
+        },
+        {
+          "shopName": "Vodafone Retail Shop III",
+          "rmsID": "123456",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "b",
+            "postCode": "60313",
+            "city": "Frankfurt",
+            "country": "Germany"
+          }
+        }
+      ]
+    },
+    {
+      "credential": {
+        "username": "ops_3_sprint6"
+      },
+      "permissions": {
+        "voIDList": [
+          {
+            "voID": 12342678,
+            "voDescription": "Blue VO",
+            "voNumber": 87623321
+          },
+          {
+            "voID": 12342679,
+            "voDescription": "Blue VO",
+            "voNumber": 87624322
+          }
+        ]
+      },
+      "onlineUser": {
+        "active": true,
+        "suspended": false,
+        "creationDate": "2015-06-13T12:35:45",
+        "updateDate": "2015-04-22T02:30:40",
+        "twoFactorFlag": true,
+        "passwordExpiryDate": "2015-12-31T12:00:00",
+        "title": "Dr.",
+        "firstName": "Omar",
+        "lastName": "Ahmed",
+        "lastLoginDate": "2015-04-21T02:30:40",
+        "primaryEmail": "ops_3_sprint6@vodafone.com",
+        "mtanPhoneNumber": "491725678976",
+        "defaultVoID": "12345678"
+      },
+      "shop": {
+        "shopName": "Vodafone Retail Shop",
+        "shopAddress": {
+          "street": "Herder Strasse",
+          "streetNumber": "7",
+          "streetNumberSuffix": "a",
+          "postCode": "22851",
+          "city": "Hamburg",
+          "country": "Germany"
+        }
+      },
+      "availableShops": [
+        {
+          "shopName": "Vodafone Retail Shop II",
+          "rmsID": "654321",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "a",
+            "postCode": "22391",
+            "city": "Hamburg",
+            "country": "Germany"
+          }
+        },
+        {
+          "shopName": "Vodafone Retail Shop III",
+          "rmsID": "123456",
+          "shopAddress": {
+            "street": "Heegbarg",
+            "streetNumber": "31",
+            "streetNumberSuffix": "b",
+            "postCode": "60313",
+            "city": "Frankfurt",
+            "country": "Germany"
+          }
+        }
+      ]
+    }
+  ]
+}

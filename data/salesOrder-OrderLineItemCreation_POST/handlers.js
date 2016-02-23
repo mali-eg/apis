@@ -3,7 +3,7 @@ var Handlers = {};
 
 Handlers.defaultHandler = function (request, reply) {
 
-    var username = request.payload.salesOrderVBO;
+    var username = request.payload.salesOrderVBO[0].parts.lineItems[0].orderLineItemId;
     /*salesOrderVBO[0].parts.lineItems.orderLineItemId*/
     console.log("*************");
     console.log(username);

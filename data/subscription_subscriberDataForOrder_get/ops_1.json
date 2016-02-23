@@ -1,32 +1,29 @@
 {
-  "statusCode":200,
+  "statusCode": 200,
   "subscriptions": [
     {
       "details": {
         "reservedPhoneNumber": "4917246578976"
       },
       "contractDetails": {
-        "startDate": "23.12.2015"
+        "startDate": "2015-01-01"
       },
       "preferences": {
         "copyLegalToSubscrAddress": true,
         "copyBillingToSubscrAddress": false,
         "desiredOverview": "Mini",
         "desiredNumber": "Complete",
-        "displayedNumber": "EnableCaseToCase",
-        "setSharingGroupOwner": true
+        "displayedNumber": "EnableCaseToCase"
+      },
+      "services": {
+        "sharingGroupType": "red-plus",
+        "sharingGroupRole": "owner"
       },
       "porting": {
         "individual": {
           "firstName": "Jonh",
           "familyName": "Johnson",
           "birthDate": "1990-01-01"
-        },
-        "organization":{
-          "name":"Heinrich Heine Universität",
-          "type":"DA-H109-00143",
-          "date":"03.10.1985"
-
         },
         "oldServiceProvider": "TMOB",
         "oldCustomerNumber": "10033232",
@@ -74,17 +71,47 @@
       },
       "address": {
         "type": "SUBSCRIBER",
-        "street": "Ferdinand-Braun-Platz",
+        "street": "Roadstraße",
         "streetNumber": "23",
-        "streetNumberSuffix": "1",
-        "postCode": "40549",
-        "city": "Düsseldorf",
+        "streetNumberSuffix": "a",
+        "postCode": "12345",
+        "city": "Citystadt",
         "country": "Deutschland",
         "countryCode": "D"
+      },
+      "phoneBook": {
+        "individual": {
+          "title": "Dr",
+          "salutation": "Herr",
+          "firstname": "Stephanie",
+          "familyName": "Müller",
+          "prefix": "Van de",
+          "aristocraticTitle": "Graf von",
+          "occupation": "doctor"
+        },
+        "address": {
+          "street": "Musterstraße",
+          "streetNumber": "23",
+          "streetNumberSuffix": "a",
+          "postCode": "12345",
+          "city": "CityStadt",
+          "subLocality": "Kreis Stadthausen",
+          "country": "Deutschland"
+        },
+        "searchTerm": "Feuerwehr",
+        "searchDirectory": "PrivateDatabase",
+        "entryType": "Printed",
+        "publicationType": "CityAndStreet",
+        "informationExchange": "Complete",
+        "inverseSearch": true,
+        "marketingUseDataIndicator": false
       }
     }
   ]
 }
+
+
+
 
 
 

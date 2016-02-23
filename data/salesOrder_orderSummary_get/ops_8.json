@@ -78,62 +78,8 @@
                 }
               ]
             }
-          },
-          {
-            "orderLineItemID": "2",
-            "type": "Activation Porting",
-            "category": "fixedNet",
-            "status": "CONFIRMED",
-            "lastModified": "2015-09-25T22:34:39",
-            "orderDateTime": "2015-09-24T22:34:39",
-            "subscription":{
-              "subscriptionID":"491726773434",
-              "desc":"MSISDN"
-            },
-            "productOffering": {
-              "code": "VFREDL5GB",
-              "name": "Vodafone RED 5GB",
-              "specification": "tariff-group",
-              "characteristicValue": [
-                {
-                  "name": "SubsidyLevel",
-                  "value": "Subsidy 3"
-                }
-              ],
-              "product": [
-                {
-                  "specification": "hardware",
-                  "characteristicValue": [
-                    {
-                      "name": "IMEI",
-                      "value": "6543987654675431"
-                    }
-                  ]
-                },
-                {
-                  "specification": "sim-card",
-                  "characteristicValue": [
-                    {
-                      "name": "SIM selector for copy",
-                      "value": "776"
-                    }
-                  ]
-                },
-                {
-                  "specification": "Optionen",
-                  "count": 3
-                },
-                {
-                  "specification": "Promotions",
-                  "count": 2
-                },
-                {
-                  "specification": "Rabatte",
-                  "count": 5
-                }
-              ]
-            }
           }
+
         ]
       }
     }

@@ -1,9 +1,16 @@
 {
+	"statusCode":400,
     "faultMessage": {
-        "code": "NIL00A001",
-        "text": "Invalid User, User is not authenticated",
+        "code": "NIL00V1204",
+        "text": "A Validation error occurred in UserAccount",
         "detailedText": null,
         "severity": "E",
-        "type": "AuthenticationError"
+        "type": "ValidationError",
+        "original": {
+            "VAL02016": {
+                "text": "The PUID you chose is not valid or already taken.",
+                "key": "username"
+            }
+        }
     }
 }

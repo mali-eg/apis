@@ -4,7 +4,7 @@ var routes = [
     {
         method: 'GET',
 
-        path: '/api/pos-sales-orders/{ORDER_ID}/summary/',
+        path: '/api/pos-sales-orders/{ORDER_ID}/summary',
         config: {
             handler: Handlers.defaultHandler,
             description: 'shoppingCart API',

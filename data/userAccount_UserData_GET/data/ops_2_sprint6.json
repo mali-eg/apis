@@ -27,6 +27,7 @@
                 "creationDate":"2015-06-13T12:35:45",
                 "updateDate":"2015-04-22T02:30:40",
                 "twoFactorFlag":true,
+                "passwordUpdateHint": true,
                 "passwordExpiryDate":"2015-12-31T12:00:00",
                 "title":"Mr.",
                 "firstName":"Ahmed",
