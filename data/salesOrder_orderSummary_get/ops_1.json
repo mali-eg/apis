@@ -1,198 +1,52 @@
 {
-  "statusCode": 200,
-  "salesOrderVBO": [
+  "salesOrderVBO":[
     {
-      "orderID": "3",
-      "status": "DRAFT",
-      "created": "2015-12-23T22:34:39",
-      "createdBy": "ePOS",
-      "lastModified": "2015-09-25T22:34:39",
-      "count": 5,
-      "details": {
-        "contactInfo": "SalesAgent007",
-        "callBackDate": "2015-09-26T22:34:39",
-        "additionalNotes": "3 Orders Added"
-      },
-      "roles": {
-        "agent": {
-          "voID": "123456",
-          "name": "Max Mustermann"
+      "orderID":"OnePOS_165823015828",
+      "status":"DRAFT",
+      "created":"2016-02-23T13:58:28.166+01:00",
+      "createdBy":"OnePOS",
+      "lastModified":"2016-02-23T13:58:28.167+01:00",
+      "count":1,
+      "details":null,
+      "roles":{
+        "agent":{
+          "voID":"20011406",
+          "name":"dev2"
         },
-        "customer": {
-          "type": "privat"
+        "customer":{
+          "type":"private"
         }
       },
-      "parts": {
-        "lineItems": [
+      "parts":{
+        "lineItems":[
           {
-            "orderLineItemID": "1",
-            "type": "activation",
-            "category": "postpaid",
-            "status": "DRAFT",
-            "lastModified": "2015-09-25T22:34:39",
-            "orderDateTime": "2015-09-25T22:34:39",
-            "subscription":{
-              "subscriptionID":"491726773434",
-              "desc":"MSISDN"
-            },
-            "productOffering": {
-              "code": "VFREDL8GB",
-              "name": "Vodafone RED 8GB Premium Smartphone",
-              "specification": "tariff-group",
-              "characteristicValue": [
+            "orderLineItemID":"OnePOS_165823015828-1",
+            "type":"activation",
+            "category":"post-pay",
+            "status":"DRAFT",
+            "lastModified":"2016-02-23T13:58:48.073+01:00",
+            "orderDateTime":"2016-02-23T13:58:28.166+01:00",
+            "productOffering":{
+              "code":"REDS",
+              "specification":"tariff-group",
+              "product":[
                 {
-                  "name": "SubsidyLevel",
-                  "value": "Subsidy 1"
-                }
-              ],
-              "product": [
-                {
-                  "specification": "hardware",
-                  "characteristicValue": [
-                    {
-                      "name": "IMEI for copy",
-                      "value": "6543987654675431"
-                    }
-                  ]
+                  "specification":"promotion",
+                  "count":1
                 },
                 {
-                  "specification": "sim-card",
-                  "characteristicValue": [
-                    {
-                      "name": "SIM serial number for copy",
-                      "value": "1"
-                    }
-                  ]
+                  "specification":"discount",
+                  "count":2
                 },
                 {
-                  "specification": "Optionen",
-                  "count": 2
-                },
-                {
-                  "specification": "Promotions",
-                  "count": 0
-                },
-                {
-                  "specification": "Rabatte",
-                  "count": 2
-                }
-              ]
-            }
-          },
-          {
-            "orderLineItemID": "2",
-            "type": "activation",
-            "category": "postpaid",
-            "status": "SENT",
-            "lastModified": "2015-09-25T22:34:39",
-            "orderDateTime": "2015-09-25T22:34:39",
-            "subscription":{
-              "subscriptionID":"49172678",
-              "desc":"MSISDN"
-            },
-            "productOffering": {
-              "code": "VFREDL6GB",
-              "name": "Vodafone RED 6GB Premium Smartphone",
-              "specification": "tariff-group",
-              "characteristicValue": [
-                {
-                  "name": "SubsidyLevel",
-                  "value": "Subsidy 2"
-                }
-              ],
-              "product": [
-                {
-                  "specification": "hardware",
-                  "characteristicValue": [
-                    {
-                      "name": "IMEI for copy",
-                      "value": "6543987654675431"
-                    }
-                  ]
-                },
-                {
-                  "specification": "sim-card",
-                  "characteristicValue": [
-                    {
-                      "name": "SIM serial number for copy",
-                      "value": "2"
-                    }
-                  ]
-                },
-                {
-                  "specification": "Optionen",
-                  "count": 2
-                },
-                {
-                  "specification": "Promotions",
-                  "count": 1
-                },
-                {
-                  "specification": "Rabatte",
-                  "count": 0
-                }
-              ]
-            }
-          },
-          {
-            "orderLineItemID": "3",
-            "type": "activation",
-            "category": "postpaid",
-            "status": "CONFIRMED",
-            "lastModified": "2015-09-25T22:34:39",
-            "orderDateTime": "2015-09-24T22:34:39",
-            "subscription":{
-              "subscriptionID":"49172610000",
-              "desc":"MSISDN"
-            },
-            "productOffering": {
-              "code": "VFREDL3GB",
-              "name": "Vodafone RED 3GB",
-              "specification": "tariff-group",
-              "characteristicValue": [
-                {
-                  "name": "SubsidyLevel",
-                  "value": "Subsidy 3"
-                }
-              ],
-              "product": [
-                {
-                  "specification": "hardware",
-                  "characteristicValue": [
-                    {
-                      "name": "IMEI for copy",
-                      "value": "6543987654675431"
-                    }
-                  ]
-                },
-                {
-                  "specification": "sim-card",
-                  "characteristicValue": [
-                    {
-                      "name": "SIM serial number for copy",
-                      "value": "10120410200031"
-                    }
-                  ]
-                },
-                {
-                  "specification": "Optionen",
-                  "count": 3
-                },
-                {
-                  "specification": "Promotions",
-                  "count": 2
-                },
-                {
-                  "specification": "Rabatte",
-                  "count": 3
+                  "specification":"tariff-addon",
+                  "count":2
                 }
               ]
             }
           }
-
         ]
       }
     }
   ]
 }
-
