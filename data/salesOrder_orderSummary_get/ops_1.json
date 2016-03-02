@@ -1,52 +1,88 @@
 {
-  "salesOrderVBO":[
+  "statusCode": 200,
+  "salesOrderVBO": [
     {
-      "orderID":"OnePOS_165823015828",
-      "status":"DRAFT",
-      "created":"2016-02-23T13:58:28.166+01:00",
-      "createdBy":"OnePOS",
-      "lastModified":"2016-02-23T13:58:28.167+01:00",
-      "count":1,
-      "details":null,
-      "roles":{
-        "agent":{
-          "voID":"20011406",
-          "name":"dev2"
+      "orderID": "3",
+      "status": "DRAFT",
+      "created": "2015-12-23T22:34:39",
+      "createdBy": "ePOS",
+      "lastModified": "2015-09-25T22:34:39",
+      "count": 1,
+      "details": {
+        "contactInfo": "SalesAgent007",
+        "callBackDate": "2015-09-26T22:34:39",
+        "additionalNotes": "3 Orders Added"
+      },
+      "roles": {
+        "agent": {
+          "voID": "123456",
+          "name": "Max Mustermann"
         },
-        "customer":{
-          "type":"private"
+        "customer": {
+          "type": "privat"
         }
       },
-      "parts":{
-        "lineItems":[
+      "parts": {
+        "lineItems": [
           {
-            "orderLineItemID":"OnePOS_165823015828-1",
-            "type":"activation",
-            "category":"post-pay",
-            "status":"DRAFT",
-            "lastModified":"2016-02-23T13:58:48.073+01:00",
-            "orderDateTime":"2016-02-23T13:58:28.166+01:00",
-            "productOffering":{
-              "code":"REDS",
-              "specification":"tariff-group",
-              "product":[
+            "orderLineItemID": "1",
+            "type": "activation",
+            "category": "postpaid",
+            "status": "DRAFT",
+            "lastModified": "2015-09-25T22:34:39",
+            "orderDateTime": "2015-09-25T22:34:39",
+            "subscription": {
+              "subscriptionID": "491726773434",
+              "desc": "MSISDN"
+            },
+            "productOffering": {
+              "code": "VFREDL8GB",
+              "name": "Vodafone RED 8GB Premium Smartphone",
+              "specification": "tariff-group",
+              "characteristicValue": [
                 {
-                  "specification":"promotion",
-                  "count":1
+                  "name": "SubsidyLevel",
+                  "value": "Subsidy 1"
+                }
+              ],
+              "product": [
+                {
+                  "specification": "hardware",
+                  "characteristicValue": [
+                    {
+                      "name": "IMEI for copy",
+                      "value": "6543987654675431"
+                    }
+                  ]
                 },
                 {
-                  "specification":"discount",
-                  "count":2
+                  "specification": "sim-card",
+                  "characteristicValue": [
+                    {
+                      "name": "SIM serial number for copy",
+                      "value": "1"
+                    }
+                  ]
                 },
                 {
-                  "specification":"tariff-addon",
-                  "count":2
+                  "specification": "Optionen",
+                  "count": 2
+                },
+                {
+                  "specification": "Promotions",
+                  "count": 0
+                },
+                {
+                  "specification": "Rabatte",
+                  "count": 2
                 }
               ]
             }
           }
+
         ]
       }
     }
   ]
 }
+
