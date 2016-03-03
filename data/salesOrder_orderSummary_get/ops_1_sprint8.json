@@ -1,0 +1,73 @@
+{
+  "statusCode": 200,
+  "salesOrderVBO": [
+    {
+      "orderID": "674380545",
+      "status": "draft",
+      "created": "2015-09-24T22:34:39",
+      "createdBy": "ePOS",
+      "lastModified": "2015-09-25T22:34:39",
+      "count": 3,
+      "details": {
+        "contactInfo": "SalesAgent007",
+        "callBackDate": "2015-09-26T22:34:39",
+        "additionalNotes": "3 Orders Added"
+      },
+      "roles": {
+        "agent": {
+          "voID": "123456",
+          "name": "Max Mustermann"
+        },
+        "customer": {
+          "type": "private"
+        }
+      },
+      "parts": {
+        "lineItems": [
+          {
+            "orderLineItemID": "674380545-1",
+            "type": "Vertragsverlängerung",
+            "category": "post-pay",
+            "status": "draft",
+            "lastModified": "2015-09-25T22:34:39",
+            "orderDateTime": "2015-09-25T22:34:39",
+            "productOffering": {
+              "code": "VFREDL8GB",
+              "name": "RED 8GB",
+              "specification": "tariff-group",
+              "characteristicValue": [
+                {
+                  "name": "SubsidyLevel",
+                  "value": "Substufe 1"
+                }
+              ],
+              "product": [
+                {
+                  "specification": "discount",
+                  "count": 2
+                },
+                {
+                  "specification": "promotion",
+                  "count": 0
+                },
+                {
+                  "specification": "tariff-addon",
+                  "count": 2
+                },
+                {
+                  "specification": "sim-card",
+                  "characteristicValue": [
+                    {
+                      "name": "simSerialNumber",
+                      "value": "10120410200031"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
