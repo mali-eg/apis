@@ -45,6 +45,8 @@ var routes = [].concat(
     require('./salesOrder_OrdersOverview_get/routes'),
     require('./salesOrder_orderLineItem_delete/routes'),
     require('./token/routes'),
+    // customer availability check
+	require('./availabilityCheck_GET/routes'),
 	// user account
 	require('./userAccount_PUIDDeactivation_POST/routes'),
     require('./userAccount_PUIDUpdate_POST/routes'),

@@ -2,7 +2,7 @@
 	"statusCode":500,
     "faultMessage": {
         "code": "NIL00T010",
-        "text": "User cannot be authorized, check log for more information",
+        "text": "Number is from a partner company.",
         "detailedText": null,
         "severity": "E",
         "type": "TechnicalError"
