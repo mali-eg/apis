@@ -1,3 +1,11 @@
 {
-	
+  "statusCode":401,
+  "faultMessage": {
+    "code": "NIL0A0842",
+    "text": "Ihre TAN ist abgelaufen. Bitte nutzen Sie den untenstehenden Button, um den Vorgang zu wiederholen.",
+    "detailedText": null,
+    "severity": "E",
+    "type": "AuthenticationError"
+  }
 }
+
