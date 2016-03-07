@@ -1,249 +1,142 @@
 {
-  "statusCode": 200,
-  "customerMasterData": {
-    "customerName": "Edward Müller",
-    "accountType": "postpaid",
-    "customerNumber": "1234 4567890",
-    "market": "Festnetz",
-    "type": "Privat",
-    "subType": "Ford Verkehrstelematic",
-    "skeleton": "123456",
-    "banStatus": "open",
-    "solvency": "Solvency",
-    "subscriberStatus": "active"
-  },
-  "customerSubscribers": [
+  "customerAccountVBO": [
     {
-      "tariffName": "Red 30GB",
-      "level": "Bronze",
-      "subLevel": "",
-      "redPlusType": "",
-      "mobileNumber": "0172 345 6780",
-      "futureCancellation": "10/10/20",
-      "mobileNumberStatus": true,
-      "mobileNumberColor": "red",
-      "subscriberName": "Edward Meyerose",
-      "subscriberStatus": "active",
-      "nextRegularSubDate": "10/10/20",
-      "role": "member",
-      "prolongationStatus": "",
-      "prolongationDate": "10/10/22",
-      "prolongationColor": "green"
-    },
-    {
-      "tariffName": "Red 20GB",
-      "level": "Bronze",
-      "subLevel": "",
-      "redPlusType": "",
-      "mobileNumber": "0172 345 6790",
-      "futureCancellation": "10/10/20",
-      "mobileNumberStatus": false,
-      "mobileNumberColor": "gray",
-      "subscriberName": "Edward Meyerose",
-      "subscriberStatus": "active",
-      "nextRegularSubDate": "10/10/18",
-      "role": "owner",
-      "prolongationStatus": "",
-      "prolongationDate": "10/10/20",
-      "prolongationColor": "gray"
-    },
-    {
-      "tariffName": "Red 20GB",
-      "level": "Bronze",
-      "subLevel": "",
-      "redPlusType": "",
-      "mobileNumber": "0172 345 6789",
-      "futureCancellation": "10/10/20",
-      "mobileNumberStatus": "",
-      "mobileNumberColor": "",
-      "subscriberName": "Edward Meyerose",
-      "subscriberStatus": "active",
-      "nextRegularSubDate": "10/10/20",
-      "role": "member",
-      "prolongationStatus": "",
-      "prolongationDate": "10/10/21",
-      "prolongationColor": "red"
-    }
-  ],
-  "linkedMobileCustomer": [
-    {
-      "customerMasterData": {
-        "customerName": "Medizinverlag Edward Müller",
-        "accountType": "postpaid",
-        "customerNumber": "12344567890",
-        "market": "Credit",
-        "type": "SOHO",
-        "subType": "Ford Verkehrstelematic",
-        "skeleton": "123456",
-        "banStatus": "open",
-        "solvency": "Solvency",
-        "banNumber": 3
-      },
-      "customerSubscribers": [
+      "accountID": "1876200938",
+      "type": "mobile",
+      "category": "private",
+      "subCategory": "ME",
+      "status": "opened",
+      "skeletonContract": 123456,
+      "marketCode": "MMC",
+      "totalServiceAccounts": 10,
+      "relatedCustomerAccounts": [
         {
-          "tariffName": "Red 20GB",
-          "level": "Bronze",
-          "subLevel": "",
-          "redPlusType": "",
-          "mobileNumber": "0172 345 6789",
-          "mobileNumberStatus": "",
-          "mobileNumberColor": "",
-          "subscriberName": "Edward Meyerose",
-          "subscriberStatus": "A",
-          "nextRegularSubDate": "2017-12-23T00:51:55",
-          "prolongationColor": "green",
-          "role": "member"
+          "accountID": "1876200938",
+          "type": "mobile"
         },
         {
-          "tariffName": "Red 20GB",
-          "level": "Bronze",
-          "subLevel": "",
-          "redPlusType": "",
-          "mobileNumber": "0172 345 6789",
-          "mobileNumberStatus": "",
-          "mobileNumberColor": "gray",
-          "subscriberName": "Edward Meyerose",
-          "subscriberStatus": "A",
-          "nextRegularSubDate": "2018-09-20T00:51:55",
-          "prolongationColor": "gray",
-          "role": "owner"
-        },
-        {
-          "tariffName": "Red 20GB",
-          "level": "Bronze",
-          "subLevel": "",
-          "redPlusType": "",
-          "mobileNumber": "0172 345 6789",
-          "mobileNumberStatus": "",
-          "mobileNumberColor": "gray",
-          "subscriberName": "Edward Meyerose",
-          "subscriberStatus": "A",
-          "nextRegularSubDate": "2016-01-10T00:51:55",
-          "prolongationColor": "gray",
-          "role": "owner"
+          "accountID": "000056456231",
+          "type": "fixednet"
         }
-      ]
-    },
-    {
-      "customerMasterData": {
-        "customerName": "Medizinverlag Edward Müller",
-        "accountType": "postpaid",
-        "customerNumber": "1234 4567890",
-        "market": "Credit",
-        "type": "SOHO",
-        "subType": "Ford Verkehrstelematic",
-        "skeleton": "123456",
-        "banStatus": "open",
-        "solvency": "Solvency",
-        "banNumber": 1
-      },
-      "customerSubscribers": [
-        {
-          "tariffName": "Red 20GB",
-          "level": "Bronze",
-          "subLevel": "",
-          "redPlusType": "",
-          "mobileNumber": "0172 345 6789",
-          "mobileNumberStatus": "",
-          "mobileNumberColor": "",
-          "subscriberName": "Edward Meyerose",
-          "subscriberStatus": "A",
-          "nextRegularSubDate": "10/10/20",
-          "prolongationColor": "green",
-          "role": "member"
+      ],
+      "parts": {
+        "individual": {
+          "title": "Dr.",
+          "salutation": "Herr",
+          "firstName": "Peter",
+          "familyName": "Müller"
         },
-        {
-          "tariffName": "Red 20GB",
-          "level": "Bronze",
-          "subLevel": "",
-          "redPlusType": "",
-          "mobileNumber": "0172 345 6789",
-          "mobileNumberStatus": "",
-          "mobileNumberColor": "gray",
-          "subscriberName": "Edward Meyerose",
-          "subscriberStatus": "A",
-          "nextRegularSubDate": "10/10/20",
-          "prolongationColor": "gray",
-          "role": "owner"
-        }
-      ]
-    },
-    {
-      "customerMasterData": {
-        "customerName": "Medizinverlag Edward Müller",
-        "accountType": "postpaid",
-        "customerNumber": "1234 4567890",
-        "market": "Credit",
-        "type": "SOHO",
-        "subType": "Ford Verkehrstelematic",
-        "skeleton": "123456",
-        "banStatus": "open",
-        "solvency": "Solvency",
-        "banNumber": 2
-      },
-      "customerSubscribers": [
-        {
-          "tariffName": "Red 20GB",
-          "level": "Bronze",
-          "subLevel": "",
-          "redPlusType": "",
-          "mobileNumber": "0172 345 6789",
-          "mobileNumberStatus": "",
-          "mobileNumberColor": "",
-          "subscriberName": "Edward Meyerose",
-          "subscriberStatus": "A",
-          "nextRegularSubDate": "10/10/20",
-          "prolongationColor": "green",
-          "role": "member"
+        "collections": {
+          "delinquentStatus": "D"
         },
-        {
-          "tariffName": "Red 20GB",
-          "level": "Bronze",
-          "subLevel": "",
-          "redPlusType": "",
-          "mobileNumber": "0172 345 6789",
-          "mobileNumberStatus": "",
-          "mobileNumberColor": "gray",
-          "subscriberName": "Edward Meyerose",
-          "subscriberStatus": "A",
-          "nextRegularSubDate": "10/10/20",
-          "prolongationColor": "gray",
-          "role": "owner"
-        }
-      ]
-    }
-  ],
-  "linkedFixedNetCustomer": {
-    "customerName": "Dr. Edward Meyer",
-    "customerNumber": "0112 345 6789",
-    "type": "Private",
-    "technology": "DSL",
-    "product": "DSL 50 TV"
-  },
-  "availabilityList": [
-    {
-      "serviceName": "Kabel Voice / Internet",
-      "description": "Kabel Internet & Telefon is not available.",
-      "message": "",
-      "iconColor": "red"
+        "serviceAccounts": [
+          {
+            "subscriptionID": "4917315466332",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "G",
+            "nextSubsidyDate": "2016-11-23",
+            "cancellationDate": "2016-12-20",
+            "groupNumber": "500001234567543",
+            "role": "Owner",
+            "product": {
+              "name": "Red-L",
+              "code": "VFREDL",
+              "desc": "Vodafone RED L"
+            }
+          },
+          {
+            "subscriptionID": "4917315466334",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "groupNumber": "500001234567543",
+            "role": "Member",
+            "product": {
+              "name": "Red-L",
+              "code": "VFREDL",
+              "desc": "Vodafone RED L"
+            }
+          }
+        ]
+      }
     },
     {
-      "serviceName": "Vodafone Voice / Internet",
-      "description": "DSL 6000, 16000, 25000 and 50000 with connection type with base terminal, feature connection available.",
-      "message": "",
-      "iconColor": "green"
+      "accountID": "1876200938",
+      "type": "mobile",
+      "category": "private",
+      "subCategory": "AK",
+      "status": "opened",
+      "skeletonContract": 123456,
+      "marketCode": "MMC",
+      "totalServiceAccounts": 5,
+      "parts": {
+        "individual": {
+          "title": "Dr.",
+          "salutation": "Herr",
+          "firstName": "Peter",
+          "familyName": "Müller"
+        },
+        "collections": {
+          "delinquentStatus": "D"
+        },
+        "serviceAccounts": [
+          {
+            "subscriptionID": "4917315466311",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "S",
+            "nextSubsidyDate": "2016-11-23",
+            "product": {
+              "name": "VFWireless",
+              "code": "DK_WOFF01",
+              "desc": "Vodafone WirelessOffice 1/1"
+            }
+          },
+          {
+            "subscriptionID": "4917315466322",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "R",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "product": {
+              "name": "VFSuperFlat",
+              "code": "DFLATXLLM",
+              "desc": "Vodafone SuperFlat Internet Allnet Spez mit Handy"
+            }
+          }
+        ]
+      }
     },
     {
-      "serviceName": "Vodafone TV for DSL",
-      "description": "Bandwiths 6000 and 16000: Free TV via DSL, Theme package, TV package, Video package, Sky package. Bandwiths 25000 and 50000: Video package, Sky (via SAT).",
-      "message": "Warning: This product is available for private customers only!",
-      "iconColor": "yellow"
-    },
-    {
-      "serviceName": "Vodafone Voice Internet / LTE",
-      "description": "Note: If broadband access from Vodafone, Internet (DSL/CDSL including regional) with bandwith 6000 or higher, LTE cannot be booked.",
-      "message": "",
-      "iconColor": "black"
+      "accountID": "000056456231",
+      "type": "fixednet",
+      "category": "private",
+      "status": "active",
+      "parts": {
+        "individual": {
+          "title": "Dr.",
+          "salutation": "Herr",
+          "firstName": "Peter",
+          "familyName": "Müller"
+        },
+        "serviceAccounts": [
+          {
+            "subscriptionID": "4921155551234",
+            "product": {
+              "name": "DSL50_TV",
+              "code": "V0012",
+              "desc": "DSL package plus TV",
+              "technology": "DSL"
+            }
+          }
+        ]
+      }
     }
   ]
 }
