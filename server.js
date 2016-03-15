@@ -1,4 +1,4 @@
-var Hapi = require("hapi");
+var Hapi        = require("hapi");
 Inert           = require('inert'),
 Vision          = require('vision'),
 HapiSwagger     = require('hapi-swagger'),
@@ -44,5 +44,3 @@ server.register([
         reply.continue();
     });
 });
-
-
