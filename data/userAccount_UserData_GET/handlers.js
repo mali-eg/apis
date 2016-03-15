@@ -1,13 +1,23 @@
+var fs = require('fs');
 var Util = require('../../Util');
 var Handlers = {};
 
 Handlers.defaultHandler = function(request, reply){
-    // asaber
-    var username = request.headers.username + '_list';
-    if(request.query.username){
-        username = request.query.username;
+
+    var username = request.headers.username;
+
+    if(!request.query.username){
+        username = request.headers.username + '_list';
     }
-    var filePath = __dirname+"/data/"+username+".json";
+
+    var accountPath = __dirname+"/../../accounts/"+username+"/userData.json";
+
+    var filePath = __dirname+"/json/"+username+".json";
+
+    if (fs.existsSync(accountPath)) {
+        filePath = accountPath;
+    }
+
     reply(Util.getData(filePath));
 };
 

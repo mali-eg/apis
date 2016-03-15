@@ -40,4 +40,8 @@ Util.getData = function (path, fallbackPath) {
     }
 };
 
+Util.getUserName = function (request){
+    return request.headers.username;
+}
+
 module.exports = Util;
