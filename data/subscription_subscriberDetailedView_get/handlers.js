@@ -4,7 +4,7 @@ var Handlers = {};
 Handlers.defaultHandler = function (request, reply) {
 
 
-    var id = 'customModel'
+    var id = '20048765'
     var filePath = __dirname + "/" + id + ".json";
 
     setTimeout(function () {
