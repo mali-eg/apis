@@ -4,12 +4,29 @@ var fs = require('fs');
 var Handlers = {};
 
 Handlers.defaultHandler = function (request, reply) {
+    // get the username
+    var username = request.headers.username;
 
+    //var accountPath = __dirname+"/../../accounts/"+username+"/userData.json";
+
+
+
+
+    
+    
     //my new feature branch
-    var orderId = request.params.order_id,
-        fileName = request.params.document;
+    var orderId = request.params.order_id;
+        
+    var fileName = request.params.document;
 
-    var filePath = __dirname + "/json/" + fileName;
+    //var filePath = __dirname + "/json/" + fileName;
+    var filePath = __dirname+"/../../accounts/"+username+"/"+fileName;
+    console.log ("filePath is:: " + filePath);
+
+
+
+
+
     var file = fs.readFileSync(filePath);
     var fileBuffer = new Buffer(file);
     //.toString('base64');
@@ -24,6 +41,7 @@ Handlers.defaultHandler = function (request, reply) {
             .header('content-disposition', 'attachment;filename="' + fileName + '"')
             .header('Content-Length', file.size);
     }, 3000)
+
 
 };
 
