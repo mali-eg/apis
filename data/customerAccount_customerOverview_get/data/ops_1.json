@@ -6,7 +6,7 @@
       "category": "private",
       "subCategory": "ME",
       "status": "opened",
-      "skeletonContract": 123456,
+      "skeletonContract": null,
       "marketCode": "MMC",
       "totalServiceAccounts": 10,
       "relatedCustomerAccounts": [
@@ -60,12 +60,367 @@
               "code": "VFREDL",
               "desc": "Vodafone RED L"
             }
+          },
+          {
+            "subscriptionID": "2",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "groupNumber": "500001234567543",
+            "role": "Member",
+            "product": {
+              "name": "Red-L",
+              "code": "VFREDL",
+              "desc": "Vodafone RED L"
+            }
+          },
+          {
+            "subscriptionID": "4917315466334",
+            "firstName": "omar",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "groupNumber": "500001234567543",
+            "role": "Member",
+            "product": {
+              "name": "Red-L",
+              "code": "VFREDL",
+              "desc": "Vodafone RED L"
+            }
+          },
+          {
+            "subscriptionID": "1",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "groupNumber": "500001234567543",
+            "role": "Member",
+            "product": {
+              "name": "Red-L",
+              "code": "VFREDL",
+              "desc": "Vodafone RED L"
+            }
+          },
+          {
+            "subscriptionID": "4917315466334",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "groupNumber": "500001234567543",
+            "role": "Member",
+            "product": {
+              "name": "Red-L",
+              "code": "VFREDL",
+              "desc": "Vodafone RED L"
+            }
+          },
+          {
+            "subscriptionID": "4917315466334",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "groupNumber": "500001234567543",
+            "role": "Member",
+            "product": {
+              "name": "Red-L",
+              "code": "VFREDL",
+              "desc": "Vodafone RED L"
+            }
+          },
+          {
+            "subscriptionID": "4917315466334",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "groupNumber": "500001234567543",
+            "role": "Member",
+            "product": {
+              "name": "Red-L",
+              "code": "VFREDL",
+              "desc": "Vodafone RED L"
+            }
+          },
+          {
+            "subscriptionID": "4917315466334",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "groupNumber": "500001234567543",
+            "role": "Member",
+            "product": {
+              "name": "Red-L",
+              "code": "VFREDL",
+              "desc": "Vodafone RED L"
+            }
+          },
+          {
+            "subscriptionID": "4917315466334",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "groupNumber": "500001234567543",
+            "role": "Member",
+            "product": {
+              "name": "Red-L",
+              "code": "VFREDL",
+              "desc": "Vodafone RED L"
+            }
           }
         ]
       }
     },
     {
-      "accountID": "1876200938",
+      "accountID": "6",
+      "type": "mobile",
+      "category": "private",
+      "subCategory": "AK",
+      "status": "opened",
+      "skeletonContract": 123456,
+      "marketCode": "MMC",
+      "totalServiceAccounts": 5,
+      "parts": {
+        "individual": {
+          "title": "Dr.",
+          "salutation": "Herr",
+          "firstName": "Peter",
+          "familyName": "Müller"
+        },
+        "collections": {
+          "delinquentStatus": "D"
+        },
+        "serviceAccounts": [
+          {
+            "subscriptionID": "4917315466",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "S",
+            "nextSubsidyDate": "2016-11-23",
+            "product": {
+              "name": "VFWireless",
+              "code": "DK_WOFF01",
+              "desc": "Vodafone WirelessOffice 1/1"
+            }
+          },
+          {
+            "subscriptionID": "123",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "R",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "product": {
+              "name": "VFSuperFlat",
+              "code": "DFLATXLLM",
+              "desc": "Vodafone SuperFlat Internet Allnet Spez mit Handy"
+            }
+          },
+          {
+            "subscriptionID": "1",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "R",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "product": {
+              "name": "VFSuperFlat",
+              "code": "DFLATXLLM",
+              "desc": "Vodafone SuperFlat Internet Allnet Spez mit Handy"
+            }
+          },
+          {
+            "subscriptionID": "2",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "R",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "product": {
+              "name": "VFSuperFlat",
+              "code": "DFLATXLLM",
+              "desc": "Vodafone SuperFlat Internet Allnet Spez mit Handy"
+            }
+          },
+          {
+            "subscriptionID": "3",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "R",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "product": {
+              "name": "VFSuperFlat",
+              "code": "DFLATXLLM",
+              "desc": "Vodafone SuperFlat Internet Allnet Spez mit Handy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "accountID": "12",
+      "type": "mobile",
+      "category": "private",
+      "subCategory": "AK",
+      "status": "opened",
+      "skeletonContract": 123456,
+      "marketCode": "MMC",
+      "totalServiceAccounts": 5,
+      "parts": {
+        "individual": {
+          "title": "Dr.",
+          "salutation": "Herr",
+          "firstName": "Peter",
+          "familyName": "Müller"
+        },
+        "collections": {
+          "delinquentStatus": "D"
+        },
+        "serviceAccounts": [
+          {
+            "subscriptionID": "4917315466311",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "S",
+            "nextSubsidyDate": "2016-11-23",
+            "product": {
+              "name": "VFWireless",
+              "code": "DK_WOFF01",
+              "desc": "Vodafone WirelessOffice 1/1"
+            }
+          },
+          {
+            "subscriptionID": "4917315466322",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "R",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "product": {
+              "name": "VFSuperFlat",
+              "code": "DFLATXLLM",
+              "desc": "Vodafone SuperFlat Internet Allnet Spez mit Handy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "accountID": "2",
+      "type": "mobile",
+      "category": "private",
+      "subCategory": "AK",
+      "status": "opened",
+      "skeletonContract": 123456,
+      "marketCode": "MMC",
+      "totalServiceAccounts": 5,
+      "parts": {
+        "individual": {
+          "title": "Dr.",
+          "salutation": "Herr",
+          "firstName": "Peter",
+          "familyName": "Müller"
+        },
+        "collections": {
+          "delinquentStatus": "D"
+        },
+        "serviceAccounts": [
+          {
+            "subscriptionID": "4917315466311",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "S",
+            "nextSubsidyDate": "2016-11-23",
+            "product": {
+              "name": "VFWireless",
+              "code": "DK_WOFF01",
+              "desc": "Vodafone WirelessOffice 1/1"
+            }
+          },
+          {
+            "subscriptionID": "4917315466322",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "R",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "product": {
+              "name": "VFSuperFlat",
+              "code": "DFLATXLLM",
+              "desc": "Vodafone SuperFlat Internet Allnet Spez mit Handy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "accountID": "1",
+      "type": "mobile",
+      "category": "private",
+      "subCategory": "AK",
+      "status": "opened",
+      "skeletonContract": 123456,
+      "marketCode": "MMC",
+      "totalServiceAccounts": 5,
+      "parts": {
+        "individual": {
+          "title": "Dr.",
+          "salutation": "Herr",
+          "firstName": "Peter",
+          "familyName": "Müller"
+        },
+        "collections": {
+          "delinquentStatus": "D"
+        },
+        "serviceAccounts": [
+          {
+            "subscriptionID": "4917315466311",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "A",
+            "level": "S",
+            "nextSubsidyDate": "2016-11-23",
+            "product": {
+              "name": "VFWireless",
+              "code": "DK_WOFF01",
+              "desc": "Vodafone WirelessOffice 1/1"
+            }
+          },
+          {
+            "subscriptionID": "4917315466322",
+            "firstName": "Peter",
+            "familyName": "Müller",
+            "status": "R",
+            "level": "R",
+            "nextSubsidyDate": "2016-11-23",
+            "product": {
+              "name": "VFSuperFlat",
+              "code": "DFLATXLLM",
+              "desc": "Vodafone SuperFlat Internet Allnet Spez mit Handy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "accountID": "6",
       "type": "mobile",
       "category": "private",
       "subCategory": "AK",
