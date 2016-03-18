@@ -28,46 +28,55 @@
       },
       {
         "name": "Matrix_Type_Prepaid",
+        "label": "Prepaid",
         "code": "pre-pay",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "Matrix_Type_Postpaid",
+        "label": "Postpaid",
         "code": "post-pay",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "Matrix_Type_Fixednet",
+        "label": "Fixednet",
         "code": "fixednet",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "Matrix_Case_Activation",
+        "label": "Activation",
         "code": "activation",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "Matrix_Case_ComfortPorting",
+        "label": "Comfortporting",
         "code": "comfortporting",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "Matrix_Case_NormalPorting",
+        "label": "NormalPorting",
         "code": "normalporting",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "Matrix_CustomerType_Private",
+        "label": "Private",
         "code": "private",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "Matrix_CustomerType_Soho",
+        "label": "Soho",
         "code": "soho",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "Matrix_CustomerType_Business",
+        "label": "Business",
         "code": "business",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
@@ -103,13 +112,16 @@
         "name": "leading-product-filter",
         "entities": [
           {
-            "name": "leading_product_filter_Red"
+            "name": "leading_product_filter_Red",
+            "label": "Red"
           },
           {
-            "name": "leading_product_filter_Data"
+            "name": "leading_product_filter_Data",
+            "label": "Data"
           },
           {
-            "name": "leading_product_filter_Smart"
+            "name": "leading_product_filter_Smart",
+            "label": "Data"
           }
         ]
       },
