@@ -27,18 +27,48 @@
         "name": "Progressbar.CreateContracts"
       },
       {
-        "name": "Matrix.Type.Prepaid",
+        "name": "Matrix_Type_Prepaid",
         "code": "pre-pay",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
-        "name": "Matrix.Type.Postpaid",
+        "name": "Matrix_Type_Postpaid",
         "code": "post-pay",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
-        "name": "Matrix.Type.Fixednet",
+        "name": "Matrix_Type_Fixednet",
         "code": "fixednet",
+        "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
+      },
+      {
+        "name": "Matrix_Case_Activation",
+        "code": "activation",
+        "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
+      },
+      {
+        "name": "Matrix_Case_ComfortPorting",
+        "code": "comfortporting",
+        "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
+      },
+      {
+        "name": "Matrix_Case_NormalPorting",
+        "code": "normalporting",
+        "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
+      },
+      {
+        "name": "Matrix_CustomerType_Private",
+        "code": "private",
+        "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
+      },
+      {
+        "name": "Matrix_CustomerType_Soho",
+        "code": "soho",
+        "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
+      },
+      {
+        "name": "Matrix_CustomerType_Business",
+        "code": "business",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
@@ -73,13 +103,13 @@
         "name": "leading-product-filter",
         "entities": [
           {
-            "name": "leading-product-filter_Red"
+            "name": "leading_product_filter_Red"
           },
           {
-            "name": "leading-product-filter_Data"
+            "name": "leading_product_filter_Data"
           },
           {
-            "name": "leading-product-filter_Smart"
+            "name": "leading_product_filter_Smart"
           }
         ]
       },
@@ -88,27 +118,27 @@
         "name": "tariff-group",
         "entities": [
           {
-            "name": "tariff-plan_REDS",
+            "name": "tariff_plan_REDS",
             "code": "REDS",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-plan\")]"
           },
           {
-            "name": "tariff-plan_REDM",
+            "name": "tariff_plan_REDM",
             "code": "REDM",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-plan\")]"
           },
           {
-            "name": "tariff-plan_REDL",
+            "name": "tariff_plan_REDL",
             "code": "REDL",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-plan\")]"
           },
           {
-            "name": "tariff-plan_SMAR",
+            "name": "tariff_plan_SMAR",
             "code": "SMAR",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-plan\")]"
           },
           {
-            "name": "tariff-plan_CY",
+            "name": "tariff_plan_CY",
             "code": "CY",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-plan\")]"
           }
@@ -172,17 +202,17 @@
         "name": "data-addon",
         "entities": [
           {
-            "name": "data-addon-DADD1",
+            "name": "data_addon_DADD1",
             "code": "DADD1",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
           },
           {
-            "name": "data-addon-DADD2",
+            "name": "data_addon_DADD2",
             "code": "DADD2",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
           },
           {
-            "name": "data-addon-DADD3",
+            "name": "data_addon_DADD3",
             "code": "DADD3",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
           }
@@ -190,20 +220,20 @@
       },
       {
         "type": "dynamic",
-        "name": "tariff-addon-internet",
+        "name": "tariff_addon_internet",
         "entities": [
           {
-            "name": "tariff-addon-internet_IADD1",
+            "name": "tariff_addon_internet_IADD1",
             "code": "IADD1",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
           },
           {
-            "name": "tariff-addon-internet_IADD2",
+            "name": "tariff_addon_internet_IADD2",
             "code": "IADD2",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
           },
           {
-            "name": "tariff-addon-internet_IADD3",
+            "name": "tariff_addon_internet_IADD3",
             "code": "IADD3",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
           }
@@ -214,17 +244,17 @@
         "name": "tariff-addon-voice",
         "entities": [
           {
-            "name": "tariff-addon-voice_VADD1",
+            "name": "tariff_addon_voice_VADD1",
             "code": "VADD1",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
           },
           {
-            "name": "tariff-addon-voice_VADD2",
+            "name": "tariff_addon_voice_VADD2",
             "code": "VADD2",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
           },
           {
-            "name": "tariff-addon-voice_VADD3",
+            "name": "tariff_addon_voice_VADD3",
             "code": "VADD3",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
           }
@@ -235,17 +265,17 @@
         "name": "tariff-addon-tvoption",
         "entities": [
           {
-            "name": "tariff-addon-tvoption_TVO1",
+            "name": "tariff_addon_tvoption_TVO1",
             "code": "TVO1",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
           },
           {
-            "name": "tariff-addon-tvoption_TVO2",
+            "name": "tariff_addon_tvoption_TVO2",
             "code": "TVO2",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
           },
           {
-            "name": "tariff-addon-tvoption_TVO3",
+            "name": "tariff_addon_tvoption_TVO3",
             "code": "TVO3",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
           }
