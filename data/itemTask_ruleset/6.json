@@ -311,7 +311,7 @@
           "rules": [
             {
               "type": "rulebased",
-              "condition": "tariff_addon_internet_IADD1 == true ^ tariff_addon_internet_IADD2 == true",
+              "condition": "(tariff_addon_internet_IADD1 == true) || (tariff_addon_internet_IADD2 == true)",
               "returnValue": "false"
             }
           ]
@@ -521,7 +521,7 @@
           "rules": [
             {
               "type": "rulebased",
-              "condition": "Matrix_Type_Postpaid == true ^ Matrix_Type_Prepaid == true",
+              "condition": "(Matrix_Type_Postpaid == true) || (Matrix_Type_Prepaid == true)",
               "returnValue": "true"
             },
             {
@@ -545,7 +545,7 @@
           "rules": [
             {
               "type": "rulebased",
-              "condition": "Matrix_Type_Postpaid == true ^ Matrix_Type_Prepaid == true ^ Matrix_Type_Fixednet == true",
+              "condition": "(Matrix_Type_Postpaid == true) || (Matrix_Type_Prepaid == true) || (Matrix_Type_Fixednet == true)",
               "returnValue": "true"
             },
             {
