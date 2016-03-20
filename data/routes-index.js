@@ -65,7 +65,9 @@ var routes = [].concat(
     require('./invoice_billDocument_get/routes'),
     //federation authentication-user
     require('./securityToken_Federation_Authentication/routes'),
-    require('./mTANVerification_federation/routes')
+    require('./mTANVerification_federation/routes'),
+    //security token invalidation - logout
+    require('./securityToken-Invalidation_DELETE/routes')
 );
 //console.log("routes:"+routes);
 module.exports = routes;

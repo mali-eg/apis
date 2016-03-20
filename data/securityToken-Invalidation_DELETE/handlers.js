@@ -3,9 +3,9 @@ var Handlers = {};
 
 Handlers.defaultHandler = function(request, reply){
 
-    //var username = request.query.order-lineitem-id;
-    var orderLineItemId = request.headers.username;
-    var filePath = __dirname+"/3.json";
+    var username = request.headers.username;
+    console.log(username);
+    var filePath = __dirname+"/ops_1.json";
 
     reply(Util.getData(filePath));
 };

@@ -44,12 +44,7 @@
               "product": [
                 {
                   "specification": "hardware",
-                  "characteristicValue": [
-                    {
-                      "name": "iPhone 6s 64GB Space Grey",
-                      "value": "6543987654675431"
-                    }
-                  ]
+                  "count": 1
                 },                                        {
                   "specification": "accessories",
                   "count": 2

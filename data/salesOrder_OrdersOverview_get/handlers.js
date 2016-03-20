@@ -3,7 +3,10 @@ var Handlers = {};
 
 Handlers.defaultHandler = function(request, reply){
 
-
+/*    var params = request.query;
+    console.log("//////////////////////////");
+    console.log(params);
+    console.log("//////////////////");*/
     var filePath = __dirname+"/3.json";
 
     reply(Util.getData(filePath));
