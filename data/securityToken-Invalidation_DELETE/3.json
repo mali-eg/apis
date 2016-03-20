@@ -1,0 +1,16 @@
+{
+  "statusCode":401,
+  "faultMessage": {
+    "code": "NIL00V904",
+    "text": "A Validation error occurred in SecurityToken - Invalidation Service",
+    "detailedText": null,
+    "severity": "E",
+    "type": "ValidationError",
+    "original": {
+      "VAL00013": {
+        "text": "accept header should be provided",
+        "key": "accept"
+      }
+    }
+  }
+}
