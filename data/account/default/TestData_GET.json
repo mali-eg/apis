@@ -1,5 +1,7 @@
 {
-	"httpStatus":"200",
-	"responseBody":"Here is some test data for the default user",
-	"headers":{}
+    "status": 200,
+    "rawResponse": {
+        "data": "Hi Generic user"
+    },
+    "headers": {}
 }

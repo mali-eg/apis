@@ -1,0 +1,29 @@
+200
+--
+{
+  "postalContactPointVBO":[
+    {
+      "contactPoints":{
+        "contactPoint":[
+          {
+            "addressCheckResult":"UNCHANGED",
+            "addressDetails":{
+              "street":"Ferdinand-Braun-Platz",
+              "streetNumber":"1",
+              "postCode":"40549",
+              "city":"Düsseldorf"
+            },
+            "addressCheckStatus":{
+              "street":"0",
+              "streetNumber":"0",
+              "postCode":"0",
+              "city":"0"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
+--
+--
