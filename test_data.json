@@ -1,0 +1,5 @@
+{
+	"httpStatus": 200,
+    "responseBody":{data:"Here is some test data!"},
+    "headers":{}
+}

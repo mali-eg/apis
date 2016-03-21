@@ -1,9 +1,0 @@
-{
-  "statusCode":400,
-  "faultMessage": {
-    "code": "NIL0A0856",
-    "text": "Zu viele erfolglose Login-Versuche. Ihr Konto wurde gesperrt. Bitte kontaktieren Sie Ihren Administrator.",
-    "severity": "E",
-    "type": "AuthenticationError"
-  }
-}
