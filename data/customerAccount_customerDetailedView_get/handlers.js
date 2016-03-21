@@ -4,12 +4,16 @@ var Handlers = {};
 Handlers.defaultHandler = function (request, reply) {
 
 
-    var id = '20048765'
+    var customer_username = request.headers.username;
+    var id = "";
+    if (customer_username == 'ops_1')
+        id = '20048765'
+    else
+        id = '20048766'
+
     var filePath = __dirname + "/" + id + ".json";
 
-    setTimeout(function () {
-        reply(Util.getData(filePath));
-    }, 2000)
+    reply(Util.getData(filePath));
 
 
 };
