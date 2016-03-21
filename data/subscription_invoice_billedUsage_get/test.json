@@ -90,10 +90,10 @@
     },
     "homeZoneAddress": {
       "street": "Berliner Allee",
-      "streetNumber": "Berliner Allee",
-      "postCode": "Berliner Allee",
-      "city": "Berliner Allee",
-      "country": "Berliner Allee"
+      "streetNumber": "34",
+      "postCode": "011552",
+      "city": "Potsdam",
+      "country": "Germany"
     }
   },
   "billing": {
