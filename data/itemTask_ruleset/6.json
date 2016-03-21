@@ -183,12 +183,26 @@
               "returnValue": "false"
             }
           ]
+        },
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Postpaid != true",
+              "returnValue": "false"
+            }
+          ]
         }
       },
       {
         "name": "discount_DSCT3",
         "enabled": {
           "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Postpaid == true",
+              "returnValue": "false"
+            },
             {
               "type": "rulebased",
               "condition": "discount_DSCT2 == true",
@@ -217,8 +231,7 @@
           "rules": [
             {
               "type": "rulebased",
-              "condition": "discount_DSCT1 == true",
-              "returnValue": "false"
+              "condition": "discount_DSCT1 == true"
             }
           ]
         },
@@ -264,8 +277,8 @@
           "rules": [
             {
               "type": "rulebased",
-              "condition": "Matrix_Type_Postpaid == true",
-              "returnValue": "false"
+              "condition": "data_addon_DADD1 == true",
+              "returnValue": "true"
             }
           ]
         },
@@ -273,13 +286,8 @@
           "rules": [
             {
               "type": "rulebased",
-              "condition": "Matrix_Type_Postpaid == true",
-              "returnValue": "false"
-            },
-            {
-              "type": "rulebased",
-              "condition": "Matrix_Type_Postpaid == true",
-              "returnValue": "false"
+              "condition": "data_addon_DADD1 == true",
+              "returnValue": "true"
             }
           ]
         }
@@ -311,8 +319,7 @@
           "rules": [
             {
               "type": "rulebased",
-              "condition": "(tariff_addon_internet_IADD1 == true) || (tariff_addon_internet_IADD2 == true)",
-              "returnValue": "false"
+              "condition": "(tariff_addon_internet_IADD1 == true) || (tariff_addon_internet_IADD2 == true)"
             }
           ]
         },
@@ -336,7 +343,13 @@
         "enabled": {
           "rules": [
             {
-              "type": "static",
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet == true",
+              "returnValue": "true"
+            },
+            {
+              "type": "rulebased",
+              "condition": "discount_DSCT2 == true",
               "returnValue": "false"
             }
           ]
@@ -419,6 +432,15 @@
           ]
         },
         "select": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet != true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "enabled": {
           "rules": [
             {
               "type": "rulebased",
