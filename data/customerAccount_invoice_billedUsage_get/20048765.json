@@ -6,7 +6,7 @@
         "accountId": "2400123",
         "type": "mobile",
         "marketCode": "MMC",
-        "balanceAmount": "133.20",
+        "balanceAmount": "-133.20",
         "unitOfMeasure": "EUR"
       },
       "channels": {
@@ -29,7 +29,7 @@
             },
             "artifact": {
               "onlineBillAvailable": true,
-              "id": "234234234234-adasd-324234-asdad-24",
+              "id": "234234234234",
               "type": "Invoice",
               "format": "PDF",
               "description": "Invoice Document",
@@ -50,7 +50,7 @@
             },
             "artifact": {
               "onlineBillAvailable": true,
-              "id": "234234234234-adasd-324234-asdad-24",
+              "id": "234234234234",
               "type": "Invoice",
               "format": "PDF",
               "description": "Invoice Document",
