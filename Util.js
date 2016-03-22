@@ -51,13 +51,22 @@ Util.getUserName = function (request){
 * @param {string} subURI
 * @param {string} parameterName
 * @param {string} serviceMethod - either GET or POST
+* @param {bool} useRequestHeaders - if set to true headers is used of query parameter. Default value is false
 * @return {object} route
 */
-Util.generateRouteBasicCall = function (serviceName, subURI, parameterName, serviceMethod){
+Util.generateRouteBasicCall = function (serviceName, subURI, parameterName, serviceMethod, useRequestHeaders){
+
+    if (typeof useRequestHeaders === 'undefined') useRequestHeaders = false; 
    
     var myRoute = {method:serviceMethod, path:subURI, handler: function (request, reply){    
-        
-      var parameterValue = request.query[parameterName];
+      var parameterValue;
+      if (!useRequestHeaders){
+        parameterValue = request.query[parameterName];
+      }  
+      else{
+        parameterValue = request.headers[parameterName];
+      }
+     
        console.log("parameterValue " + parameterValue);
       var basicFilePath;
       var basicFallbackPath;
