@@ -1,7 +1,7 @@
 {
     "status": 200,
     "rawResponse": {
-        "data": "Hi Robin"
+        "data": "Hi Robin!"
     },
     "headers": {}
 }

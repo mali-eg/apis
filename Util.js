@@ -1,6 +1,7 @@
 var Boom = require("boom");
 var fs = require('fs');
 var Util = {};
+var path = require('path');
 
 Util.getData = function (path, fallbackPath) {
     console.log('filePath:' + path);
@@ -44,10 +45,40 @@ Util.getUserName = function (request){
     return request.headers.username;
 };
 
+/**
+* create a basic route for a service call with one parameter 
+* @param {string} serviceName
+* @param {string} subURI
+* @param {string} parameterName
+* @param {string} serviceMethod - either GET or POST
+* @return {object} route
+*/
+Util.generateRouteBasicCall = function (serviceName, subURI, parameterName, serviceMethod){
+   
+    var myRoute = {method:serviceMethod, path:subURI, handler: function (request, reply){    
+        
+      var parameterValue = request.query[parameterName];
+       console.log("parameterValue " + parameterValue);
+      var basicFilePath;
+      var basicFallbackPath;
 
-Util.getParameter = function (){
-    
+      if (parameterValue){
+        basicFilePath = "/data/account/"+ parameterValue + "/" + serviceName + ".json";
+        basicFallbackPath = "/data/account/default/" + serviceName + ".json";
+      }               
+            
+      var filePath = path.join(__dirname, "/", basicFilePath);
+      var fallbackPath = path.join(__dirname, "/", basicFallbackPath);            
+      reply(Util.getData(filePath,fallbackPath));             
+      }
+    };
+    return myRoute;
 };
+
+
+
+
+
 
 
 module.exports = Util;
