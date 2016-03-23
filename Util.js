@@ -54,12 +54,13 @@ Util.getUserName = function (request){
 * @param {bool} useRequestHeaders - if set to true headers is used of query parameter. Default value is false
 * @return {object} route
 */
-Util.generateRouteBasicCall = function (serviceName, subURI, parameterName, serviceMethod, useRequestHeaders){
+Util.generateRouteBasicCall = function (serviceName, subURI, parameterName, serviceMethod, useRequestHeaders, isStatic){
 
-  
+    console.log("lala");
     if (typeof useRequestHeaders === 'undefined') useRequestHeaders = false; 
-   
+    if (typeof isStatic === 'undefined') isStatic = false; 
     var myRoute = {method:serviceMethod, path:subURI, handler: function (request, reply){    
+
       var parameterValue;
       if (!useRequestHeaders){
         parameterValue = request.query[parameterName];
@@ -68,19 +69,30 @@ Util.generateRouteBasicCall = function (serviceName, subURI, parameterName, serv
         parameterValue = request.headers[parameterName];
       }
      
-       console.log("parameterValue " + parameterValue);
+             //console.log("static!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! " + isStatic);
       var basicFilePath;
       var basicFallbackPath;
 
-      if (parameterValue){
-        basicFilePath = "/data/account/"+ parameterValue + "/" + serviceName + ".json";
-        basicFallbackPath = "/data/account/default/" + serviceName + ".json";
-      }               
-            
-      var filePath = path.join(__dirname, "/", basicFilePath);
-      var fallbackPath = path.join(__dirname, "/", basicFallbackPath);            
-      reply(Util.getData(filePath,fallbackPath));             
+      if (!isStatic){
+
+        if (parameterValue){
+          basicFilePath = "/data/account/"+ parameterValue + "/" + serviceName + ".json";
+          basicFallbackPath = "/data/account/default/" + serviceName + ".json";
+        }               
+              
+        var filePath = path.join(__dirname, "/", basicFilePath);
+        var fallbackPath = path.join(__dirname, "/", basicFallbackPath);            
+        reply(Util.getData(filePath,fallbackPath)); 
+      }            
+      else{
+          
+        basicFilePath = "/data/static/" + serviceName + ".json";
+        var staticFilePath = path.join(__dirname, "/", basicFilePath); 
+    
+        reply(Util.getData(staticFilePath)); 
       }
+      }
+
     };
     return myRoute;
 };
