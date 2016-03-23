@@ -76,9 +76,6 @@
             },
             {
               "simNumber": "20002419451402"
-            },
-            {
-              "simNumber": "20002419451402"
             }
           ]
         },
@@ -93,7 +90,7 @@
         "preferences": {
           "advertisingIndicator": true,
           "personalDataEvalIndicator": false,
-          "marketingUsePhoneIndicator": true
+          "marketingUsePhoneIndicator": false
         },
         "individual": {
           "title": "Herr",
@@ -102,11 +99,11 @@
         },
         "address": {
           "type": "SUBSCRIBER",
-          "addressHashCode": "876bcb1032ea177e189a6b94a9d23137",
-          "street": "Berliner All",
-          "streetNumber": "50",
-          "postCode": "0112875",
-          "city": "Munich",
+          "addressHashCode": "876bcb1032ea177e189a6b94a9d23129",
+          "street": "Berliner Allee",
+          "streetNumber": "34",
+          "postCode": "011552",
+          "city": "Potsdam",
           "country": "Germany"
         },
         "installationSite": {

@@ -185,95 +185,7 @@
       }
     },
     {
-      "accountID": "6",
-      "type": "mobile",
-      "category": "private",
-      "subCategory": "AK",
-      "status": "opened",
-      "skeletonContract": 123456,
-      "marketCode": "MMC",
-      "totalServiceAccounts": 5,
-      "parts": {
-        "individual": {
-          "title": "Dr.",
-          "salutation": "Herr",
-          "firstName": "Peter",
-          "familyName": "Müller"
-        },
-        "collections": {
-          "delinquentStatus": "D"
-        },
-        "serviceAccounts": [
-          {
-            "subscriptionID": "4917315466",
-            "firstName": "Peter",
-            "familyName": "Müller",
-            "status": "A",
-            "level": "S",
-            "nextSubsidyDate": "2016-11-23",
-            "product": {
-              "name": "VFWireless",
-              "code": "DK_WOFF01",
-              "desc": "Vodafone WirelessOffice 1/1"
-            }
-          },
-          {
-            "subscriptionID": "123",
-            "firstName": "Peter",
-            "familyName": "Müller",
-            "status": "R",
-            "level": "R",
-            "nextSubsidyDate": "2016-11-23",
-            "product": {
-              "name": "VFSuperFlat",
-              "code": "DFLATXLLM",
-              "desc": "Vodafone SuperFlat Internet Allnet Spez mit Handy"
-            }
-          },
-          {
-            "subscriptionID": "1",
-            "firstName": "Peter",
-            "familyName": "Müller",
-            "status": "R",
-            "level": "R",
-            "nextSubsidyDate": "2016-11-23",
-            "product": {
-              "name": "VFSuperFlat",
-              "code": "DFLATXLLM",
-              "desc": "Vodafone SuperFlat Internet Allnet Spez mit Handy"
-            }
-          },
-          {
-            "subscriptionID": "2",
-            "firstName": "Peter",
-            "familyName": "Müller",
-            "status": "R",
-            "level": "R",
-            "nextSubsidyDate": "2016-11-23",
-            "product": {
-              "name": "VFSuperFlat",
-              "code": "DFLATXLLM",
-              "desc": "Vodafone SuperFlat Internet Allnet Spez mit Handy"
-            }
-          },
-          {
-            "subscriptionID": "3",
-            "firstName": "Peter",
-            "familyName": "Müller",
-            "status": "R",
-            "level": "R",
-            "nextSubsidyDate": "2016-11-23",
-            "product": {
-              "name": "VFSuperFlat",
-              "code": "DFLATXLLM",
-              "desc": "Vodafone SuperFlat Internet Allnet Spez mit Handy"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "accountID": "12",
+      "accountID": 100,
       "type": "mobile",
       "category": "private",
       "subCategory": "AK",
@@ -322,7 +234,7 @@
       }
     },
     {
-      "accountID": "2",
+      "accountID": 200,
       "type": "mobile",
       "category": "private",
       "subCategory": "AK",
@@ -371,7 +283,7 @@
       }
     },
     {
-      "accountID": "1",
+      "accountID": 300,
       "type": "mobile",
       "category": "private",
       "subCategory": "AK",
@@ -420,7 +332,7 @@
       }
     },
     {
-      "accountID": "6",
+      "accountID": 400,
       "type": "mobile",
       "category": "private",
       "subCategory": "AK",
