@@ -5,5 +5,6 @@ module.exports = function(server) {
 
     require('./routes/testData_GET')(server);
     require('./routes/userAccount_UserData_GET')(server);
+    require('./routes/userAccount_PUIDUpdate_POST')(server);
 
 }
