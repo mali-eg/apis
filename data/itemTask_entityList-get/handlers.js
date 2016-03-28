@@ -4,7 +4,7 @@ var Handlers = {};
 Handlers.defaultHandler = function(request, reply){
 
     var groupItemID = request.query.groupItemId;
-    var filePath = __dirname+"/json/6.json";
+    var filePath = __dirname+"/json/7.json";
    /* if (typeof groupItemID !== "undefined") {
         filePath = __dirname + "/data/" + groupItemID + ".json";
     } else {
