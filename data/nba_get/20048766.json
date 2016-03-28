@@ -1,0 +1,97 @@
+{
+  "customerAccountVBO": {
+    "accountID": "1876200938",
+    "type": "mobile",
+    "category": "private",
+    "subCategory": "ME",
+    "status": "opened",
+    "marketCode": "MMC",
+    "parts": {
+      "individual": {
+        "title": "Herr",
+        "firstName": "Julian",
+        "familyName": "Muller",
+        "gender": "M"
+      },
+      "collections": {
+        "delinquentStatus": "D",
+        "creditClass": "1",
+        "nextStepName": "AS",
+        "nextStepDescription": "Step 1",
+        "nextStepDate": "2015-01-01",
+        "lastStepName": "AS",
+        "lastStepDescription": "Step 1",
+        "lastStepDate": "2015-01-01"
+      },
+      "contactPoints": [
+        {
+          "postal": {
+            "type": "CUSTOMER",
+            "addressHashCode": "876bcb1032ea177e189a6b94a9d23136",
+            "street": "Berliner Allee",
+            "streetNumber": "34",
+            "postCode": "011552",
+            "city": "Potsdam",
+            "country": "Germany"
+          },
+          "email": {
+            "fullAddress": "julian-mueller@web.de",
+            "status": "validated"
+          },
+          "telephone": {
+            "phoneType": "contactPhoneMobile",
+            "subscriberNumber": "1679110",
+            "localAreaCode": "179",
+            "fullNumber": "491791679110"
+          }
+        }
+      ]
+    },
+    "preferences": {
+      "advertisingIndicator": true,
+      "marketingUseDataIndicator": false
+    },
+    "billingAccount": {
+      "billingAccountNumber": "1876200938",
+      "sameAsCusAddress": false,
+      "paymentInstructions": {
+        "billMediaCategory": "EMAIL",
+        "billCycleNumber": 15,
+        "billCycleStartDate": "2015-01-01",
+        "billCycleEndDate": "2015-30-01",
+        "callDetailsType": "M",
+        "callDetailsRetention": true,
+        "numberDigitsMasked": 3,
+        "billAsPDF": false
+      },
+      "paymentMethod": {
+        "modeOfPayment": "DD",
+        "bankPayment": {
+          "accountNumber": "2003434",
+          "accountOwnerName": "Julian Muller",
+          "bankCode": "454675",
+          "bankName": "Sparkasse Potsdam",
+          "iban": "DE12500105170648489890",
+          "bic": "SOLADES1POT"
+        }
+      },
+      "individual": {
+        "title": "Herr",
+        "firstName": "Julian",
+        "familyName": "Muller"
+      },
+      "billingAddress": {
+        "addressHashCode": "876bcb1032ea177e189a6b94a9d23135",
+        "street": "Berliner Allee",
+        "streetNumber": "50",
+        "postCode": "0190901",
+        "city": "Berlin",
+        "country": "Germany"
+      },
+      "email": {
+        "fullAddress": "julian-mueller@web.de",
+        "status": "valid"
+      }
+    }
+  }
+}

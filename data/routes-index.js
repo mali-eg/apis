@@ -67,7 +67,8 @@ var routes = [].concat(
     require('./securityToken_Federation_Authentication/routes'),
     require('./mTANVerification_federation/routes'),
     //security token invalidation - logout
-    require('./securityToken-Invalidation_DELETE/routes')
+    require('./securityToken-Invalidation_DELETE/routes'),
+		require('./nba_get/routes')
 );
 //console.log("routes:"+routes);
 module.exports = routes;
