@@ -1,0 +1,18 @@
+{
+    "status": 200,
+    "rawResponse": {
+        "faultMessage": {
+            "code": "NIL0A0838",
+            "text": "Wrong credentials",
+            "severity": "E",
+            "type": "AuthenticationError",
+            "original": {
+                "NIL0A0835": {
+                    "max_login_attempts": 8,
+                    "current_login_attempts": 7
+                }
+            }
+        }
+    },
+    "headers": {}
+}

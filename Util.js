@@ -51,23 +51,40 @@ Util.getUserName = function (request){
 * @param {string} subURI
 * @param {string} parameterName
 * @param {string} serviceMethod - either GET or POST
-* @param {bool} useRequestHeaders - if set to true headers is used of query parameter. Default value is false
+* @param {string} parameterFoundIn - either QUERY_PARAMETER, HEADER_PARAMETER or PAYLOAD_PARAMETER. Default is QUERY_PARAMETER
+* @param {bool} isStatic - indicates wether the request is account related or static
 * @return {object} route
 */
-Util.generateRouteBasicCall = function (serviceName, subURI, parameterName, serviceMethod, useRequestHeaders, isStatic){
+Util.QUERY_PARAMETER = 0;
+Util.HEADER_PARAMETER = 1;
+Util.PAYLOAD_PARAMETER = 2;
+
+Util.generateRouteBasicCall = function (serviceName, subURI, parameterName, serviceMethod, parameterFoundIn, isStatic){
 
     
-    if (typeof useRequestHeaders === 'undefined') useRequestHeaders = false; 
+    if (typeof parameterFoundIn === 'undefined') parameterFoundIn = Util.QUERY_PARAMETER; 
     if (typeof isStatic === 'undefined') isStatic = false; 
     var myRoute = {method:serviceMethod, path:subURI, handler: function (request, reply){    
 
       var parameterValue;
-      if (!useRequestHeaders){
+
+      switch(parameterFoundIn){
+        case 0: 
         parameterValue = request.query[parameterName];
-      }  
-      else{
+        break;
+
+        case 1: 
         parameterValue = request.headers[parameterName];
+        break;
+
+        case 2: 
+
+        break;
+
+
       }
+
+  
      
           
       var basicFilePath;

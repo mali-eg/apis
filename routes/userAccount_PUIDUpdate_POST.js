@@ -7,7 +7,7 @@
 var Util = require('../Util');
 
 module.exports = function(server) {
-  var myRoute = Util.generateRouteBasicCall('userAccount_PUIDUpdate_POST', '/update-user-account-puid', 'username','POST', true);
+  var myRoute = Util.generateRouteBasicCall('userAccount_PUIDUpdate_POST', '/update-user-account-puid', 'username','POST', Util.HEADER_PARAMETER);
   server.route (myRoute);
 
 }

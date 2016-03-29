@@ -1,0 +1,4 @@
+how to compile
+
+sh convert_single_file.sh data_src/account/default/lala_test.txt
+
