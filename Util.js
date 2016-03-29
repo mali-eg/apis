@@ -56,7 +56,7 @@ Util.getUserName = function (request){
 */
 Util.generateRouteBasicCall = function (serviceName, subURI, parameterName, serviceMethod, useRequestHeaders, isStatic){
 
-    console.log("lala");
+    
     if (typeof useRequestHeaders === 'undefined') useRequestHeaders = false; 
     if (typeof isStatic === 'undefined') isStatic = false; 
     var myRoute = {method:serviceMethod, path:subURI, handler: function (request, reply){    
@@ -69,7 +69,7 @@ Util.generateRouteBasicCall = function (serviceName, subURI, parameterName, serv
         parameterValue = request.headers[parameterName];
       }
      
-             //console.log("static!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! " + isStatic);
+          
       var basicFilePath;
       var basicFallbackPath;
 
