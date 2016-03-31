@@ -602,6 +602,86 @@
             }
           ]
         }
+      },
+      {
+        "name": "newCustomer_CTA",
+        "visible": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            },
+            {
+              "type": "condition",
+              "condition": "Aktivierung !== true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "ordersOverView_CTA",
+        "visible": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
+            },
+            {
+              "type": "condition",
+              "condition": "OrdersOverview !== true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "customerSearch_CTA",
+        "visible": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
+            },
+            {
+              "type": "condition",
+              "condition": "CustomerSearch !== true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "otelo_CTA",
+        "visible": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            },
+            {
+              "type": "condition",
+              "condition": "Otelo !== true",
+              "returnValue": "true"
+            }
+          ]
+        }
+      },
+      {
+        "name": "kabelDE_CTA",
+        "visible": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            },
+            {
+              "type": "condition",
+              "condition": "KabelDE !== true",
+              "returnValue": "false"
+            }
+          ]
+        }
       }
     ]
   }
