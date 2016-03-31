@@ -2,7 +2,6 @@
 routes index is used to map all toutes in the server.js
 */
 module.exports = function(server) {
-
     require('./routes/testData_GET')(server);
     require('./routes/userAccount_UserData_GET')(server);
     require('./routes/userAccount_PUIDUpdate_POST')(server);
@@ -12,9 +11,5 @@ module.exports = function(server) {
     require('./routes/availabilityCheck_GET')(server);
     require('./routes/captchaGeneration')(server);
     require('./routes/captchaVerification')(server);
-
-    
-
-
-
+    require('./routes/customerAccount_customerDataForOrder_GET')(server);
 }
