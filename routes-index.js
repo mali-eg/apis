@@ -9,5 +9,7 @@ module.exports = function(server) {
     require('./routes/token')(server);
     require('./routes/securityToken_Authentication')(server);
     require('./routes/agreement_CustomerDocument_GET')(server);
+    require('./routes/availabilityCheck_GET')(server);
     
+
 }

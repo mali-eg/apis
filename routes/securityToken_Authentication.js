@@ -25,8 +25,6 @@ module.exports = function(server) {
    
     var parameterValue = request.payload.securityTokenVBO.credentials.username;  
   
-    var serviceName = "securityToken_Authentication";
-    
     var basicFilePath = "../data/account/"+ parameterValue + "/" + serviceName + ".json";
     var basicFallbackPath = "../data/account/default/" + serviceName + ".json";
                   

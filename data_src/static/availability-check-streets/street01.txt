@@ -1,0 +1,20 @@
+404
+--
+{
+	"listData": {
+        "text": "We couldn’t validate the address you entered. Please choose one of the adresses below or update the address you entered.",
+		"list": [
+			{
+				"id":"154",
+				"text":"street 3"
+			},
+			{
+				"id":"525",
+				"text":"street 4"
+			}
+		]
+    }
+
+}
+--
+--
