@@ -7,7 +7,7 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet != true",
               "returnValue": "false"
             }
@@ -19,12 +19,12 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Postpaid != true",
               "returnValue": "false"
             },
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "leading-product-filter_Smart == true",
               "returnValue": "false"
             }
@@ -36,12 +36,12 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Postpaid != true",
               "returnValue": "false"
             },
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "leading-product-filter_Smart == true",
               "returnValue": "false"
             }
@@ -53,12 +53,12 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Postpaid != true",
               "returnValue": "false"
             },
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "leading-product-filter_Smart == true",
               "returnValue": "false"
             }
@@ -70,12 +70,12 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Postpaid != true",
               "returnValue": "false"
             },
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "leading-product-filter_Red == true",
               "returnValue": "false"
             }
@@ -87,12 +87,12 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Prepaid != true",
               "returnValue": "false"
             },
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "leading-product-filter_Red == true || leading-product-filter_Data == true",
               "returnValue": "false"
             }
@@ -104,12 +104,12 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet != true",
               "returnValue": "false"
             },
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "leading-product-filter_Red == true || leading-product-filter_Smart == true",
               "returnValue": "false"
             }
@@ -121,7 +121,7 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet == true",
               "returnValue": "false"
             }
@@ -133,7 +133,7 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet != true",
               "returnValue": "false"
             }
@@ -145,7 +145,7 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet == true",
               "returnValue": "false"
             }
@@ -157,7 +157,7 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Postpaid == true",
               "returnValue": "false"
             }
@@ -169,7 +169,7 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Postpaid != true",
               "returnValue": "false"
             }
@@ -178,7 +178,7 @@
         "select": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Postpaid != true",
               "returnValue": "false"
             }
@@ -190,7 +190,7 @@
         "enabled": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "discount_DSCT2 == true",
               "returnValue": "false"
             }
@@ -199,12 +199,12 @@
         "select": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Postpaid == true",
               "returnValue": "false"
             },
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "discount_DSCT2 == true",
               "returnValue": "false"
             }
@@ -216,7 +216,7 @@
         "enabled": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "discount_DSCT1 == true",
               "returnValue": "false"
             }
@@ -225,7 +225,7 @@
         "select": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "discount_DSCT1 == true",
               "returnValue": "false"
             }
@@ -237,7 +237,7 @@
         "enabled": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "data-addon-DADD1 == true || tariff-plan_REDS == true",
               "returnValue": "false"
             }
@@ -246,12 +246,12 @@
         "select": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "tariff-plan_REDS == true",
               "returnValue": "false"
             },
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "data-addon-DADD1 == true",
               "returnValue": "false"
             }
@@ -263,7 +263,7 @@
         "enabled": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Postpaid == true",
               "returnValue": "false"
             }
@@ -272,12 +272,12 @@
         "select": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Postpaid == true",
               "returnValue": "false"
             },
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Postpaid == true",
               "returnValue": "false"
             }
@@ -289,7 +289,7 @@
         "enabled": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "tariff-addon-internet_IADD1 == true",
               "returnValue": "false"
             }
@@ -298,7 +298,7 @@
         "select": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "tariff-addon-internet_IADD1 == true",
               "returnValue": "false"
             }
@@ -310,7 +310,7 @@
         "enabled": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "tariff-addon-internet_IADD1 == true ^ tariff-addon-internet_IADD2 == true",
               "returnValue": "false"
             }
@@ -319,12 +319,12 @@
         "select": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "tariff-addon-internet_IADD1 == true",
               "returnValue": "false"
             },
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "tariff-addon-internet_IADD2 == true",
               "returnValue": "false"
             }
@@ -344,7 +344,7 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet == false",
               "returnValue": "false"
             }
@@ -353,12 +353,12 @@
         "select": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet == true",
               "returnValue": "true"
             },
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "discount_DSCT2 == true",
               "returnValue": "false"
             }
@@ -370,7 +370,7 @@
         "enabled": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet == true",
               "returnValue": "false"
             }
@@ -379,7 +379,7 @@
         "select": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet == true",
               "returnValue": "false"
             }
@@ -391,7 +391,7 @@
         "enabled": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet != true",
               "returnValue": "false"
             }
@@ -400,7 +400,7 @@
         "select": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet != true",
               "returnValue": "false"
             }
@@ -412,7 +412,7 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet != true",
               "returnValue": "false"
             }
@@ -421,7 +421,7 @@
         "select": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet != true",
               "returnValue": "false"
             }
@@ -433,7 +433,7 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet != true",
               "returnValue": "false"
             }
@@ -442,7 +442,7 @@
         "enabled": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "tariff-addon-tvoption_TVO1 == true",
               "returnValue": "false"
             }
@@ -451,7 +451,7 @@
         "select": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "tariff-addon-tvoption_TVO1 == true",
               "returnValue": "false"
             }
@@ -463,7 +463,7 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Fixednet != true",
               "returnValue": "false"
             }
@@ -472,7 +472,7 @@
         "enabled": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "tariff-addon-tvoption_TVO1 == true || tariff-addon-tvoption_TVO2 == true",
               "returnValue": "false"
             }
@@ -481,7 +481,7 @@
         "select": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "tariff-addon-tvoption_TVO1 == true",
               "returnValue": "false"
             }
@@ -520,7 +520,7 @@
         "visible": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Postpaid == true ^ Matrix.Type.Prepaid == true",
               "returnValue": "true"
             },
@@ -544,7 +544,7 @@
         "enabled": {
           "rules": [
             {
-              "type": "rulebased",
+              "type": "condition",
               "condition": "Matrix.Type.Postpaid == true ^ Matrix.Type.Prepaid == true ^ Matrix.Type.Fixednet == true",
               "returnValue": "true"
             },
