@@ -12,4 +12,7 @@ module.exports = function(server) {
     require('./routes/captchaGeneration')(server);
     require('./routes/captchaVerification')(server);
     require('./routes/customerAccount_customerDataForOrder_GET')(server);
+    require('./routes/customerAccount_customerDataForOrder_PUT')(server);
+
+    
 }
