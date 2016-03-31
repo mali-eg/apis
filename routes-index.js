@@ -11,7 +11,10 @@ module.exports = function(server) {
     require('./routes/agreement_CustomerDocument_GET')(server);
     require('./routes/availabilityCheck_GET')(server);
     require('./routes/captchaGeneration')(server);
+    require('./routes/captchaVerification')(server);
+
     
+
 
 
 }

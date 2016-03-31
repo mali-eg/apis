@@ -1,0 +1,13 @@
+{
+    "status": 400,
+    "rawResponse": {
+        "faultMessage": {
+            "code": "NIL0V0411",
+            "text": "Die Eingabe des Captcha war fehlerhaft. Bitte geben Sie nun die Zeichen im des neu generierten Captcha ein.",
+            "detailedText": null,
+            "severity": "E",
+            "type": "AuthenticationError"
+        }
+    },
+    "headers": {}
+}
