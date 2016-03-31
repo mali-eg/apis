@@ -617,6 +617,19 @@
               "returnValue": "false"
             }
           ]
+        },
+        "enabled": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
+            },
+            {
+              "type": "condition",
+              "condition": "Aktivierung !== true",
+              "returnValue": "false"
+            }
+          ]
         }
       },
       {
@@ -630,6 +643,19 @@
             {
               "type": "condition",
               "condition": "OrdersOverview !== true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "enabled": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            },
+            {
+              "type": "condition",
+              "condition": "Aktivierung !== true",
               "returnValue": "false"
             }
           ]
@@ -649,6 +675,19 @@
               "returnValue": "false"
             }
           ]
+        },
+        "enabled": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            },
+            {
+              "type": "condition",
+              "condition": "Aktivierung !== true",
+              "returnValue": "false"
+            }
+          ]
         }
       },
       {
@@ -665,6 +704,19 @@
               "returnValue": "true"
             }
           ]
+        },
+        "enabled": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            },
+            {
+              "type": "condition",
+              "condition": "Aktivierung !== true",
+              "returnValue": "false"
+            }
+          ]
         }
       },
       {
@@ -678,6 +730,19 @@
             {
               "type": "condition",
               "condition": "KabelDE !== true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "enabled": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            },
+            {
+              "type": "condition",
+              "condition": "Aktivierung !== true",
               "returnValue": "false"
             }
           ]
