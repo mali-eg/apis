@@ -3,41 +3,41 @@
     "-xmlns": "http://group.vodafone.com/EnterpriseObjects/Core/VBO/BSS/Validation/ItemTasks/V1",
     "entities": [
       {
-        "name": "Progressbar.TariffSelection"
+        "name": "Progressbar_TariffSelection"
       },
       {
-        "name": "Progressbar.AddOns"
+        "name": "Progressbar_AddOns"
       },
       {
-        "name": "Progressbar.HardwareSelection"
+        "name": "Progressbar_HardwareSelection"
       },
       {
-        "name": "Progressbar.ShoppingCart"
+        "name": "Progressbar_ShoppingCart"
       },
       {
-        "name": "Progressbar.CustomerData"
+        "name": "Progressbar_CustomerData"
       },
       {
-        "name": "Progressbar.SubscriberData"
+        "name": "Progressbar_SubscriberData"
       },
       {
-        "name": "Progressbar.SummaryData"
+        "name": "Progressbar_SummaryData"
       },
       {
-        "name": "Progressbar.CreateContracts"
+        "name": "Progressbar_CreateContracts"
       },
       {
-        "name": "Matrix.Type.Prepaid",
+        "name": "Matrix_Type_Prepaid",
         "code": "pre-pay",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
-        "name": "Matrix.Type.Postpaid",
+        "name": "Matrix_Type_Postpaid",
         "code": "post-pay",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
-        "name": "Matrix.Type.Fixednet",
+        "name": "Matrix_Type_Fixednet",
         "code": "fixednet",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
