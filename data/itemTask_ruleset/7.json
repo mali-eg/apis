@@ -1,14 +1,14 @@
 {
   "itemTaskVBO": {
-    "-xmlns": "http://group.vodafone.com/EnterpriseObjects/Core/VBO/BSS/Validation/ItemTasks/V1",
+    "-xmlns": "http://group_vodafone_com/EnterpriseObjects/Core/VBO/BSS/Validation/ItemTasks/V1",
     "items": [
       {
-        "name": "Progressbar.HardwareSelection",
+        "name": "Progressbar_HardwareSelection",
         "visible": {
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet != true",
+              "condition": "Matrix_Type_Fixednet != true",
               "returnValue": "false"
             }
           ]
@@ -20,7 +20,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Postpaid != true",
+              "condition": "Matrix_Type_Postpaid != true",
               "returnValue": "false"
             },
             {
@@ -37,7 +37,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Postpaid != true",
+              "condition": "Matrix_Type_Postpaid != true",
               "returnValue": "false"
             },
             {
@@ -54,7 +54,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Postpaid != true",
+              "condition": "Matrix_Type_Postpaid != true",
               "returnValue": "false"
             },
             {
@@ -71,7 +71,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Postpaid != true",
+              "condition": "Matrix_Type_Postpaid != true",
               "returnValue": "false"
             },
             {
@@ -88,7 +88,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Prepaid != true",
+              "condition": "Matrix_Type_Prepaid != true",
               "returnValue": "false"
             },
             {
@@ -105,7 +105,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet != true",
+              "condition": "Matrix_Type_Fixednet != true",
               "returnValue": "false"
             },
             {
@@ -122,7 +122,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet == true",
+              "condition": "Matrix_Type_Fixednet == true",
               "returnValue": "false"
             }
           ]
@@ -134,7 +134,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet != true",
+              "condition": "Matrix_Type_Fixednet != true",
               "returnValue": "false"
             }
           ]
@@ -146,7 +146,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet == true",
+              "condition": "Matrix_Type_Fixednet == true",
               "returnValue": "false"
             }
           ]
@@ -158,7 +158,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Postpaid == true",
+              "condition": "Matrix_Type_Postpaid == true",
               "returnValue": "false"
             }
           ]
@@ -170,7 +170,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Postpaid != true",
+              "condition": "Matrix_Type_Postpaid != true",
               "returnValue": "false"
             }
           ]
@@ -179,7 +179,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Postpaid != true",
+              "condition": "Matrix_Type_Postpaid != true",
               "returnValue": "false"
             }
           ]
@@ -200,7 +200,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Postpaid == true",
+              "condition": "Matrix_Type_Postpaid == true",
               "returnValue": "false"
             },
             {
@@ -264,7 +264,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Postpaid == true",
+              "condition": "Matrix_Type_Postpaid == true",
               "returnValue": "false"
             }
           ]
@@ -273,12 +273,12 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Postpaid == true",
+              "condition": "Matrix_Type_Postpaid == true",
               "returnValue": "false"
             },
             {
               "type": "condition",
-              "condition": "Matrix.Type.Postpaid == true",
+              "condition": "Matrix_Type_Postpaid == true",
               "returnValue": "false"
             }
           ]
@@ -345,7 +345,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet == false",
+              "condition": "Matrix_Type_Fixednet == false",
               "returnValue": "false"
             }
           ]
@@ -354,7 +354,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet == true",
+              "condition": "Matrix_Type_Fixednet == true",
               "returnValue": "true"
             },
             {
@@ -371,7 +371,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet == true",
+              "condition": "Matrix_Type_Fixednet == true",
               "returnValue": "false"
             }
           ]
@@ -380,7 +380,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet == true",
+              "condition": "Matrix_Type_Fixednet == true",
               "returnValue": "false"
             }
           ]
@@ -392,7 +392,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet != true",
+              "condition": "Matrix_Type_Fixednet != true",
               "returnValue": "false"
             }
           ]
@@ -401,7 +401,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet != true",
+              "condition": "Matrix_Type_Fixednet != true",
               "returnValue": "false"
             }
           ]
@@ -413,7 +413,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet != true",
+              "condition": "Matrix_Type_Fixednet != true",
               "returnValue": "false"
             }
           ]
@@ -422,7 +422,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet != true",
+              "condition": "Matrix_Type_Fixednet != true",
               "returnValue": "false"
             }
           ]
@@ -434,7 +434,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet != true",
+              "condition": "Matrix_Type_Fixednet != true",
               "returnValue": "false"
             }
           ]
@@ -464,7 +464,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Fixednet != true",
+              "condition": "Matrix_Type_Fixednet != true",
               "returnValue": "false"
             }
           ]
@@ -521,7 +521,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Postpaid == true ^ Matrix.Type.Prepaid == true",
+              "condition": "Matrix_Type_Postpaid == true ^ Matrix_Type_Prepaid == true",
               "returnValue": "true"
             },
             {
@@ -545,7 +545,7 @@
           "rules": [
             {
               "type": "condition",
-              "condition": "Matrix.Type.Postpaid == true ^ Matrix.Type.Prepaid == true ^ Matrix.Type.Fixednet == true",
+              "condition": "Matrix_Type_Postpaid == true ^ Matrix_Type_Prepaid == true ^ Matrix_Type_Fixednet == true",
               "returnValue": "true"
             },
             {
