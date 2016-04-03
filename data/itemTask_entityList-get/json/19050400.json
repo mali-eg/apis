@@ -398,6 +398,27 @@
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
           }
         ]
+      },
+      {
+        "type": "dynamic",
+        "name": "hidden-socs",
+        "entities": [
+          {
+            "name": "security-addon-DADD1",
+            "code": "securityDADD1",
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
+          },
+          {
+            "name": "security-addon-DADD2",
+            "code": "securityDADD2",
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
+          },
+          {
+            "name": "security-addon-DADD3",
+            "code": "securityDADD3",
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff-addon\")]"
+          }
+        ]
       }
     ]
   }
