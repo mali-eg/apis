@@ -14,6 +14,10 @@ module.exports = function(server) {
     require('./routes/customerAccount_customerDataForOrder_GET')(server);
     require('./routes/customerAccount_customerDataForOrder_PUT')(server);
     require('./routes/mTANVerification_POST')(server);
+    require('./routes/salesOrder_orderCreation_POST')(server);
+
+
+    
 
     
 }
