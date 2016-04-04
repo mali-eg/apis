@@ -18,14 +18,15 @@ Util.getData = function (path, fallbackPath) {
             }
         }
     }
+
     var respData = JSON.parse(file);
-    var statusCode = respData.statusCode;
-    if (statusCode) {
-        delete respData.statusCode;
-    } else {
-        console.warn('No status code, defaults to 200');
-        statusCode = 200;
-    }
+
+    // get the status code 
+    var statusCode = respData.status;
+    if (statusCode == undefined) statusCode = 200;    
+
+    // get the data 
+    var rawResponse = respData.rawResponse;
 
     if (statusCode !== 200) {
         console.log("error type detected, returning fault message");
@@ -37,8 +38,9 @@ Util.getData = function (path, fallbackPath) {
         return error;
     } else {
         console.log("statusCode 200 detected, returning VBO");
-        return respData;
+        return rawResponse;
     }
+
 };
 
 Util.getUserName = function (request){
@@ -82,9 +84,7 @@ Util.generateRouteBasicCall = function (serviceName, subURI, parameterName, serv
         break;
 
 
-      }
-
-  
+      } 
      
           
       var basicFilePath;
