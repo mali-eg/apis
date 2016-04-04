@@ -1,8 +1,8 @@
 /*
-userAccount_UserData_GET
+mTANVerification_POST
 
 URI:
-/get-user-account-user-data
+/api/pos-security-tokens/authentication-mtan
 
 TYPE: 
 Account
@@ -28,7 +28,7 @@ var Util = require('../Util');
 
 
 module.exports = function(server) {
-  var myRoute = Util.generateRouteBasicCall('userAccount_UserData_GET', '/api/pos-user-accounts/user-data', 'username','GET', Util.HEADER_PARAMETER );
+  var myRoute = Util.generateRouteBasicCall('mTANVerification_POST', '/api/pos-security-tokens/authentication-mtan', 'username','POST');
   server.route (myRoute);
 
 }
