@@ -17,7 +17,7 @@ INPUT PARAMETERS:
 username - in request header  
 
 
-POSTMAN:
+
 
 
 TXT CONVERSION:

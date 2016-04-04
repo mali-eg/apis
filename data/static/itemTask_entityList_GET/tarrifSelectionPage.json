@@ -1,0 +1,442 @@
+{
+    "status": 200,
+    "rawResponse": {
+        "entities": [
+            {
+                "name": "Progressbar.TariffSelection",
+                "path": null
+            },
+            {
+                "name": "Progressbar.AddOns",
+                "path": null
+            },
+            {
+                "name": "Progressbar.HardwareSelection",
+                "path": null
+            },
+            {
+                "name": "Progressbar.ShoppingCart",
+                "path": null
+            },
+            {
+                "name": "Progressbar.CustomerData",
+                "path": null
+            },
+            {
+                "name": "Progressbar.SubscriberData",
+                "path": null
+            },
+            {
+                "name": "Progressbar.SummaryData",
+                "path": null
+            },
+            {
+                "name": "Progressbar.CreateContracts",
+                "path": null
+            },
+            {
+                "name": "Matrix.Type.Prepaid",
+                "code": "pre-pay",
+                "path": "Category"
+            },
+            {
+                "name": "Matrix.Type.Postpaid",
+                "code": "post-pay",
+                "path": "Category"
+            },
+            {
+                "name": "Matrix.Type.Fixednet",
+                "code": "fixednet",
+                "path": "Category"
+            },
+            {
+                "name": "Filter.Red",
+                "path": null
+            },
+            {
+                "name": "Filter.Smart",
+                "path": null
+            },
+            {
+                "name": "Filter.DataGo",
+                "path": null
+            },
+            {
+                "name": "Filter.Andere",
+                "path": null
+            },
+            {
+                "name": "AddOn.Filter.Entertainment",
+                "path": null
+            },
+            {
+                "name": "AddOn.Filter.Roaming",
+                "path": null
+            },
+            {
+                "name": "AddOn.Filter.Sonstige",
+                "path": null
+            },
+            {
+                "name": "searchTariffNameInput",
+                "path": "productOffering.name"
+            },
+            {
+                "name": "simNumberInput",
+                "path": "simSerialNumber"
+            },
+            {
+                "name": "IMEIInput",
+                "path": "IMEI"
+            },
+            {
+                "name": "lastStepCTA",
+                "path": null
+            },
+            {
+                "name": "expressCheckoutCTA",
+                "path": null
+            },
+            {
+                "name": "nextStepCTA",
+                "code": "DSCT3",
+                "path": null
+            },
+            {
+                "name": "matrixTypeSelected",
+                "path": null
+            }
+        ],
+        "containers": [
+            {
+                "name": "tariff-group",
+                "type": "dynamic",
+                "entities": [
+                    {
+                        "name": "Red 1.5 GB",
+                        "code": "REDS",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Red 3 GB",
+                        "code": "REDM",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Red 8 GB",
+                        "code": "REDL",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Red 20 GB",
+                        "code": "REDXL",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Smart S",
+                        "code": "SMARS",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Smart M",
+                        "code": "SMARM",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Smart L",
+                        "code": "SMARL",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Smart XL",
+                        "code": "SMARXL",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "DataGo S",
+                        "code": "SMARXL",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "DataGo M",
+                        "code": "SMARXL",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "DataGo L",
+                        "code": "SMARXL",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Black",
+                        "code": "BLACK",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Red Family XS",
+                        "code": "REDFXS",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Red Family S",
+                        "code": "REDFS",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Red Family M",
+                        "code": "REDFM",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Red Family L",
+                        "code": "REDFL",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Basic 50",
+                        "code": "BAS50",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Basic 100",
+                        "code": "BAS100",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Superflat",
+                        "code": "SUF",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Superflat WE",
+                        "code": "SUFWE",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Business Classic",
+                        "code": "BUSC",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Business Active",
+                        "code": "BUSA",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Business Basic",
+                        "code": "BUSB",
+                        "path": "tariffGroup"
+                    },
+                    {
+                        "name": "Zuhause FestnetzFlat",
+                        "code": "ZHFF",
+                        "path": "tariffGroup"
+                    }
+                ]
+            },
+            {
+                "name": "subsidy",
+                "type": "dynamic",
+                "entities": [
+                    {
+                        "name": "SIMOnly",
+                        "code": "SIMO",
+                        "path": "subsidy"
+                    },
+                    {
+                        "name": "SUB 5",
+                        "code": "SUB5",
+                        "path": "subsidy"
+                    },
+                    {
+                        "name": "SUB 10",
+                        "code": "SUB10",
+                        "path": "subsidy"
+                    },
+                    {
+                        "name": "SUB 20",
+                        "code": "SUB20",
+                        "path": "subsidy"
+                    }
+                ]
+            },
+            {
+                "name": "promotion",
+                "type": "dynamic",
+                "entities": [
+                    {
+                        "name": "Zusätzliches Startguthaben",
+                        "code": "ZSTGH",
+                        "path": "promotion"
+                    },
+                    {
+                        "name": "Rabatt auf Basispreis",
+                        "code": "RAB",
+                        "path": "promotion"
+                    },
+                    {
+                        "name": "AP-Frei ab der 2. Karte",
+                        "code": "AP2",
+                        "path": "promotion"
+                    },
+                    {
+                        "name": "Immediately Connected",
+                        "code": "IMCD",
+                        "path": "promotion"
+                    }
+                ]
+            },
+            {
+                "name": "discount",
+                "type": "dynamic",
+                "entities": [
+                    {
+                        "name": "Studenten-Vorteil",
+                        "code": "STV",
+                        "path": "Discount"
+                    },
+                    {
+                        "name": "Junge Leute-Vorteil",
+                        "code": "JLV",
+                        "path": "Discount"
+                    },
+                    {
+                        "name": "Behinderten-Vorteil",
+                        "code": "BHV",
+                        "path": "Discount"
+                    },
+                    {
+                        "name": "SoHo 15% auf SIMonly",
+                        "code": "SOHO",
+                        "path": "Discount"
+                    },
+                    {
+                        "name": "VF All-in-One",
+                        "code": "AIO",
+                        "path": "Discount"
+                    },
+                    {
+                        "name": "Anschlusspreisbefreiung",
+                        "code": "APB",
+                        "path": "Discount"
+                    }
+                ]
+            },
+            {
+                "name": "tariff-addon",
+                "type": "dynamic",
+                "entities": [
+                    {
+                        "name": "Deezer Musik-Flat",
+                        "code": "DMF",
+                        "path": "Addon"
+                    },
+                    {
+                        "name": "Mobile TV",
+                        "code": "MTV",
+                        "path": "Addon"
+                    },
+                    {
+                        "name": "VF Happy International",
+                        "code": "VFHI",
+                        "path": "Addon"
+                    },
+                    {
+                        "name": "VF ReisePaket Data",
+                        "code": "VFRD",
+                        "path": "Addon"
+                    },
+                    {
+                        "name": "VF ReiseVersprechen Asien",
+                        "code": "VFRA",
+                        "path": "Addon"
+                    },
+                    {
+                        "name": "EasyTravel Flat Tag",
+                        "code": "ETFT",
+                        "path": "Addon"
+                    },
+                    {
+                        "name": "Zuhause Option",
+                        "code": "ZHO",
+                        "path": "Addon"
+                    },
+                    {
+                        "name": "VF Handy-Tablet-Versicherung",
+                        "code": "VFHTV",
+                        "path": "Addon"
+                    },
+                    {
+                        "name": "Consumer Secure Net",
+                        "code": "CSN",
+                        "path": "Addon"
+                    }
+                ]
+            },
+            {
+                "name": "tariff-addon-internet",
+                "type": "dynamic",
+                "entities": [
+                    {
+                        "name": "VF Internet Option 250",
+                        "code": "IADD1",
+                        "path": "Addon"
+                    },
+                    {
+                        "name": "VF Internet Option 500",
+                        "code": "IADD2",
+                        "path": "Addon"
+                    },
+                    {
+                        "name": "VF Internet Option 1000",
+                        "code": "IADD3",
+                        "path": "Addon"
+                    }
+                ]
+            },
+            {
+                "name": "tariff-addon-voice",
+                "type": "dynamic",
+                "entities": [
+                    {
+                        "name": "VF Sprache 100 Minuten",
+                        "code": "VADD1",
+                        "path": "Addon"
+                    },
+                    {
+                        "name": "VF Sprache 300 Minuten",
+                        "code": "VADD2",
+                        "path": "Addon"
+                    },
+                    {
+                        "name": "VF Sprache 500 Minuten",
+                        "code": "VADD3",
+                        "path": "Addon"
+                    }
+                ]
+            },
+            {
+                "name": "tariff-addon-tvoption",
+                "type": "dynamic",
+                "entities": [
+                    {
+                        "name": "VF TV Option 1 Monat",
+                        "code": "TVO1",
+                        "path": "Addon"
+                    },
+                    {
+                        "name": "VF TV Option 3 Monate",
+                        "code": "TVO2",
+                        "path": "Addon"
+                    },
+                    {
+                        "name": "VF TV Option 6 Monate",
+                        "code": "TVO3",
+                        "path": "Addon"
+                    }
+                ]
+            }
+        ]
+    },
+    "headers": {}
+}
