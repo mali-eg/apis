@@ -7,7 +7,7 @@ Handlers.defaultHandler = function(request, reply){
     console.log("//////////////////////////");
     console.log(params);
     console.log("//////////////////");*/
-    var filePath = __dirname+"/3.json";
+    var filePath = __dirname+"/4.json";
 
     reply(Util.getData(filePath));
 };
