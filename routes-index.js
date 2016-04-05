@@ -18,6 +18,5 @@ module.exports = function(server) {
     require('./routes/itemTask_entityList_GET')(server);
     require('./routes/salesOrder_OrdersOverview_GET')(server);    
     require('./routes/salesOrder_orderLineItemSummary_GET')(server); 
-
-    
+    require('./routes/salesOrder_product_POST')(server);     
 }
