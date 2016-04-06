@@ -45,6 +45,8 @@ var routes = [].concat(
     require('./salesOrder_OrdersOverview_get/routes'),
     require('./salesOrder_orderLineItem_delete/routes'),
     require('./token/routes'),
+	// red plus
+    require('./subscription_sharing_group_get/routes'),
     // customer availability check
 	require('./availabilityCheck_GET/routes'),
 	// user account
@@ -68,7 +70,7 @@ var routes = [].concat(
     require('./mTANVerification_federation/routes'),
     //security token invalidation - logout
     require('./securityToken-Invalidation_DELETE/routes'),
-		require('./nba_get/routes')
+	require('./nba_get/routes')
 );
 //console.log("routes:"+routes);
 module.exports = routes;

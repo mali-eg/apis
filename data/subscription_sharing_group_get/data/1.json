@@ -1,0 +1,92 @@
+{
+    "subscriptionVBO": {
+        "type": "mobile",
+        "sharingGroup": {
+            "groupType": "DS_NS",
+            "maxGroup": 5,
+            "maxTariffGroup": 5,
+            "sharingGroupList": [
+                {
+                    "groupID": "500000011533354",
+                    "groupType": "DS_NS",
+                    "groupStatus": "active",
+                    "groupName": "MyVFREDGroup1",
+                    "effectiveDate": "2016-01-19",
+                    "marketCode": "MMC",
+                    "numberOfOwner": 1,
+                    "numberOfMember": 2,
+                    "availableSlots": 2,
+                    "memberList": [
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629852",
+                            "groupTariffType": "DSM1N",
+                            "memberType": "member",
+                            "subscriptionID": "491740347443",
+                            "tariffCode": "REDPLVH5",
+                            "effectiveDate": "2016-01-19"
+                        },
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629852",
+                            "groupTariffType": "DSM1N",
+                            "memberType": "member",
+                            "subscriptionID": "491740347444",
+                            "tariffCode": "REDPLVH5",
+                            "effectiveDate": "2016-01-19"
+                        },
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629852",
+                            "groupTariffType": "DSOWN",
+                            "memberType": "owner",
+                            "subscriptionID": "491740347445",
+                            "tariffCode": "REDLH5",
+                            "effectiveDate": "2016-01-19"
+                        }
+                    ]
+                },
+                {
+                    "groupID": "500000011533355",
+                    "groupType": "DS_NS",
+                    "groupStatus": "active",
+                    "groupName": "MyVFREDGroup2",
+                    "effectiveDate": "2016-01-19",
+                    "marketCode": "MMC",
+                    "numberOfOwner": 1,
+                    "numberOfMember": 2,
+                    "availableSlots": 2,
+                    "memberList": [
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629853",
+                            "groupTariffType": "DSM1N",
+                            "memberType": "member",
+                            "subscriptionID": "491740347413",
+                            "tariffCode": "REDPLVH5",
+                            "effectiveDate": "2016-01-19"
+                        },
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629853",
+                            "groupTariffType": "DSM1N",
+                            "memberType": "member",
+                            "subscriptionID": "491740347414",
+                            "tariffCode": "REDPLVH5",
+                            "effectiveDate": "2016-01-19"
+                        },
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629853",
+                            "groupTariffType": "DSOWN",
+                            "memberType": "owner",
+                            "subscriptionID": "491740347415",
+                            "tariffCode": "REDLH5",
+                            "effectiveDate": "2016-01-19"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
