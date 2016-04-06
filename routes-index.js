@@ -19,4 +19,7 @@ module.exports = function(server) {
     require('./routes/salesOrder_OrdersOverview_GET')(server);    
     require('./routes/salesOrder_orderLineItemSummary_GET')(server); 
     require('./routes/salesOrder_product_POST')(server);     
+    require('./routes/salesOrder_OrderSummary_GET')(server);  
+
+    
 }
