@@ -10,12 +10,12 @@
                     "groupID": "500000011533354",
                     "groupType": "DS_NS",
                     "groupStatus": "active",
-                    "groupName": "MyVFREDGroup1",
+                    "groupName": "Group no Owner 1 with avalible slots active",
                     "effectiveDate": "2016-01-19",
                     "marketCode": "MMC",
-                    "numberOfOwner": 1,
+                    "numberOfOwner": 0,
                     "numberOfMember": 2,
-                    "availableSlots": 2,
+                    "availableSlots": 10,
                     "memberList": [
                         {
                             "skeletonContractNumber": 0,
@@ -50,10 +50,10 @@
                     "groupID": "500000011533355",
                     "groupType": "DS_NS",
                     "groupStatus": "active",
-                    "groupName": "MyVFREDGroup2",
+                    "groupName": "Group no Owner 2 without avalible slots active",
                     "effectiveDate": "2016-01-19",
                     "marketCode": "MMC",
-                    "numberOfOwner": 1,
+                    "numberOfOwner": 0,
                     "numberOfMember": 2,
                     "availableSlots": 0,
                     "memberList": [
@@ -87,13 +87,13 @@
                     ]
                 },
                 {
-                    "groupID": "500000011533455",
+                    "groupID": "500000011533430",
                     "groupType": "DS_NS",
                     "groupStatus": "active",
-                    "groupName": "MyVFREDGroup3",
+                    "groupName": "Group With Owner 1 with avalible slots active",
                     "effectiveDate": "2016-11-19",
                     "marketCode": "MMC",
-                    "numberOfOwner": 0,
+                    "numberOfOwner": 1,
                     "numberOfMember": 2,
                     "availableSlots": 1,
                     "memberList": [
@@ -130,12 +130,172 @@
                     "groupID": "500000011533455",
                     "groupType": "DS_NS",
                     "groupStatus": "active",
-                    "groupName": "MyVFREDGroup4",
+                    "groupName": "Group With Owner 2 with avalible slots active",
                     "effectiveDate": "2015-11-19",
                     "marketCode": "MMC",
                     "numberOfOwner": 1,
                     "numberOfMember": 2,
+                    "availableSlots": 1,
+                    "memberList": [
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629853",
+                            "groupTariffType": "DSM1N",
+                            "memberType": "member",
+                            "subscriptionID": "491740347413",
+                            "tariffCode": "REDPLVH5",
+                            "effectiveDate": "2016-01-19"
+                        },
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629853",
+                            "groupTariffType": "DSM1N",
+                            "memberType": "member",
+                            "subscriptionID": "491740347414",
+                            "tariffCode": "REDPLVH5",
+                            "effectiveDate": "2016-01-19"
+                        },
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629853",
+                            "groupTariffType": "DSOWN",
+                            "memberType": "owner",
+                            "subscriptionID": "491740347415",
+                            "tariffCode": "REDLH5",
+                            "effectiveDate": "2016-01-19"
+                        }
+                    ]
+                },
+				{
+                    "groupID": "500000011533399",
+                    "groupType": "DS_NS",
+                    "groupStatus": "inactive",
+                    "groupName": "Group no Owner 1 with avalible slots inactive",
+                    "effectiveDate": "2016-01-19",
+                    "marketCode": "MMC",
+                    "numberOfOwner": 0,
+                    "numberOfMember": 2,
+                    "availableSlots": 10,
+                    "memberList": [
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629852",
+                            "groupTariffType": "DSM1N",
+                            "memberType": "member",
+                            "subscriptionID": "491740347443",
+                            "tariffCode": "REDPLVH5",
+                            "effectiveDate": "2016-01-19"
+                        },
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629852",
+                            "groupTariffType": "DSM1N",
+                            "memberType": "member",
+                            "subscriptionID": "491740347444",
+                            "tariffCode": "REDPLVH5",
+                            "effectiveDate": "2016-01-19"
+                        },
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629852",
+                            "groupTariffType": "DSOWN",
+                            "memberType": "owner",
+                            "subscriptionID": "491740347445",
+                            "tariffCode": "REDLH5",
+                            "effectiveDate": "2016-01-19"
+                        }
+                    ]
+                },
+                {
+                    "groupID": "500000011533388",
+                    "groupType": "DS_NS",
+                    "groupStatus": "inactive",
+                    "groupName": "Group no Owner 2 without avalible slots inactive",
+                    "effectiveDate": "2016-01-19",
+                    "marketCode": "MMC",
+                    "numberOfOwner": 0,
+                    "numberOfMember": 2,
                     "availableSlots": 0,
+                    "memberList": [
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629853",
+                            "groupTariffType": "DSM1N",
+                            "memberType": "member",
+                            "subscriptionID": "491740347413",
+                            "tariffCode": "REDPLVH5",
+                            "effectiveDate": "2016-01-19"
+                        },
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629853",
+                            "groupTariffType": "DSM1N",
+                            "memberType": "member",
+                            "subscriptionID": "491740347414",
+                            "tariffCode": "REDPLVH5",
+                            "effectiveDate": "2016-01-19"
+                        },
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629853",
+                            "groupTariffType": "DSOWN",
+                            "memberType": "owner",
+                            "subscriptionID": "491740347415",
+                            "tariffCode": "REDLH5",
+                            "effectiveDate": "2016-01-19"
+                        }
+                    ]
+                },
+                {
+                    "groupID": "500000011533477",
+                    "groupType": "DS_NS",
+                    "groupStatus": "inactive",
+                    "groupName": "Group With Owner 1 with avalible slots inactive",
+                    "effectiveDate": "2016-11-19",
+                    "marketCode": "MMC",
+                    "numberOfOwner": 1,
+                    "numberOfMember": 2,
+                    "availableSlots": 1,
+                    "memberList": [
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629853",
+                            "groupTariffType": "DSM1N",
+                            "memberType": "member",
+                            "subscriptionID": "491740347413",
+                            "tariffCode": "REDPLVH5",
+                            "effectiveDate": "2016-01-19"
+                        },
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629853",
+                            "groupTariffType": "DSM1N",
+                            "memberType": "member",
+                            "subscriptionID": "491740347414",
+                            "tariffCode": "REDPLVH5",
+                            "effectiveDate": "2016-01-19"
+                        },
+                        {
+                            "skeletonContractNumber": 0,
+                            "accountID": "102629853",
+                            "groupTariffType": "DSOWN",
+                            "memberType": "owner",
+                            "subscriptionID": "491740347415",
+                            "tariffCode": "REDLH5",
+                            "effectiveDate": "2016-01-19"
+                        }
+                    ]
+                },
+                {
+                    "groupID": "500000011533466",
+                    "groupType": "DS_NS",
+                    "groupStatus": "inactive",
+                    "groupName": "Group With Owner 2 with avalible slots inactive",
+                    "effectiveDate": "2015-11-19",
+                    "marketCode": "MMC",
+                    "numberOfOwner": 1,
+                    "numberOfMember": 2,
+                    "availableSlots": 1,
                     "memberList": [
                         {
                             "skeletonContractNumber": 0,
