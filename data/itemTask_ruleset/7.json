@@ -747,6 +747,17 @@
             }
           ]
         }
+      },
+      {
+        "name": "mdd_otelo_CTA",
+        "visible": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
+            }
+          ]
+        }
       }
     ]
   }
