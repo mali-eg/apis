@@ -1,0 +1,70 @@
+{
+  "itemTaskVBO": {
+    "-xmlns": "http://group.vodafone.com/EnterpriseObjects/Core/VBO/BSS/Validation/ItemTasks/V1",
+    "entities": [
+      {
+        "name": "mdd_newCustomer_CTA",
+        "label": "New Customer"
+      },
+      {
+        "name": "mdd_customerSearch_CTA",
+        "label": "Customer Search"
+      },
+      {
+        "name": "mdd_ordersOverview_CTA",
+        "label":"Order Overview"
+      },
+      {
+        "name": "mdd_otelo_CTA",
+        "label":"Otelo"
+      },
+      {
+        "name": "mdd_kabelDE_CTA",
+        "label":"Kabel Deutschland"
+      },
+      {
+        "name": "mdd_vodafoneDE_CTA",
+        "label":"Vodafone.de"
+      },
+      {
+        "name": "mdd_FHOnline_CTA",
+        "label":"FH Online"
+      },
+      {
+        "name": "mdd_VFInfoworld_CTA",
+        "label":"VF InforWorld"
+      },
+      {
+        "name": "mdd_customerBackofficeTool_CTA",
+        "label":"Customer Backoffice Tool"
+      },
+      {
+        "name": "mdd_WORE_CTA",
+        "label":"WOE business customers"
+      },
+      {
+        "name": "mdd_statistics_CTA",
+        "label":"Statistics"
+      },
+      {
+        "name": "mdd_userManager_CTA",
+        "label":"User Manager"
+      },
+      {
+        "name": "newCustomer_CTA"
+     },
+      {
+        "name": "ordersOverView_CTA"
+      },
+      {
+        "name": "customerSearch_CTA"
+      },
+      {
+        "name": "otelo_CTA"
+      },
+      {
+        "name": "kabelDE_CTA"
+      }
+    ]
+  }
+}

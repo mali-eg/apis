@@ -45,6 +45,8 @@ var routes = [].concat(
     require('./salesOrder_OrdersOverview_get/routes'),
     require('./salesOrder_orderLineItem_delete/routes'),
     require('./token/routes'),
+	// red plus
+    require('./subscription_sharing_group_get/routes'),
     // customer availability check
 	require('./availabilityCheck_GET/routes'),
 	// user account
@@ -71,6 +73,7 @@ var routes = [].concat(
 		require('./nba_get/routes'),
     // SSO dashboard redirection
     require('./securityToken_Federation_Authentication_GET/routes')
+
 );
 //console.log("routes:"+routes);
 module.exports = routes;

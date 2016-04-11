@@ -131,6 +131,24 @@
       },
       {
         "name": "addonSelection_mailbox-addon"
+      },
+      {
+       "name":"addonSelection_lastStep_CTA"
+      },
+      {
+        "name":"addonSelection_nextStep_CTA"
+      },
+      {
+        "name":"addonSelection_expressCheckout_CTA"
+      },
+      {
+        "name":"currentlyselectedTariff"
+      },
+      {
+        "name":"redPlusRole"
+      },
+      {
+        "name":"prepaidAddonMessage"
       }
     ],
     "containers": [
