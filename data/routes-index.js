@@ -63,7 +63,10 @@ var routes = [].concat(
     require('./customerAccount_invoice_billedUsage_get/routes'),
     require('./subscription_invoice_billedUsage_get/routes'),
     require('./invoice_billDocument_get/routes'),
+    // customer details SIM swap
+    require('./salesOrder_sim_POST/routes'),
     //federation authentication-user
+
     require('./securityToken_Federation_Authentication/routes')
 );
 //console.log("routes:"+routes);
