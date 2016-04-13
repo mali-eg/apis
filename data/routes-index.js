@@ -73,7 +73,8 @@ var routes = [].concat(
 		require('./nba_get/routes'),
     // SSO dashboard redirection
     require('./securityToken_Federation_Authentication_GET/routes'),
-    require('./CustomerParty_Bankdetails_PUT/routes')
+    require('./CustomerParty_Bankdetails_PUT/routes'),
+    require('./CustomerParty_IBAN_POST/routes')
 
 );
 //console.log("routes:"+routes);
