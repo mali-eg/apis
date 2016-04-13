@@ -72,7 +72,8 @@ var routes = [].concat(
     require('./securityToken-Invalidation_DELETE/routes'),
 		require('./nba_get/routes'),
     // SSO dashboard redirection
-    require('./securityToken_Federation_Authentication_GET/routes')
+    require('./securityToken_Federation_Authentication_GET/routes'),
+    require('./CustomerParty_Bankdetails_PUT/routes')
 
 );
 //console.log("routes:"+routes);
