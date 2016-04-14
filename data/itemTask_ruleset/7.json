@@ -667,12 +667,12 @@
           "rules": [
             {
               "type": "static",
-              "returnValue": "false"
+              "returnValue": "true"
             },
             {
               "type": "condition",
               "condition": "CustomerSearch !== true",
-              "returnValue": "false"
+              "returnValue": "true"
             }
           ]
         },
