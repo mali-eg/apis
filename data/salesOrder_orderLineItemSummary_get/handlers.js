@@ -13,7 +13,7 @@ Handlers.defaultHandler = function(request, reply){
         username = request.query.username;
     }
     var filePath = __dirname+"/"+username+".json";
-
+	
     reply(Util.getData(filePath));
 };
 

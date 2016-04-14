@@ -63,6 +63,131 @@
               "source": "CPO",
               "creationTime": "2015-01-16T19:01:20.701+01:00"
             }
+          },
+          {
+            "subscription": {
+              "chargeAmount": "10.99",
+              "unitOfMeasure": "EUR"
+            },
+            "billCycle": {
+              "startDate": "2014-12-01",
+              "endDate": "2015-01-01",
+              "billDate": "2014-12-01"
+            },
+            "due": {
+              "amount": "49.99",
+              "unitOfMeasure": "EUR",
+              "date": "2014-12-14"
+            },
+            "artifact": {
+              "onlineBillAvailable": true,
+              "id": "234234234234-adasd-324234-asdad-24",
+              "type": "Invoice",
+              "format": "PDF",
+              "description": "Invoice Document",
+              "source": "CPO",
+              "creationTime": "2015-01-16T19:01:20.701+01:00"
+            }
+          },
+          {
+            "subscription": {
+              "chargeAmount": "10.99",
+              "unitOfMeasure": "EUR"
+            },
+            "billCycle": {
+              "startDate": "2014-12-01",
+              "endDate": "2015-01-01",
+              "billDate": "2014-12-01"
+            },
+            "due": {
+              "amount": "49.99",
+              "unitOfMeasure": "EUR",
+              "date": "2014-12-14"
+            },
+            "artifact": {
+              "onlineBillAvailable": true,
+              "id": "234234234234-adasd-324234-asdad-24",
+              "type": "Invoice",
+              "format": "PDF",
+              "description": "Invoice Document",
+              "source": "CPO",
+              "creationTime": "2015-01-16T19:01:20.701+01:00"
+            }
+          },
+          {
+            "subscription": {
+              "chargeAmount": "10.99",
+              "unitOfMeasure": "EUR"
+            },
+            "billCycle": {
+              "startDate": "2014-12-01",
+              "endDate": "2015-01-01",
+              "billDate": "2014-12-01"
+            },
+            "due": {
+              "amount": "49.99",
+              "unitOfMeasure": "EUR",
+              "date": "2014-12-14"
+            },
+            "artifact": {
+              "onlineBillAvailable": true,
+              "id": "234234234234-adasd-324234-asdad-24",
+              "type": "Invoice",
+              "format": "PDF",
+              "description": "Invoice Document",
+              "source": "CPO",
+              "creationTime": "2015-01-16T19:01:20.701+01:00"
+            }
+          },
+          {
+            "subscription": {
+              "chargeAmount": "10.99",
+              "unitOfMeasure": "EUR"
+            },
+            "billCycle": {
+              "startDate": "2014-12-01",
+              "endDate": "2015-01-01",
+              "billDate": "2014-12-01"
+            },
+            "due": {
+              "amount": "49.99",
+              "unitOfMeasure": "EUR",
+              "date": "2014-12-14"
+            },
+            "artifact": {
+              "onlineBillAvailable": true,
+              "id": "234234234234-adasd-324234-asdad-24",
+              "type": "Invoice",
+              "format": "PDF",
+              "description": "Invoice Document",
+              "source": "CPO",
+              "creationTime": "2015-01-16T19:01:20.701+01:00"
+            }
+          },
+          {
+            "subscription": {
+              "chargeAmount": "10.99",
+              "unitOfMeasure": "EUR"
+            },
+            "billCycle": {
+              "startDate": "2014-12-01",
+              "endDate": "2015-01-01",
+              "billDate": "2014-12-01"
+            },
+            "due": {
+              "amount": "49.99",
+              "unitOfMeasure": "EUR",
+              "date": "2014-12-14"
+            },
+            "artifact": {
+              "onlineBillAvailable": true,
+              "id": "234234234234-adasd-324234-asdad-24",
+              "type": "Invoice",
+              "format": "PDF",
+              "description": "Invoice Document",
+              "source": "CPO",
+              "creationTime": "2015-01-16T19:01:20.701+01:00"
+            }
           }
         ]
       }

@@ -1,0 +1,36 @@
+{
+  "itemTaskVBO": {
+    "-xmlns": "http://group.vodafone.com/EnterpriseObjects/Core/VBO/BSS/Validation/ItemTasks/V1",
+    "entities": [
+      {
+        "name": "textBox1",
+        "label": "Normal textBox"
+      },
+      {
+        "name": "textBox2",
+        "label": "Disabled textBox"
+      },
+      {
+        "name": "textBox3",
+        "label": "Required textBox"
+      },
+      {
+        "name": "textBox4",
+        "label": "ReadOnly textBox"
+      },
+      {
+        "name": "textBox5",
+        "label": "Visible textBox"
+      },
+      {
+        "name": "textBox6",
+        "label": "Default textBox"
+      },
+      {
+        "name": "checkBox1",
+        "code": "chk1",
+        "label":"To Enable TextBox"
+      }
+    ]
+  }
+}

@@ -45,6 +45,8 @@ var routes = [].concat(
     require('./salesOrder_OrdersOverview_get/routes'),
     require('./salesOrder_orderLineItem_delete/routes'),
     require('./token/routes'),
+	// red plus
+    require('./subscription_sharing_group_get/routes'),
     // customer availability check
 	require('./availabilityCheck_GET/routes'),
 	// user account
@@ -66,8 +68,17 @@ var routes = [].concat(
     // customer details SIM swap
     require('./salesOrder_sim_POST/routes'),
     //federation authentication-user
+    require('./securityToken_Federation_Authentication/routes'),
+    require('./mTANVerification_federation/routes'),
+    //security token invalidation - logout
+    require('./securityToken-Invalidation_DELETE/routes'),
+		require('./nba_get/routes'),
+    // SSO dashboard redirection
+    require('./securityToken_Federation_Authentication_GET/routes'),
+    require('./CustomerParty_Bankdetails_PUT/routes'),
+    require('./CustomerParty_IBAN_POST/routes'),
+    require('./salesOrder_orderLineItemUpdate_POST/routes')
 
-    require('./securityToken_Federation_Authentication/routes')
 );
 //console.log("routes:"+routes);
 module.exports = routes;

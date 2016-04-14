@@ -6,7 +6,7 @@
         "accountId": "2400123",
         "type": "mobile",
         "marketCode": "MMC",
-        "balanceAmount": "133.20",
+        "balanceAmount": "-133.20",
         "unitOfMeasure": "EUR"
       },
       "channels": {
@@ -25,11 +25,11 @@
             "due": {
               "amount": "49.99",
               "unitOfMeasure": "EUR",
-              "date": "2015-01-01"
+              "date": "2016-01-01"
             },
             "artifact": {
               "onlineBillAvailable": true,
-              "id": "234234234234-adasd-324234-asdad-24",
+              "id": "234234234234",
               "type": "Invoice",
               "format": "PDF",
               "description": "Invoice Document",
@@ -44,18 +44,102 @@
               "billDate": "2014-12-01"
             },
             "due": {
-              "amount": "49.99",
+              "amount": "20.50",
+              "unitOfMeasure": "EUR",
+              "date": "2016-02-01"
+            },
+            "artifact": {
+              "onlineBillAvailable": true,
+              "id": "234234234234",
+              "type": "Invoice",
+              "format": "PDF",
+              "description": "Invoice Document",
+              "source": "CPO",
+              "creationTime": "2016-01-16T19:03:46.156+01:00"
+            }
+          },
+          {
+            "billCycle": {
+              "startDate": "2014-12-01",
+              "endDate": "2015-01-01",
+              "billDate": "2016-03-01"
+            },
+            "due": {
+              "amount": "100.40",
               "unitOfMeasure": "EUR",
               "date": "2014-12-14"
             },
             "artifact": {
               "onlineBillAvailable": true,
-              "id": "234234234234-adasd-324234-asdad-24",
+              "id": "234234234234",
               "type": "Invoice",
               "format": "PDF",
               "description": "Invoice Document",
               "source": "CPO",
-              "creationTime": "2015-01-16T19:03:46.156+01:00"
+              "creationTime": "2016-02-16T19:03:46.156+01:00"
+            }
+          },
+          {
+            "billCycle": {
+              "startDate": "2014-12-01",
+              "endDate": "2015-01-01",
+              "billDate": "2014-12-01"
+            },
+            "due": {
+              "amount": "60.99",
+              "unitOfMeasure": "EUR",
+              "date": "2016-04-01"
+            },
+            "artifact": {
+              "onlineBillAvailable": true,
+              "id": "234234234234",
+              "type": "Invoice",
+              "format": "PDF",
+              "description": "Invoice Document",
+              "source": "CPO",
+              "creationTime": "2016-03-16T19:03:46.156+01:00"
+            }
+          },
+          {
+            "billCycle": {
+              "startDate": "2014-12-01",
+              "endDate": "2015-01-01",
+              "billDate": "2014-12-01"
+            },
+            "due": {
+              "amount": "87.80",
+              "unitOfMeasure": "EUR",
+              "date": "2014-05-01"
+            },
+            "artifact": {
+              "onlineBillAvailable": true,
+              "id": "234234234234",
+              "type": "Invoice",
+              "format": "PDF",
+              "description": "Invoice Document",
+              "source": "CPO",
+              "creationTime": "2016-04-16T19:03:46.156+01:00"
+            }
+          },
+          {
+            "billCycle": {
+              "startDate": "2014-12-01",
+              "endDate": "2015-01-01",
+              "billDate": "2014-12-01"
+            },
+            "due": {
+              "amount": "91.30",
+              "unitOfMeasure": "EUR",
+              "date": "2014-07-01"
+            },
+            "artifact": {
+              "onlineBillAvailable": true,
+              "id": "234234234234",
+              "type": "Invoice",
+              "format": "PDF",
+              "description": "Invoice Document",
+              "source": "CPO",
+              "creationTime": "2016-06-16T19:03:46.156+01:00"
             }
           }
         ]

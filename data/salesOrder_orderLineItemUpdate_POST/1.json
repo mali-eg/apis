@@ -1,0 +1,14 @@
+{
+    "salesOrderVBO": {
+        "parts": {
+            "lineItems": [ 
+                {
+                    "type": "activation",
+                    "category": "pre-pay",
+                    "status": "draft",
+                    "lastModified": "2016-08-13T15:17:44",
+                }
+            ]
+        }
+    }
+} 

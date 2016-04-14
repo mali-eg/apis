@@ -43,6 +43,18 @@
               ],
               "product": [
                 {
+                  "specification": "hardware",
+                  "characteristicValue": [
+                    {
+                      "name": "iPhone 6s 64GB Space Grey",
+                      "value": "6543987654675431"
+                    }
+                  ]
+                },                                        {
+                  "specification": "accessories",
+                  "count": 2
+                },
+                {
                   "specification": "discount",
                   "count": 2
                 },
@@ -53,15 +65,6 @@
                 {
                   "specification": "tariff-addon",
                   "count": 2
-                },
-                {
-                  "specification": "sim-card",
-                  "characteristicValue": [
-                    {
-                      "name": "simSerialNumber",
-                      "value": "10120410200031"
-                    }
-                  ]
                 }
               ]
             }

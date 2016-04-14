@@ -1,0 +1,27 @@
+{
+  "itemTaskVBO": {
+    "-xmlns": "http://group.vodafone.com/EnterpriseObjects/Core/VBO/BSS/Validation/ItemTasks/V1",
+    "entities": [
+      {
+        "name": "newCustomer_CTA",
+        "label": "Neukunde"
+      },
+      {
+        "name": "ordersOverView_CTA",
+        "label": "Bestellübersicht"
+      },
+      {
+        "name": "customerSearch_CTA",
+        "label": "Kundensuche"
+      },
+      {
+        "name": "otelo_CTA",
+        "label": "Otelo"
+      },
+      {
+        "name": "kabelDE_CTA",
+        "label": "Kabel Deutschland"
+      }
+    ]
+  }
+}

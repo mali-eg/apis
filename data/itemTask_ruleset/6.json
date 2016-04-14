@@ -1,0 +1,594 @@
+{
+  "itemTaskVBO": {
+    "-xmlns": "http://group.vodafone.com/EnterpriseObjects/Core/VBO/BSS/Validation/ItemTasks/V1",
+    "items": [
+      {
+        "name": "Progressbar.HardwareSelection",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet != true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tariff_plan_REDS",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Postpaid != true",
+              "returnValue": "false"
+            },
+            {
+              "type": "rulebased",
+              "condition": "leading_product_filter_Smart == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tariff_plan_REDM",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Postpaid != true",
+              "returnValue": "false"
+            },
+            {
+              "type": "rulebased",
+              "condition": "leading_product_filter_Smart == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tariff_plan_REDL",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Postpaid != true",
+              "returnValue": "false"
+            },
+            {
+              "type": "rulebased",
+              "condition": "leading_product_filter_Smart == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tariff_plan_SMAR",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Postpaid != true",
+              "returnValue": "false"
+            },
+            {
+              "type": "rulebased",
+              "condition": "leading_product_filter_Red == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tariff_plan_CY",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Prepaid != true",
+              "returnValue": "false"
+            },
+            {
+              "type": "rulebased",
+              "condition": "leading_product_filter_Red == true || leading_product_filter_Data == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "package_FN123",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet != true",
+              "returnValue": "false"
+            },
+            {
+              "type": "rulebased",
+              "condition": "leading_product_filter_Red == true || leading_product_filter_Smart == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "simNumberInput",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "IMEIInput",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet != true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "promotion_STGH40",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "promotion_wqersdf",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Postpaid == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "discount_DSCT2",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Postpaid != true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Postpaid != true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Postpaid != true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "discount_DSCT3",
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Postpaid == true",
+              "returnValue": "false"
+            },
+            {
+              "type": "rulebased",
+              "condition": "discount_DSCT2 == true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Postpaid == true",
+              "returnValue": "false"
+            },
+            {
+              "type": "rulebased",
+              "condition": "discount_DSCT2 == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "data_addon_DADD1",
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "discount_DSCT1 == true"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "discount_DSCT1 == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "data_addon_DADD2",
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "data_addon_DADD1 == true || tariff_plan_REDS == true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "tariff_plan_REDS == true",
+              "returnValue": "false"
+            },
+            {
+              "type": "rulebased",
+              "condition": "data_addon_DADD1 == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "data_addon_DADD3",
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "data_addon_DADD1 == true",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "data_addon_DADD1 == true",
+              "returnValue": "true"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tariff_addon_internet_IADD2",
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "tariff_addon_internet_IADD1 == true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "tariff_addon_internet_IADD1 == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tariff_addon_internet_IADD3",
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "(tariff_addon_internet_IADD1 == true) || (tariff_addon_internet_IADD2 == true)"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "tariff_addon_internet_IADD1 == true",
+              "returnValue": "false"
+            },
+            {
+              "type": "rulebased",
+              "condition": "tariff_addon_internet_IADD2 == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tariff_addon_voice_VADD1",
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet == true",
+              "returnValue": "true"
+            },
+            {
+              "type": "rulebased",
+              "condition": "discount_DSCT2 == true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet == false",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet == true",
+              "returnValue": "true"
+            },
+            {
+              "type": "rulebased",
+              "condition": "discount_DSCT2 == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tariff_addon_voice_VADD2",
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet == true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tariff_addon_voice_VADD3",
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet != true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet != true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tariff_addon_tvoption_TVO1",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet != true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet != true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet != true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tariff_addon_tvoption_TVO2",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet != true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "tariff_addon_tvoption_TVO1 == true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "tariff_addon_tvoption_TVO1 == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tariff_addon_tvoption_TVO3",
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Fixednet != true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "tariff_addon_tvoption_TVO1 == true || tariff_addon_tvoption_TVO2 == true",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "tariff_addon_tvoption_TVO1 == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "lastStepCTA",
+        "editable": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "expressCheckoutCTA",
+        "editable": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "enabled": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "visible": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "(Matrix_Type_Postpaid == true) || (Matrix_Type_Prepaid == true)",
+              "returnValue": "true"
+            },
+            {
+              "type": "static",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "nextStepCTA",
+        "editable": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "(Matrix_Type_Postpaid == true) || (Matrix_Type_Prepaid == true) || (Matrix_Type_Fixednet == true)",
+              "returnValue": "true"
+            },
+            {
+              "type": "static",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Matrix_Case_ComfortPorting",
+        "enabled": {
+          "rules": [
+            {
+              "type": "rulebased",
+              "condition": "Matrix_Type_Postpaid == true",
+              "returnValue": "true"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

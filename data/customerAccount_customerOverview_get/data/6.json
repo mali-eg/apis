@@ -1,0 +1,10 @@
+{
+	"statusCode":500,
+    "faultMessage": {
+        "code": "NIL00T010",
+        "text": "Kein Kunde gefunden. Überprüfen Sie bitte Ihre Eingabe.",
+        "detailedText": null,
+        "severity": "E",
+        "type": "TechnicalError"
+    }
+}
