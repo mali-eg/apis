@@ -3,7 +3,7 @@
   "salesOrderVBO": [
     {
       "orderID": "674380550",
-      "status": "saved",
+      "status": "locked",
       "lastModified": "2015-12-23T00:51:55",
       "lastModifiedBy": "ePOS",
       "roles": {
