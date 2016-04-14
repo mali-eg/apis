@@ -1,0 +1,32 @@
+{
+    "postalContactPointVBO": [
+        {
+            "details": {
+                "accountId": "24001504",
+                "msisdn": "4915220450510",
+                "marketCode": "MMC"
+            },
+            "contactPoints": {
+                "contactPoint": [
+                    {
+                        "addressType": "SUBSCRIBER",
+                        "nameDetails": {
+                            "salutation": "Frau",
+                            "title": null,
+                            "firstName": "Mary",
+                            "lastName1": "Joshua",
+                            "lastName2": null
+                        },
+                        "addressDetails": {
+                            "street": "Hummelsbütteler Steindamm",
+                            "streetNumber": "78a",
+                            "postCode": "22851",
+                            "city": "Hamburg",
+                            "country": "Deutschland"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
