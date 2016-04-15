@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/api/SalesOrder_OrderUpdate_post',
+        path: '/api/SalesOrder_OrderUpdate_post/{ORDER_ID}',
         config: {
             handler: Handlers.defaultHandler,
             description: 'summaryData API',
