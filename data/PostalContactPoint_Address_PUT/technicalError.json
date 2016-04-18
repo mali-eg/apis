@@ -1,0 +1,9 @@
+{
+    "faultMessage": {
+        "code": "NIL00F701",
+        "text": "A Functional error occurred in PostalContactPoint - Address Object",
+        "detailedText": "BAN Not Found",
+        "severity": "E",
+        "type": "FunctionalError"
+    }
+}

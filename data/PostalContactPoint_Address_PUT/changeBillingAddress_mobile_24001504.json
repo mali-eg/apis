@@ -1,0 +1,31 @@
+{
+    "postalContactPointVBO": [
+        {
+            "details": {
+                "accountId": "24001504",
+                "marketCode": "MMC"
+            },
+            "contactPoints": {
+                "contactPoint": [
+                    {
+                        "addressType": "BILLING",
+                        "nameDetails": {
+                            "salutation": "Frau",
+                            "title": null,
+                            "firstName": "Mary",
+                            "lastName1": "Joshua",
+                            "lastName2": null
+                        },
+                        "addressDetails": {
+                            "street": "Hummelsbütteler Steindamm",
+                            "streetNumber": "78a",
+                            "postCode": "22851",
+                            "city": "Hamburg",
+                            "country": "Deutschland"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
