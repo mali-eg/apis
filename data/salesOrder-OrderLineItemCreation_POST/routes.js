@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/api/salesOrder-OrderLineItemCreation_POST',
+        path: '/api/order/sales-orders/contracts/{ORDER_ID}/lineitems',
         config: {
             handler: Handlers.defaultHandler,
             description: 'orderCreation API',
