@@ -5,7 +5,7 @@ Handlers.defaultHandler = function(request, reply){
     // vars
      //var orderId = request.query.orderId;
     //var orderLineItemId = request.query.orderLineItemId;
-    var filePath = __dirname+"/"+1+".json";
+    var filePath = __dirname+"/"+'1'+".json";
 
     reply(Util.getData(filePath));
 };
