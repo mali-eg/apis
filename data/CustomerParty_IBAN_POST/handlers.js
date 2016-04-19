@@ -5,7 +5,7 @@ Handlers.defaultHandler = function(request, reply){
 
     var payload = request.payload;
     payload.customerPartyVBO[0].paymentMethod.bank.bic = 'xyz4712';
-	payload.customerPartyVBO[0].paymentMethod.bank.bankName = 'changed bank name';
+	payload.customerPartyVBO[0].paymentMethod.bank.bankName = 'new bank name';
 
     reply(payload); //send back completed data
 };
