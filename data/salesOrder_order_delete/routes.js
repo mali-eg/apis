@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'DELETE',
-        path: '/api/salesOrder_order_delete',
+        path: '/api/order/sales-orders/contracts/{ORDER_ID}',
         config: {
             handler: Handlers.defaultHandler,
             description: 'shoppingCart API',
