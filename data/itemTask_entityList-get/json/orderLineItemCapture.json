@@ -27,55 +27,46 @@
       },
       {
         "name": "matrix_Type_Prepaid",
-        "label": "Prepaid",
-        "code": "pre-pay",
+        "code": "pre_pay",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "matrix_Type_Postpaid",
-        "label": "Postpaid",
-        "code": "post-pay",
+        "code": "post_pay",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "matrix_Type_Fixednet",
-        "label": "Fixednet",
         "code": "fixednet",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "matrix_Category_Activation",
-        "label": "Activation",
         "code": "activation",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "matrix_Category_Comfort_Porting",
-        "label": "Comfortporting",
         "code": "comfortporting",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "matrix_Category_Normal_Porting",
-        "label": "NormalPorting",
         "code": "normalporting",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "matrix_Customer_Type_Private",
-        "label": "Private",
         "code": "private",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "matrix_Customer_Type_SOHO",
-        "label": "Soho",
         "code": "soho",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
       {
         "name": "matrix_Customer_Type_Business",
-        "label": "Business",
         "code": "business",
         "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[*].category"
       },
@@ -85,7 +76,7 @@
       },
       {
         "name": "simNumberInput",
-        "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"sim-card\")].characteristicValue[?(@==\"simSerialNumber\")]"
+        "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"sim_card\")].characteristicValue[?(@==\"simSerialNumber\")]"
       },
       {
         "name": "IMEIInput",
@@ -108,28 +99,28 @@
         "name": "addonSelection_showAll_CTA"
       },
       {
-        "name": "addonSelection_security-package"
+        "name": "addonSelection_security_package"
       },
       {
-        "name": "addonSelection_tariff_addon-voice"
+        "name": "addonSelection_tariff_addon_voice"
       },
       {
         "name": "addonSelection_international"
       },
       {
-        "name": "addonSelection_tariff_addon-tvoption"
+        "name": "addonSelection_tariff_addon_tvoption"
       },
       {
-        "name": "addonSelection_call-restrictions"
+        "name": "addonSelection_call_restrictions"
       },
       {
-        "name": "addonSelection_further-addon"
+        "name": "addonSelection_further_addon"
       },
       {
-        "name": "addonSelection_data-addon"
+        "name": "addonSelection_data_addon"
       },
       {
-        "name": "addonSelection_mailbox-addon"
+        "name": "addonSelection_mailbox_addon"
       },
       {
         "name": "addonSelection_lastStep_CTA"
@@ -150,215 +141,171 @@
         "name": "prepaidAddonMessage"
       },
       {
-        "name": "addonSelection_lastStep_CTA",
-        "path": null
-      },
-      {
-        "name": "addonSelection_nextStep_CTA",
-        "path": null
-      },
-      {
-        "name": "addonSelection_expressCheckout_CTA",
-        "path": null
-      },
-      {
         "name": "addonSelection_showAll_CTA",
-        "path": null
-      },
-      {
-        "name": "addonSelection_mailbox-addon",
-        "path": null
-      },
-      {
-        "name": "addonSelection_call-restrictions",
-        "path": null
-      },
-      {
-        "name": "addonSelection_further-addon",
-        "path": null
-      },
-      {
-        "name": "addonSelection_data-addon",
         "path": null
       }
     ],
     "containers": [
       {
-        "name": "mailbox-addon",
+        "name": "call_restrictions",
         "type": "dynamic",
         "entities": [
           {
-            "name": "mailbox-addon_MAILBOXZH",
-            "code": "MAILBOXZH",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"mailbox-addon\\\")]"
-          },
-          {
-            "name": "mailbox-addon_MAILBOX",
-            "code": "MAILBOX",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"mailbox-addon\\\")]"
-          }
-        ]
-      },
-      {
-        "name": "call-restrictions",
-        "type": "dynamic",
-        "entities": [
-          {
-            "name": "call-restrictions_SO_ARCABG",
+            "name": "call_restrictions_SO_ARCABG",
             "code": "SO_ARCABG",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"call-restrictions\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"call_restrictions\\\")]"
           },
           {
-            "name": "call-restrictions_SO_SO",
+            "name": "call_restrictions_SO_SO",
             "code": "SO_SO",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"call-restrictions\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"call_restrictions\\\")]"
           }
         ]
       },
       {
-        "name": "further-addon",
+        "name": "further_addon",
         "type": "dynamic",
         "entities": [
           {
-            "name": "further-addon_SMS_150",
+            "name": "further_addon_SMS_150",
             "code": "SMS_150",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further_addon\\\")]"
           },
           {
-            "name": "further-addon_VFZHMFL24",
+            "name": "further_addon_VFZHMFL24",
             "code": "VFZHMFL24",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further_addon\\\")]"
           },
           {
-            "name": "further-addon_HAPPYZH_1",
+            "name": "further_addon_HAPPYZH_1",
             "code": "HAPPYZH_1",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further_addon\\\")]"
           },
           {
-            "name": "further-addon_UNIVERSNR",
+            "name": "further_addon_UNIVERSNR",
             "code": "UNIVERSNR",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further_addon\\\")]"
           },
           {
-            "name": "further-addon_PWINMEUI",
+            "name": "further_addon_PWINMEUI",
             "code": "PWINMEUI",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further_addon\\\")]"
           },
           {
-            "name": "further-addon_VF_WDATA",
+            "name": "further_addon_VF_WDATA",
             "code": "VF_WDATA",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further_addon\\\")]"
           },
           {
-            "name": "further-addon_TAKESMS",
+            "name": "further_addon_TAKESMS",
             "code": "TAKESMS",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further_addon\\\")]"
           },
           {
-            "name": "further-addon_U_SMS100",
+            "name": "further_addon_U_SMS100",
             "code": "U_SMS100",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further_addon\\\")]"
           },
           {
-            "name": "further-addon_SMS_050",
+            "name": "further_addon_SMS_050",
             "code": "SMS_050",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further_addon\\\")]"
           },
           {
-            "name": "further-addon_SYNC_FLAT",
+            "name": "further_addon_SYNC_FLAT",
             "code": "SYNC_FLAT",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further_addon\\\")]"
           },
           {
-            "name": "further-addon_HAPPYZH_2",
+            "name": "further_addon_HAPPYZH_2",
             "code": "HAPPYZH_2",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"further_addon\\\")]"
           }
         ]
       },
       {
-        "name": "data-addon",
+        "name": "data_addon",
         "type": "dynamic",
         "entities": [
           {
-            "name": "data-addon_TAKEHSCSD",
+            "name": "data_addon_TAKEHSCSD",
             "code": "TAKEHSCSD",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data_addon\\\")]"
           },
           {
-            "name": "data-addon_PAN_XL",
+            "name": "data_addon_PAN_XL",
             "code": "PAN_XL",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data_addon\\\")]"
           },
           {
-            "name": "data-addon_3UMTS_BT",
+            "name": "data_addon_3UMTS_BT",
             "code": "3UMTS_BT",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data_addon\\\")]"
           },
           {
-            "name": "data-addon_UMTS_3GSO",
+            "name": "data_addon_UMTS_3GSO",
             "code": "UMTS_3GSO",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data_addon\\\")]"
           },
           {
-            "name": "data-addon_HLIVE_03",
+            "name": "data_addon_HLIVE_03",
             "code": "HLIVE_03",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data_addon\\\")]"
           },
           {
-            "name": "data-addon_24MCR150W",
+            "name": "data_addon_24MCR150W",
             "code": "24MCR150W",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data_addon\\\")]"
           },
           {
-            "name": "data-addon_24NAVPD",
+            "name": "data_addon_24NAVPD",
             "code": "24NAVPD",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data_addon\\\")]"
           },
           {
-            "name": "data-addon_24UMTS_I2",
+            "name": "data_addon_24UMTS_I2",
             "code": "24UMTS_I2",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data_addon\\\")]"
           },
           {
-            "name": "data-addon_ZARADMALL",
+            "name": "data_addon_ZARADMALL",
             "code": "ZARADMALL",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data_addon\\\")]"
           },
           {
-            "name": "data-addon_24GPRWME1",
+            "name": "data_addon_24GPRWME1",
             "code": "24GPRWME1",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data_addon\\\")]"
           },
           {
-            "name": "data-addon_24MCR15EU",
+            "name": "data_addon_24MCR15EU",
             "code": "24MCR15EU",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data_addon\\\")]"
           },
           {
-            "name": "data-addon_ZARUMT_V3",
+            "name": "data_addon_ZARUMT_V3",
             "code": "ZARUMT_V3",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data_addon\\\")]"
           },
           {
-            "name": "data-addon_ZARADMARC",
+            "name": "data_addon_ZARADMARC",
             "code": "ZARADMARC",
-            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data-addon\\\")]"
+            "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\\\"data_addon\\\")]"
           }
         ]
       },
       {
         "type": "dynamic",
-        "name": "leading-product-filter",
+        "name": "leading_product_filter",
         "entities": [
           {
-            "name": "leading-product-filter_Red"
+            "name": "leading_product_filter_Red"
           },
           {
-            "name": "leading-product-filter_Data"
+            "name": "leading_product_filter_Data"
           },
           {
-            "name": "leading-product-filter_Smart"
+            "name": "leading_product_filter_Smart"
           }
         ]
       },
@@ -446,20 +393,20 @@
       },
       {
         "type": "dynamic",
-        "name": "security-package",
+        "name": "security_package",
         "entities": [
           {
-            "name": "security-addon-DADD1",
+            "name": "security_addon_DADD1",
             "code": "securityDADD1",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           },
           {
-            "name": "security-addon-DADD2",
+            "name": "security_addon_DADD2",
             "code": "securityDADD2",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           },
           {
-            "name": "security-addon-DADD3",
+            "name": "security_addon_DADD3",
             "code": "securityDADD3",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           }
@@ -467,20 +414,20 @@
       },
       {
         "type": "dynamic",
-        "name": "tariff_addon-voice",
+        "name": "tariff_addon_voice",
         "entities": [
           {
-            "name": "tariff_addon-voice_IADD1",
+            "name": "tariff_addon_voice_IADD1",
             "code": "voiceIADD1",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           },
           {
-            "name": "tariff_addon-voice_IADD2",
+            "name": "tariff_addon_voice_IADD2",
             "code": "voiceIADD2",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           },
           {
-            "name": "tariff_addon-voice_IADD3",
+            "name": "tariff_addon_voice_IADD3",
             "code": "voiceIADD3",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           }
@@ -509,20 +456,20 @@
       },
       {
         "type": "dynamic",
-        "name": "tariff_addon-tvoption",
+        "name": "tariff_addon_tvoption",
         "entities": [
           {
-            "name": "tariff_addon-tvoption_TVO1",
+            "name": "tariff_addon_tvoption_TVO1",
             "code": "TVO1",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           },
           {
-            "name": "tariff_addon-tvoption_TVO2",
+            "name": "tariff_addon_tvoption_TVO2",
             "code": "TVO2",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           },
           {
-            "name": "tariff_addon-tvoption_TVO3",
+            "name": "tariff_addon_tvoption_TVO3",
             "code": "TVO3",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           }
@@ -530,7 +477,7 @@
       },
       {
         "type": "dynamic",
-        "name": "mailbox-addon",
+        "name": "mailbox_addon",
         "entities": [
           {
             "name": "mailbox_TVO1",
@@ -551,20 +498,20 @@
       },
       {
         "type": "dynamic",
-        "name": "call-restrictions",
+        "name": "call_restrictions",
         "entities": [
           {
-            "name": "call-restrictions_TVO1",
+            "name": "call_restrictions_TVO1",
             "code": "callTVO1",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           },
           {
-            "name": "call-restrictions_TVO2",
+            "name": "call_restrictions_TVO2",
             "code": "callTVO2",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           },
           {
-            "name": "call-restrictions_TVO3",
+            "name": "call_restrictions_TVO3",
             "code": "callTVO3",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           }
@@ -572,20 +519,20 @@
       },
       {
         "type": "dynamic",
-        "name": "further-addon",
+        "name": "further_addon",
         "entities": [
           {
-            "name": "further-addon_TVO1",
+            "name": "further_addon_TVO1",
             "code": "furtherTVO1",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           },
           {
-            "name": "further-addon_TVO2",
+            "name": "further_addon_TVO2",
             "code": "furtherTVO2",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           },
           {
-            "name": "further-addon_TVO3",
+            "name": "further_addon_TVO3",
             "code": "furtherTVO3",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           }
@@ -593,20 +540,20 @@
       },
       {
         "type": "dynamic",
-        "name": "data-addon",
+        "name": "data_addon",
         "entities": [
           {
-            "name": "data-addon_TVO1",
+            "name": "data_addon_TVO1",
             "code": "dataTVO1",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           },
           {
-            "name": "data-addon_TVO2",
+            "name": "data_addon_TVO2",
             "code": "dataTVO2",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           },
           {
-            "name": "data-addon_TVO3",
+            "name": "data_addon_TVO3",
             "code": "dataTVO3",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           }
@@ -614,20 +561,20 @@
       },
       {
         "type": "dynamic",
-        "name": "hidden-socs",
+        "name": "hidden_socs",
         "entities": [
           {
-            "name": "security-addon-DADD1",
+            "name": "security_addon_DADD1",
             "code": "securityDADD1",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           },
           {
-            "name": "security-addon-DADD2",
+            "name": "security_addon_DADD2",
             "code": "securityDADD2",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           },
           {
-            "name": "security-addon-DADD3",
+            "name": "security_addon_DADD3",
             "code": "securityDADD3",
             "path": "$.salesOrderVBO[*].parts.lineItems[*].productOffering.product[?(@.specification==\"tariff_addon\")]"
           }
