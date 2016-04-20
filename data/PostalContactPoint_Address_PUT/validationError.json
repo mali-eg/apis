@@ -1,7 +1,7 @@
 {
     "faultMessage": {
-        "code": "NIL00V301",
-        "text": "A Validation error occurred in CustomerParty – BankDetails Object",
+        "code": "NIL00V701",
+        "text": "A Validation error occurred in PostalContactPoint - Address Object",
         "detailedText": null,
         "severity": "E",
         "type": "ValidationError",
@@ -9,10 +9,6 @@
             "VAL00003": {
                 "text": "Invalid account-id, does not match the valid BAN format",
                 "key": "account-id"
-            },
-            "VAL00006": {
-                "text": "Invalid market-code, only MMC market or MMO market allowed",
-                "key": "market-code"
             }
         }
     }

@@ -1,0 +1,16 @@
+{
+  "statusCode": 400,
+  "faultMessage":{
+    "code":"NIL00V303",
+    "text":"A Validation error occurred in CustomerParty Bank Details Object",
+    "detailedText":null,
+    "severity":"E",
+    "type":"ValidationError",
+    "original":{
+      "VAL00003":{
+        "text":"Invalid account-id, does not match the valid BAN format",
+        "key":"accountId"
+      }
+    }
+  }
+}

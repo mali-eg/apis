@@ -9,25 +9,6 @@
         "businessRights": [
           "test1",
           "test2"
-        ],
-        "voIDList": [
-          {
-            "voID": 12345678,
-            "voDescription": "Blue VO",
-            "voNumber": 87654321,
-            "salesChannelRights": [
-              "Activation",
-              "Porting"
-            ]
-          },
-          {
-            "voID": 12345679,
-            "voDescription": "Blue VO",
-            "voNumber": 87654322,
-            "salesChannelRights": [
-              "Porting"
-            ]
-          }
         ]
       },
 
@@ -41,8 +22,8 @@
         "lastName":"FE lastname37",
         "lastLoginDate":"2016-02-03T11:37:27.108+01:00",
         "primaryEmail":"vf.user37@vodafone.com",
-        "mTanPhoneNumber":"015201849655",
-        "defaultVoID":"20011406"
+        "mTanPhoneNumber":"015201849655"
+
       },
       "availableShops": [
         {

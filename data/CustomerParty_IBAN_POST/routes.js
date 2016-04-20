@@ -3,7 +3,7 @@ var Handlers = require('./handlers');
 var routes = [
     {
         method: 'POST',
-        path: '/api/customer/customer-parties/bank/iban',
+        path: '/api/pos-customer-party/bank/iban',
         config: {
             handler: Handlers.defaultHandler,
             description: 'validate given IBAN and add the valid BIC',
