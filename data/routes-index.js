@@ -76,7 +76,9 @@ var routes = [].concat(
     require('./PostalContactPoint_Address_PUT/routes'),
     require('./CustomerParty_Bankdetails_PUT/routes'),
     require('./CustomerParty_IBAN_POST/routes'),
-    require('./salesOrder_orderLineItemUpdate_POST/routes')
+    require('./salesOrder_orderLineItemUpdate_POST/routes'),
+    // SIM swap
+    require('./salesOrders_order_sim_POST/routes')
 
 );
 //console.log("routes:"+routes);
