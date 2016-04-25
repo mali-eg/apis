@@ -74,6 +74,7 @@ var routes = [].concat(
     // SSO dashboard redirection
     require('./securityToken_Federation_Authentication_GET/routes'),
     require('./PostalContactPoint_Address_PUT/routes'),
+    require('./PostalContactPoint_ContactData_PUT/routes'),
     require('./CustomerParty_Bankdetails_PUT/routes'),
     require('./CustomerParty_IBAN_POST/routes'),
     require('./salesOrder_orderLineItemUpdate_POST/routes')

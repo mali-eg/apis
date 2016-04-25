@@ -1,0 +1,27 @@
+{
+    "postalContactPointVBO":[
+        {
+            "details":{
+                "accountId":"114",
+                "marketCode":"MMC"
+            },
+            "contactPoints":{
+                "contactPoint":[
+                    {
+                        "contactMedium":{
+                            "contactName":"Peter",
+                            "contactType":"CONTACT",
+                            "fixedNetPhoneNumber":"491722366100",
+                            "mobilePhoneNumber":"491722366100",
+                            "faxNumber":"49722366101",
+                            "emailAddress":"123abcd@vodafone.com",
+                            "emailValidationStatus":"VALIDATED",
+                            "emailValidationDate": "2012-05-30T09:30:10.5",
+                            "emailBounceReasonCode":null
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

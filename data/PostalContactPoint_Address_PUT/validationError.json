@@ -1,4 +1,5 @@
 {
+    "statusCode": 400,
     "faultMessage": {
         "code": "NIL00V701",
         "text": "A Validation error occurred in PostalContactPoint - Address Object",
