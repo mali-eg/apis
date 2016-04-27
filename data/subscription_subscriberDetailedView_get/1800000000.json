@@ -1,0 +1,223 @@
+{
+    "subscriptionVBO": {
+        "accountId": "1800000000",
+        "type": "fixednet",
+        "subscriptions": [
+            {
+                "details": {
+                    "status": "active",
+                    "technology": "ADSL"
+                },
+                "contractDetails": {
+                    "startDate": "2014-01-01",
+                    "endDate": "2016-01-01",
+                    "purchaseDate": "2014-01-01",
+                    "duration": 24
+                },
+                "customerProduct": {
+                    "tariffDetails": {
+                        "name": "VF DSL Classic Paket Regio 16000 KomfA 08/10",
+                        "code": "YR046",
+                        "description": "VF DSL Classic Paket Regio 16000 KomfA 08/10",
+                        "type": "package",
+                        "relatedSubscriptions": [
+                            {
+                                "name": "Festnetz Flat",
+                                "code": "voice",
+                                "productPriceName": "YP016",
+                                "productPriceType": "V0002",
+                                "specification": "tariff-voice",
+                                "connectionType": "comfortClassic",
+                                "multimediaPort": "IPTV_BASIC"
+                            },
+                            {
+                                "name": "DSL Flat",
+                                "code": "internetFlat",
+                                "productPriceName": "YI021",
+                                "productPriceType": "I1100",
+                                "specification": "tariff-internet",
+                                "bandwidthCode": "V0178"
+                            },
+                            {
+                                "name": "TV Basic",
+                                "code": "centerTV",
+                                "productPriceName": "Y1301",
+                                "productPriceType": "I1305",
+                                "specification": "tariff-tvoption",
+                                "minimumContractDuration": 24
+                            },
+                            {
+                                "name": "Sicherheitspaket (Optional)",
+                                "code": "security",
+                                "productPriceName": "YI412",
+                                "productPriceType": "I1410",
+                                "specification": "security-package",
+                                "minimumContractDuration": 12
+                            },
+                            {
+                                "name": "Techniker-Service",
+                                "code": "installation"
+                            },
+                            {
+                                "name": "DSL-EasyBox 802 WLAN ISDN",
+                                "code": "20082583",
+                                "type": "IAD",
+                                "specification": "fn-hardware",
+                                "subventionIndicator": true
+                            },
+                            {
+                                "name": "Vodafone Speed-Modem 200",
+                                "code": "20080380",
+                                "type": "modem",
+                                "specification": "fn-hardware",
+                                "subventionIndicator": true
+                            },
+                            {
+                                "name": "Arcor Digital-TV",
+                                "code": "ABCDE",
+                                "productPriceName": "ABCDE",
+                                "productPriceType": "I1410",
+                                "specification": "container"
+                            },
+                            {
+                                "name": "Arcor Online-Videothek",
+                                "code": "ABCDE",
+                                "productPriceName": "ABCDE",
+                                "productPriceType": "I1304",
+                                "specification": "container"
+                            }
+                        ]
+                    },
+                    "tariffOptionDetails": [
+                        {
+                            "name": "Vodafone International Voice",
+                            "code": "V2301",
+                            "type": "vodafoneInternational",
+                            "specification": "tariff-addon-voice"
+                        },
+                        {
+                            "name": "Vodafone International Voice",
+                            "code": "V2289",
+                            "type": "vodafoneInternational",
+                            "specification": "tariff-addon-voice"
+                        },
+                        {
+                            "name": "Charging Options Voice",
+                            "code": "V0293",
+                            "type": "chargingOptions",
+                            "specification": "tariff-addon-voice"
+                        },
+                        {
+                            "name": "Vodafone International Voice",
+                            "code": "V0298",
+                            "type": "chargingOptions",
+                            "specification": "tariff-addon-voice"
+                        },
+                        {
+                            "name": "Charging Options TV",
+                            "code": "I1351",
+                            "type": "chargingOptions",
+                            "specification": "tariff-addon-tvoption"
+                        },
+                        {
+                            "name": "Charging Options TV",
+                            "code": "I1354",
+                            "type": "chargingOptions",
+                            "specification": "tariff-addon-tvoption"
+                        }
+                    ]
+                },
+                "callSettingsDetails": [
+                    {
+                        "code": "block0900",
+                        "isEnabled": false
+                    },
+                    {
+                        "code": "blockForeignCountry",
+                        "isEnabled": false
+                    },
+                    {
+                        "code": "blockNonEU",
+                        "isEnabled": false
+                    }
+                ],
+                "services": {
+                    "hasAddressBook": true
+                },
+                "preferences": {
+                    "advertisingIndicator": true,
+                    "personalDataEvalIndicator": false,
+                    "marketingUsePhoneIndicator": false
+                },
+                "installationSite": {
+                    "address": {
+                        "type": "INSTALLATION",
+                        "street": "Remscheider Straße",
+                        "streetNumber": "85b",
+                        "postCode": "51103",
+                        "city": "Köln"
+                    },
+                    "appartmentHouse": {
+                        "details": "epic mount",
+                        "houseType": "Einfamilienhause",
+                        "entranceLocation": "front",
+                        "appartmentLocation": "In The Kitchen",
+                        "floor": "2"
+                    },
+                    "accessOwner": [
+                        {
+                            "individual": {
+                                "salutation": "Herr",
+                                "firstName": "Peter",
+                                "familyName": "Peterson"
+                            },
+                            "address": {
+                                "street": "Remscheider Straße",
+                                "streetNumber": "85",
+                                "streetNumberSuffix": "b",
+                                "postCode": "51103",
+                                "city": "Köln"
+                            }
+                        },
+                        {
+                            "individual": {
+                                "salutation": "Herr",
+                                "firstName": "Peter",
+                                "familyName": "Willams"
+                            },
+                            "address": {
+                                "street": "Remscheider Straße",
+                                "streetNumber": "87",
+                                "streetNumberSuffix": "b",
+                                "postCode": "51103",
+                                "city": "Köln"
+                            }
+                        }
+                    ]
+                },
+                "accessNumbers": {
+                    "mainPhoneNumber": {
+                        "localAreaCode": "221",
+                        "subscriberNumber": "2601156"
+                    },
+                    "additionalNumbers": [
+                        {
+                            "localAreaCode": "221",
+                            "subscriberNumber": "2601157"
+                        },
+                        {
+                            "localAreaCode": "221",
+                            "subscriberNumber": "2601158"
+                        },
+                        {
+                            "localAreaCode": "221",
+                            "subscriberNumber": "2601159"
+                        }
+                    ],
+                    "keepExistingVoIPNumbers": true
+                }
+            }
+        ]
+    }
+}
+
