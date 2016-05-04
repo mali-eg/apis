@@ -27,9 +27,21 @@
         "label": "Default textBox"
       },
       {
-        "name": "checkBox1",
+        "name": "checkbox00",
+        "code": "ck0"
+      },
+      {
+        "name": "checkbox01",
         "code": "chk1",
-        "label":"To Enable TextBox"
+        "label": "To Enable TextBox"
+      },
+      {
+        "name": "checkbox02",
+        "code": "ck2"
+      },
+      {
+        "name": "checkbox03",
+        "code": "ck03"
       }
     ]
   }

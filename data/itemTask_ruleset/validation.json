@@ -1,0 +1,53 @@
+{
+  "itemTaskVBO": {
+    "-xmlns": "http://group_vodafone_com/EnterpriseObjects/Core/VBO/BSS/Validation/ItemTasks/V1",
+    "items": [
+      {
+        "name": "checkbox00",
+        "enabled": {
+          "rules": [
+            {
+              "type": "conditionBased",
+              "condition": "checkbox01 == true",
+              "returnValue": "false"
+            },
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "visible": {
+          "rules": [
+            {
+              "type": "conditionBased",
+              "condition": "checkbox02 == true",
+              "returnValue": "false"
+            },
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "conditionBased",
+              "condition": "checkbox03 == true",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "selectDefault": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
