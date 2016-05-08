@@ -47,6 +47,86 @@
             }
           ]
         }
+      },
+      {
+        "name": "checbox_validation_test_1",
+        "enabled": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "visible": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "select": {
+          "rules": []
+        },
+        "selectDefault": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "checbox_validation_test_2",
+        "enabled": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "visible": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "select": {
+          "rules": []
+        },
+        "selectDefault": {
+          "rules": []
+        }
+      },
+      {
+        "name": "checbox_validation_test_3",
+        "enabled": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "visible": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "select": {
+          "rules": []
+        },
+        "selectDefault": {
+          "rules": []
+        }
       }
     ]
   }

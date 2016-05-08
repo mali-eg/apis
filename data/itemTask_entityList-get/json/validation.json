@@ -43,6 +43,29 @@
         "name": "checkbox03",
         "code": "ck03"
       }
+    ],
+    "containers": [
+      {
+        "type": "dynamic",
+        "name": "tst_checkbox_cntr_1",
+        "entities": [
+          {
+            "name": "checbox_validation_test_1",
+            "code": "chkValidationTst1",
+            "path": ""
+          },
+          {
+            "name": "checbox_validation_test_2",
+            "code": "chkValidationTst2",
+            "path": ""
+          },
+          {
+            "name": "checbox_validation_test_3",
+            "code": "chkValidationTst3",
+            "path": ""
+          }
+        ]
+      }
     ]
   }
 }
