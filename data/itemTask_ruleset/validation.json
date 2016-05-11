@@ -152,12 +152,7 @@
           "rules": []
         },
         "selectDefault": {
-          "rules": [
-            {
-              "type": "static",
-              "returnValue": "false"
-            }
-          ]
+          "rules": []
         }
       },
       {

@@ -65,6 +65,27 @@
             "path": ""
           }
         ]
+      },
+      {
+        "type": "dynamic",
+        "name": "tst_radiobutton_cntr_1",
+        "entities": [
+          {
+            "name": "radiobutton_validation_test_1",
+            "code": "radValidationTst1",
+            "path": ""
+          },
+          {
+            "name": "radiobutton_validation_test_2",
+            "code": "radValidationTst2",
+            "path": ""
+          },
+          {
+            "name": "radiobutton_validation_test_3",
+            "code": "radValidationTst3",
+            "path": ""
+          }
+        ]
       }
     ]
   }
