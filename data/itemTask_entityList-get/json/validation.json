@@ -3,28 +3,28 @@
     "-xmlns": "http://group.vodafone.com/EnterpriseObjects/Core/VBO/BSS/Validation/ItemTasks/V1",
     "entities": [
       {
-        "name": "textBox1",
-        "label": "Normal textBox"
+        "name": "textbox00",
+        "code": "tb00"
       },
       {
-        "name": "textBox2",
-        "label": "Disabled textBox"
+        "name": "textbox1",
+        "code": "tb01"
       },
       {
-        "name": "textBox3",
-        "label": "Required textBox"
+        "name": "textbox2",
+        "code": "tb02"
       },
       {
-        "name": "textBox4",
-        "label": "ReadOnly textBox"
+        "name": "textbox3",
+        "code": "tb03"
       },
       {
-        "name": "textBox5",
-        "label": "Visible textBox"
+        "name": "textbox4",
+        "code": "tb04"
       },
       {
-        "name": "textBox6",
-        "label": "Default textBox"
+        "name": "textbox5",
+        "code": "tb04"
       },
       {
         "name": "checkbox00",

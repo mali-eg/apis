@@ -49,12 +49,94 @@
         }
       },
       {
+        "name": "textbox00",
+        "enabled": {
+          "rules": [
+            {
+              "type": "conditionBased",
+              "condition": "textbox1 == 'no'",
+              "returnValue": "false"
+            },
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "visible": {
+          "rules": [
+            {
+              "type": "conditionBased",
+              "condition": "textbox2 == 'no'",
+              "returnValue": "false"
+            },
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "mandatory": {
+          "rules": [
+            {
+              "type": "conditionBased",
+              "condition": "textbox3 == 'yes'",
+              "returnValue": "true"
+            },
+            {
+              "type": "static",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "validate": {
+          "rules": [
+            {
+              "type": "regex",
+              "regex": "([A-Z])\\w+",
+              "returnValue": "false",
+              "messageKey":"validate message key",
+              "messageType":"negativeInfo"
+            }
+          ]
+        },
+        "validateOnTab": {
+          "rules": [
+            {
+              "type": "regex",
+              "regex": "([A-Z])\\w+",
+              "returnValue": "false",
+              "messageKey":"validate message key",
+              "messageType":"negativeInfo"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "conditionBased",
+              "condition": "checbox_validation_test_3 == true",
+              "returnValue": "data from the validation"
+            }
+          ]
+        },
+        "selectDefault": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "select default string"
+            }
+          ]
+        }
+      },
+      {
         "name": "checbox_validation_test_1",
         "enabled": {
           "rules": [
             {
-              "type": "static",
-              "returnValue": "true"
+              "type": "conditionBased",
+              "condition": "checbox_validation_test_2",
+              "returnValue": "false"
             }
           ]
         },
