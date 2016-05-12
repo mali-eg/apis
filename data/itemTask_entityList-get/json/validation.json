@@ -27,21 +27,36 @@
         "code": "tb04"
       },
       {
-        "name": "checkbox00",
-        "code": "ck0"
+        "name": "tst_checkbox_1",
+        "code": "chkStaticValidationTst1"
       },
       {
-        "name": "checkbox01",
-        "code": "chk1",
-        "label": "To Enable TextBox"
+        "name": "tst_checkbox_2",
+        "code": "chkStaticValidationTst2"
       },
       {
-        "name": "checkbox02",
-        "code": "ck2"
+        "name": "tst_radiobutton_1",
+        "code": "tst_static_radiobutton_1"
       },
       {
-        "name": "checkbox03",
-        "code": "ck03"
+        "name": "tst_radiobutton_2",
+        "code": "tst_static_radiobutton_2"
+      },
+      {
+        "name": "tst_span_1",
+        "code": "tst_static_span_1"
+      },
+      {
+        "name": "tst_span_2",
+        "code": "tst_static_span_2"
+      },
+      {
+        "name": "tst_link_1",
+        "code": "tst_static_link_1"
+      },
+      {
+        "name": "tst_link_2",
+        "code": "tst_static_link_2"
       }
     ],
     "containers": [
