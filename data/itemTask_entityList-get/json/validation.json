@@ -86,6 +86,48 @@
             "path": ""
           }
         ]
+      },
+      {
+        "type": "dynamic",
+        "name": "tst_span_cntr_1",
+        "entities": [
+          {
+            "name": "span_validation_test_1",
+            "code": "spanValidationTst1",
+            "path": ""
+          },
+          {
+            "name": "span_validation_test_2",
+            "code": "spanValidationTst2",
+            "path": ""
+          },
+          {
+            "name": "span_validation_test_3",
+            "code": "spanValidationTst3",
+            "path": ""
+          }
+        ]
+      },
+      {
+        "type": "dynamic",
+        "name": "tst_link_cntr_1",
+        "entities": [
+          {
+            "name": "link_validation_test_1",
+            "code": "linkValidationTst1",
+            "path": ""
+          },
+          {
+            "name": "link_validation_test_2",
+            "code": "linkValidationTst2",
+            "path": ""
+          },
+          {
+            "name": "link_validation_test_3",
+            "code": "linkValidationTst3",
+            "path": ""
+          }
+        ]
       }
     ]
   }
