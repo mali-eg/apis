@@ -95,8 +95,8 @@
               "type": "regex",
               "regex": "([A-Z])\\w+",
               "returnValue": "false",
-              "messageKey":"validate message key",
-              "messageType":"negativeInfo"
+              "messageKey": "validate message key",
+              "messageType": "negativeInfo"
             }
           ]
         },
@@ -106,8 +106,8 @@
               "type": "regex",
               "regex": "([A-Z])\\w+",
               "returnValue": "false",
-              "messageKey":"validate message key",
-              "messageType":"negativeInfo"
+              "messageKey": "validate message key",
+              "messageType": "negativeInfo"
             }
           ]
         },
@@ -203,6 +203,17 @@
         },
         "selectDefault": {
           "rules": []
+        }
+      },
+      {
+        "name": "tst_textarea_2",
+        "enabled": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
+            }
+          ]
         }
       }
     ]

@@ -57,6 +57,27 @@
       {
         "name": "tst_link_2",
         "code": "tst_static_link_2"
+      },
+      {"name": "checkbox03",
+        "code": "ck03"
+      },
+      {
+        "name": "tst_textbox_1"
+      },
+      {
+        "name": "tst_textbox_2"
+      },
+      {
+        "name":"tst_textarea_1"
+      },
+      {
+        "name":"tst_textarea_2"
+      },
+      {
+        "name":"tst_password_1"
+      },
+      {
+        "name":"tst_password_2"
       }
     ],
     "containers": [
