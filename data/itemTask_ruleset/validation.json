@@ -215,6 +215,17 @@
             }
           ]
         }
+      },
+      {
+        "name": "tst_datepicker_1",
+        "mandatory": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        }
       }
     ]
   }
