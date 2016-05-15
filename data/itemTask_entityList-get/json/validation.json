@@ -78,6 +78,27 @@
       },
       {
         "name":"tst_password_2"
+      },
+      {
+        "name":"tst_togglebutton_1"
+      },
+      {
+        "name":"tst_togglebutton_2"
+      },
+      {
+        "name":"tst_togglebutton_3"
+      },
+      {
+        "name":"tst_button_1"
+      },
+      {
+        "name":"tst_button_2"
+      },
+      {
+        "name":"tst_datepicker_1"
+      },
+      {
+        "name":"tst_datepicker_2"
       }
     ],
     "containers": [
