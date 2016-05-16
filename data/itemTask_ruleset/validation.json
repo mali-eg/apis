@@ -49,7 +49,6 @@
               "condition": "tst_textbox_2 == 'enable 1'",
               "returnValue": "true"
             },
-
             {
               "type": "condition",
               "condition": "tst_checkbox_cntr_1_1 == true",
@@ -61,8 +60,8 @@
             }
           ]
         },
-        "validateOnTab":{
-          "rules":[
+        "validateOnTab": {
+          "rules": [
             {
               "type": "condition",
               "condition": "tst_textbox_1 == 'not valid'",
@@ -76,27 +75,25 @@
         }
       },
       {
-        "name":"tst_textarea_1",
-        "mandatory":{
-          "rules":[
+        "name": "tst_textarea_1",
+        "mandatory": {
+          "rules": [
             {
-              "type":"static",
-              "returnValue":"true"
+              "type": "static",
+              "returnValue": "true"
             }
-
           ]
         }
       },
       {
-        "name":"tst_textarea_2",
-        "mandatory":{
-          "rules":[
+        "name": "tst_textarea_2",
+        "mandatory": {
+          "rules": [
             {
-              "type":"condition",
-              "condition":"tst_checkbox_2 == true",
-              "returnValue":"true"
+              "type": "condition",
+              "condition": "tst_checkbox_2 == true",
+              "returnValue": "true"
             }
-
           ]
         }
       },
@@ -107,6 +104,19 @@
             {
               "type": "condition",
               "condition": "tst_checkbox_2 == false",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "condition",
+              "condition": "tst_checkbox_2 == true",
+              "returnValue": "true"
+            },
+            {
+              "type": "static",
               "returnValue": "false"
             }
           ]
@@ -164,15 +174,14 @@
         }
       },
       {
-        "name":"tst_button_1",
-        "enabled":{
-          "rules":[
+        "name": "tst_button_1",
+        "enabled": {
+          "rules": [
             {
-              "type":"condition",
-              "condition":"tst_tab_2 == true",
-              "returnValue":"false"
+              "type": "condition",
+              "condition": "tst_tab_2 == true",
+              "returnValue": "false"
             }
-
           ]
         }
       },
