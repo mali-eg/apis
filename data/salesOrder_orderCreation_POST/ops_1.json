@@ -24,7 +24,8 @@
             "desc": "New Private Customer Mobile Postpaid Activation",
             "type": "activation",
             "category": "post-pay",
-            "status": "draft"
+            "status": "draft",
+            "groupItemID" : "12345678"
           }
         ]
       }
