@@ -3,16 +3,17 @@
     "-xmlns": "http://group_vodafone_com/EnterpriseObjects/Core/VBO/BSS/Validation/ItemTasks/V1",
     "items": [
       {
-        "name": "checkbox00",
+        "name": "tst_checkbox_cntr_1_1",
         "enabled": {
           "rules": [
             {
-              "type": "conditionBased",
-              "condition": "checkbox01 == true",
+              "type": "condition",
+              "condition": "tst_checkbox_cntr_1_2 == true",
               "returnValue": "false"
             },
             {
-              "type": "static",
+              "type": "condition",
+              "condition": "tst_checkbox_1 == true",
               "returnValue": "true"
             }
           ]
@@ -20,67 +21,38 @@
         "visible": {
           "rules": [
             {
-              "type": "conditionBased",
-              "condition": "checkbox02 == true",
+              "type": "condition",
+              "condition": "tst_checkbox_cntr_1_3 == true",
               "returnValue": "false"
-            },
-            {
-              "type": "static",
-              "returnValue": "true"
             }
           ]
         },
         "select": {
           "rules": [
             {
-              "type": "conditionBased",
-              "condition": "checkbox03 == true",
+              "type": "condition",
+              "condition": "tst_checkbox_1 == true",
               "returnValue": "true"
             }
           ]
         },
         "selectDefault": {
-          "rules": [
-            {
-              "type": "static",
-              "returnValue": "false"
-            }
-          ]
+          "rules": []
         }
       },
       {
-        "name": "textbox00",
+        "name": "tst_textbox_1",
         "enabled": {
           "rules": [
             {
-              "type": "conditionBased",
-              "condition": "textbox1 == 'no'",
-              "returnValue": "false"
-            },
-            {
-              "type": "static",
+              "type": "condition",
+              "condition": "tst_textbox_2 == 'enable 1'",
               "returnValue": "true"
-            }
-          ]
-        },
-        "visible": {
-          "rules": [
-            {
-              "type": "conditionBased",
-              "condition": "textbox2 == 'no'",
-              "returnValue": "false"
             },
+
             {
-              "type": "static",
-              "returnValue": "true"
-            }
-          ]
-        },
-        "mandatory": {
-          "rules": [
-            {
-              "type": "conditionBased",
-              "condition": "textbox3 == 'yes'",
+              "type": "condition",
+              "condition": "tst_checkbox_cntr_1_1 == true",
               "returnValue": "true"
             },
             {
@@ -89,130 +61,118 @@
             }
           ]
         },
-        "validate": {
-          "rules": [
+        "validateOnTab":{
+          "rules":[
             {
-              "type": "regex",
-              "regex": "([A-Z])\\w+",
-              "returnValue": "false",
-              "messageKey": "validate message key",
-              "messageType": "negativeInfo"
-            }
-          ]
-        },
-        "validateOnTab": {
-          "rules": [
-            {
-              "type": "regex",
-              "regex": "([A-Z])\\w+",
-              "returnValue": "false",
-              "messageKey": "validate message key",
-              "messageType": "negativeInfo"
-            }
-          ]
-        },
-        "select": {
-          "rules": [
-            {
-              "type": "conditionBased",
-              "condition": "checbox_validation_test_3 == true",
-              "returnValue": "data from the validation"
-            }
-          ]
-        },
-        "selectDefault": {
-          "rules": [
+              "type": "condition",
+              "condition": "tst_textbox_1 == 'not valid'",
+              "returnValue": "false"
+            },
             {
               "type": "static",
-              "returnValue": "select default string"
+              "returnValue": "true"
             }
           ]
         }
       },
       {
-        "name": "checbox_validation_test_1",
+        "name":"tst_textarea_1",
+        "mandatory":{
+          "rules":[
+            {
+              "type":"static",
+              "returnValue":"true"
+            }
+
+          ]
+        }
+      },
+      {
+        "name":"tst_textarea_2",
+        "mandatory":{
+          "rules":[
+            {
+              "type":"condition",
+              "condition":"tst_checkbox_2 == true",
+              "returnValue":"true"
+            }
+
+          ]
+        }
+      },
+      {
+        "name": "tst_togglebutton_1",
         "enabled": {
           "rules": [
             {
-              "type": "conditionBased",
-              "condition": "checbox_validation_test_2",
+              "type": "condition",
+              "condition": "tst_checkbox_2 == false",
               "returnValue": "false"
             }
           ]
-        },
-        "visible": {
-          "rules": [
-            {
-              "type": "static",
-              "returnValue": "true"
-            }
-          ]
-        },
-        "select": {
-          "rules": []
-        },
-        "selectDefault": {
-          "rules": []
         }
       },
       {
-        "name": "checbox_validation_test_2",
-        "enabled": {
-          "rules": [
-            {
-              "type": "static",
-              "returnValue": "true"
-            }
-          ]
-        },
-        "visible": {
-          "rules": [
-            {
-              "type": "static",
-              "returnValue": "true"
-            }
-          ]
-        },
+        "name": "tst_radiobutton_cntr_1_1",
         "select": {
-          "rules": []
-        },
-        "selectDefault": {
-          "rules": []
-        }
-      },
-      {
-        "name": "checbox_validation_test_3",
-        "enabled": {
           "rules": [
             {
-              "type": "static",
-              "returnValue": "true"
-            }
-          ]
-        },
-        "visible": {
-          "rules": [
+              "type": "condition",
+              "condition": "tst_radiobutton_cntr_1_2 == true",
+              "returnValue": "false"
+            },
             {
-              "type": "static",
-              "returnValue": "true"
-            }
-          ]
-        },
-        "select": {
-          "rules": []
-        },
-        "selectDefault": {
-          "rules": []
-        }
-      },
-      {
-        "name": "tst_textarea_2",
-        "enabled": {
-          "rules": [
-            {
-              "type": "static",
+              "type": "condition",
+              "condition": "tst_radiobutton_cntr_1_3 == true",
               "returnValue": "false"
             }
+          ]
+        }
+      },
+      {
+        "name": "tst_radiobutton_cntr_1_2",
+        "select": {
+          "rules": [
+            {
+              "type": "condition",
+              "condition": "tst_radiobutton_cntr_1_1 == true",
+              "returnValue": "false"
+            },
+            {
+              "type": "condition",
+              "condition": "tst_radiobutton_cntr_1_3 == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tst_radiobutton_cntr_1_3",
+        "select": {
+          "rules": [
+            {
+              "type": "condition",
+              "condition": "tst_radiobutton_cntr_1_1 == true",
+              "returnValue": "false"
+            },
+            {
+              "type": "condition",
+              "condition": "tst_radiobutton_cntr_1_2 == true",
+              "returnValue": "false"
+            }
+          ]
+        }
+      },
+      {
+        "name":"tst_button_1",
+        "enabled":{
+          "rules":[
+            {
+              "type":"condition",
+              "condition":"tst_tab_2 == true",
+              "returnValue":"false"
+            }
+
           ]
         }
       },
