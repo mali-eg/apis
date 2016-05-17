@@ -27,6 +27,18 @@
         "code": "tb04"
       },
       {
+        "name": "tst_selectmenu_1",
+        "code": "s01"
+      },
+      {
+        "name": "tst_selectmenu_2",
+        "code": "s02"
+      },
+      {
+        "name": "tst_selectmenu_3",
+        "code": "s02"
+      },
+      {
         "name": "tst_checkbox_1",
         "code": "chkStaticValidationTst1"
       },

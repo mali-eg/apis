@@ -140,40 +140,6 @@
         }
       },
       {
-        "name": "tst_radiobutton_cntr_1_2",
-        "select": {
-          "rules": [
-            {
-              "type": "condition",
-              "condition": "tst_radiobutton_cntr_1_1 == true",
-              "returnValue": "false"
-            },
-            {
-              "type": "condition",
-              "condition": "tst_radiobutton_cntr_1_3 == true",
-              "returnValue": "false"
-            }
-          ]
-        }
-      },
-      {
-        "name": "tst_radiobutton_cntr_1_3",
-        "select": {
-          "rules": [
-            {
-              "type": "condition",
-              "condition": "tst_radiobutton_cntr_1_1 == true",
-              "returnValue": "false"
-            },
-            {
-              "type": "condition",
-              "condition": "tst_radiobutton_cntr_1_2 == true",
-              "returnValue": "false"
-            }
-          ]
-        }
-      },
-      {
         "name": "tst_button_1",
         "enabled": {
           "rules": [
@@ -192,6 +158,31 @@
             {
               "type": "static",
               "returnValue": "true"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tst_selectmenu_1",
+        "selectList": {
+          "rules": [
+            {
+              "type": "static",
+              "valueList": {
+                "values": [
+                  "Mr",
+                  "MS",
+                  "MRS"
+                ]
+              }
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "Mr"
             }
           ]
         }
