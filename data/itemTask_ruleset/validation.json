@@ -178,7 +178,7 @@
             }
           ]
         },
-        "select": {
+        "selectDefault": {
           "rules": [
             {
               "type": "static",
