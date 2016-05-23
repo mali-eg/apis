@@ -121,6 +121,15 @@
       },
       {
         "name": "tst_tab_3"
+      },
+      {
+        "name":"tst_radio_btn_1"
+      },
+      {
+        "name":"tst_radio_btn_2"
+      },
+      {
+        "name":"tst_radio_btn_3"
       }
     ],
     "containers": [

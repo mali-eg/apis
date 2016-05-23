@@ -186,6 +186,33 @@
             }
           ]
         }
+      },
+      {
+        "name": "tst_radio_btn_2",
+        "enabled": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "visible": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        }
       }
     ]
   }
