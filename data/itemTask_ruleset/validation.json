@@ -60,6 +60,30 @@
             }
           ]
         },
+        "editable": {
+          "rules": [
+            {
+              "type": "condition",
+              "condition": "tst_checkbox_cntr_1_1 == true",
+              "returnValue": "false"
+            },
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "validate": {
+          "rules": [
+            {
+              "type": "regex",
+              "regex": ".{30,}",
+              "returnValue": "false",
+              "messageType": "negativeInfo",
+              "messageKey": "more than 30 character!"
+            }
+          ]
+        },
         "validateOnTab": {
           "rules": [
             {
@@ -72,6 +96,22 @@
               "returnValue": "true"
             }
           ]
+        },
+        "mandatory": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "select": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
+            }
+          ]
         }
       },
       {
@@ -80,7 +120,9 @@
           "rules": [
             {
               "type": "static",
-              "returnValue": "true"
+              "returnValue": "true",
+              "messageType": "positiveInfo",
+              "messageKey": "successMessageIsHere"
             }
           ]
         }
@@ -93,6 +135,14 @@
               "type": "condition",
               "condition": "tst_checkbox_2 == true",
               "returnValue": "true"
+            }
+          ]
+        },
+        "editable": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
             }
           ]
         }
@@ -156,6 +206,25 @@
         "mandatory": {
           "rules": [
             {
+              "type": "condition",
+              "condition": "tst_selectmenu_1=='Mr'",
+              "returnValue": "true",
+              "messageType": "negativeInfo",
+              "messageKey": "needs to be filed"
+            }
+          ]
+        },
+        "editable": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "false"
+            }
+          ]
+        },
+        "visible": {
+          "rules": [
+            {
               "type": "static",
               "returnValue": "true"
             }
@@ -167,22 +236,88 @@
         "selectList": {
           "rules": [
             {
+              "type": "condition",
+              "condition": "tst_checkbox_cntr_1_1 == true",
+              "valueList": [
+                {
+                  "values": ""
+                },
+                {
+                  "values": "value02"
+                },
+                {
+                  "values": "value03"
+                }
+              ],
+              "valueListDefault": ""
+            },
+            {
               "type": "static",
-              "valueList": {
-                "values": [
-                  "Mr",
-                  "MS",
-                  "MRS"
-                ]
-              }
+              "valueList": [
+                {
+                  "values": "Mr"
+                },
+                {
+                  "values": "MS"
+                },
+                {
+                  "values": "MRS"
+                }
+              ],
+              "valueListDefault": "Mr"
             }
           ]
         },
         "selectDefault": {
           "rules": [
+          ]
+        }
+      },
+      {
+        "name": "tst_selectmenu_2",
+        "selectList": {
+          "rules": [
             {
               "type": "static",
-              "returnValue": "Mr"
+              "valueList": [
+                {
+                  "values": "Mr"
+                },
+                {
+                  "values": "MS"
+                },
+                {
+                  "values": "MRS"
+                }
+              ]
+            }
+          ]
+        },
+        "mandatory": {
+          "rules": [
+            {
+              "type": "condition",
+              "condition": "tst_selectmenu_1=='Mr'",
+              "returnValue": "true",
+              "messageType": "negativeInfo",
+              "messageKey": "needs to be filed"
+            }
+          ]
+        },
+        "visible": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        },
+        "enabled": {
+          "rules": [
+            {
+              "type": "condition",
+              "condition": "tst_selectmenu_1 == 'MS'",
+              "returnValue": "false"
             }
           ]
         }
@@ -205,6 +340,17 @@
             }
           ]
         },
+        "selectDefault": {
+          "rules": [
+            {
+              "type": "static",
+              "returnValue": "true"
+            }
+          ]
+        }
+      },
+      {
+        "name": "tst_radiobutton_1",
         "select": {
           "rules": [
             {
